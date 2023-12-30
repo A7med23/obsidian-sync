@@ -134,7 +134,7 @@ Meky Joker senic shahyn (mention wegz being the smartest)
 
 Asateer felseen
 
-******
+*****
 
 They think they playing god
 Fuckers forgot we bleed the same blood
