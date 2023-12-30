@@ -1,3 +1,4 @@
+<<<<<<< main
 
 Test 123
 Given them the ace on them to play hand
@@ -6,6 +7,13 @@ When they gove you medals, know its not for you
 
 
 *Prod idea* -> “sounds of brakes throughout song where beat slows down or i stop speaking or smth until a point where i dont or beat doesnt die and the brakes are followed by a crash”
+=======
+Given them the ace on them to play hand
+
+When they give you medals, know its not for you
+
+*Prod idea* -> “sounds of brakes throughout song where beat slows down or i stop speaking or smth until a point where I dont or beat doesnt die and the brakes are followed by a crash”
+>>>>>>> origin/main
 
 LAST EP WILL BE “LOST CAUSE”
 
@@ -20,8 +28,6 @@ Last lyric in the outro “might randomly die might be my goodbye” song name �
   
 
 FIRST EP IS BPD “Single is Hate you Dont leave”
-
-  
 
 *words for bpd*
 
