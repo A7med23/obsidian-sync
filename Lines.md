@@ -140,6 +140,7 @@ They think they playing god
 Fuckers forgot we bleed the same blood
 
 See u in the day’s haze
+(Dancing in the kitchen in the day’s haze)
 U could call me heydaze
 I could call u my new religion
 
