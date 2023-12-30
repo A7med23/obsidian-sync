@@ -136,7 +136,11 @@ Asateer felseen
 
 ******
 
-  
+They think they playing god
+Fuckers forgot we bleed the same blood
+
+See u in the day’s haze
+U could call me heydaze
 
 I gave you the world while mine collapsed. Dont you dare utter about loyalty to me
 
