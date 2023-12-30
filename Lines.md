@@ -141,6 +141,7 @@ Fuckers forgot we bleed the same blood
 
 See u in the day’s haze
 U could call me heydaze
+I could call u my new religion
 
 I gave you the world while mine collapsed. Dont you dare utter about loyalty to me
 
