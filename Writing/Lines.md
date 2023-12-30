@@ -1,4 +1,4 @@
-Given them the ace on them tj play habd
+Given them the ace on them to play hand
 
 
 
