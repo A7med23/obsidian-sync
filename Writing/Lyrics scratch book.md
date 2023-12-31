@@ -1368,39 +1368,22 @@ Hear you in my thoughts
   
 
 Not a peoduct of you ‘n aint you
-
 Might be a product of you but i aint you
-
 Might be a product of you and might be you
-
 But i pray my awareness saves me
-
 Pray i find someone like you found
-
 Pray i see the good in them and cherish it
-
 Pray i get to shut the flood gates keepin me up at night
-
 Pray i could raise kids and give em my might’’
-
 Pray i could make em use it to flourish
-
 And not fight’’
-
 for their sanity
-
 Watch them shine so bright
-
 Like i couldve
-
 And not remind them everyday of what wouldve
-
 Pray i learn to stop bbefore its too late
-
 Think a thousand times before i spew out hate
-
 Pray i dont have to live holding on to a dagger in too deep ‘n its too late
-
 to pull it out
 
   
@@ -1418,67 +1401,46 @@ I wanna live not just survive
   
 
 Id say i hate you from my heart but i aint got one
-
 Hate you from the depths of the void in my chest
 
   
 
 You think you know heartbreak?
-
 Fuck a lover, its when your wake up call
-
 Is you being alone in your fall
 
   
 
 Shoulders heavy yea
-
 But from the weight of this crown on mah head
 
   
 
 Changed who i am to please who youve always been and will always be
-
 Changed what i do
-
 Changed my company
-
 Changed my activities
-
 Still lost
-
 Still angry
-
 Still
-
 Still
-
 Still am to blame
-
 Guess the more things change the more they stay the same
 
   
 
 Trust me is better if i don’t face my demons
-
 Cause if i do, ill have my reason
-
 To make you pay for all the treason
-
 Let the dark deepen
-
 Its murder season
 
   
 
 I hide behind humor put on a smile like a curtain
-
 The more you see me laugh the more you should know that im hurtin
-
 Lived my life tryin not to be another burden
-
 Worst you coulda done… was make me feel like one
-
 Scorched all my bridges and with you want me share them?
 
   
@@ -1494,15 +1456,12 @@ Am the load in the dice
   
 
 God always gives us a mirror to look at
-
 Doesnt have to be hanging from the wall
-
 Could be standing face to face with u in a hall
 
   
 
 You were so easy to love
-
 But i guess our love wasnt enough
 
   
@@ -1516,23 +1475,18 @@ A fish cant teach a bird how to fly
   
 
 Watched needles shot up veins
-
 Watched people shot up friends
 
   
 
 Going through cycles
-
 Peaks and rock bottoms
-
 Never broken just bent
-
 ‘n Now am hell bent
 
   
 
 This aint a clash of titans
-
 Im smashin your giants
 
   
@@ -1546,13 +1500,11 @@ Marching to the ending with longer strides
   
 
 Fallin off the wagon.. beggin
-
 u to stay
 
   
 
 Thought i was at the top of my world
-
 Turns out i was stuck in a basement
 
   
@@ -1562,13 +1514,11 @@ The inly thing consistent in my life is the screen time notification i get every
   
 
 Dont need to love myself i do
-
 I need to learn how to stop hatin it too
 
   
 
 I stare into the night and wonder
-
 If forever alone ill wander
 
   
@@ -1582,7 +1532,6 @@ No face for you to save, hannible
   
 
 Loose if a
-
 Lucifer
 
   
@@ -1608,27 +1557,22 @@ Askin me to heal, done deed but im scarred
   
 
 The wounds left scars
-
 The less i treated em the worse the scars
 
   
 
 Im a lost boy
-
 Not from neverland
 
   
 
 Goes the clock
-
 Eyes locked
-
 Everyone watching room’s full o’ hawks
 
   
 
 Lost it all
-
 Looking the fall in the eyes
 
   
@@ -1638,15 +1582,12 @@ DONT MAKE ME FACE MY DEMONS
   
 
 Fucker’s at the back of my head
-
 Tellin me this aint the end
 
   
 
 I treat people like these(theeez) beats(beeets)
-
 Switch up on them (ooown em)
-
 *alternate between random flows, including fast and long O*
 
   
@@ -1656,27 +1597,20 @@ Looking at my years like they’re running out (or I’m out of them)
   
 
 A burst of happiness
-
 Now in hits the loneliness
-
 In come the voices (vo-voices)
-
 Tellin me im useless(use-useless)
 
   
 
 Im not fine
-
 And I hate you but i want you to care
 
   
 
 Thought you were my heaven on earth
-
 But all o’ ma skeletons you’ve unearthed
-
 Thought my kids by you will be birthed
-
 But now that image’s so cursed
 
   
@@ -1686,7 +1620,6 @@ No apologies, nah fuckers am not sorry
   
 
 Aint actin victim but i also aint the attacker(attakah)
-
 Yet ive always been the victor(viktah)
 
   
