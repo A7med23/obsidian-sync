@@ -3,9 +3,7 @@ stacked but i feel broke
 En inside
 Been divide
 Ed inside torn apart
-Bleed my heart
-
-Out
+Bleed my heart Out
 
 Semicol on my middle finger movin on fuck you
 (Thats how to fix the syllable problem in it)
