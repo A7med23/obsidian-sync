@@ -1,5 +1,12 @@
 
+Two o (20)
+They were right saying dont meet your hero
+And to S sorry I had to let you go
 
+21 
+smth smth done
+
+22, 23, 24 the hell am i even doing this fir anymore
 
 The past few years been really rough on me
 Pushed through them with quite the difficulty
