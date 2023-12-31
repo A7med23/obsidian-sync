@@ -1692,19 +1692,12 @@ Yet ive always been the victor(viktah)
   
 
 *talking to my brain*
-
 All i wanted was to save you
-
 I know
-
 To protect you
-
 I know
-
 But look at me now
-
 Allergic to love
-
 To anybody’s touch
 
   
