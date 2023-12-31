@@ -1,4 +1,8 @@
 
+
+Semicol on my middle finger movin on fuck you
+(Thats how to fix the syllable problem in it)
+
 Given them the ace on them to play hand
 
 When they gove you medals, know its not for you
