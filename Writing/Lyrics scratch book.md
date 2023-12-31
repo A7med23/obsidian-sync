@@ -138,6 +138,8 @@ Asateer felseen
 They think they playing god
 Fuckers forgot we bleed the same blood
 
+There will be a time that’s the last youre ever thought of
+
 See u in the day’s haze
 (Dancing in the kitchen in the day’s haze)
 U could call me heydaze
