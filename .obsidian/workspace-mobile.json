@@ -13,13 +13,30 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Writing/Lines.md",
-                "mode": "source",
+                "file": "Writing/Lyrics scratch book.md",
+                "mode": "preview",
                 "source": false
               }
             }
+          },
+          {
+            "id": "59c3ecfad5737b8e",
+            "type": "leaf",
+            "state": {
+              "type": "graph",
+              "state": {}
+            }
+          },
+          {
+            "id": "cb9e282d6430a64a",
+            "type": "leaf",
+            "state": {
+              "type": "graph",
+              "state": {}
+            }
           }
-        ]
+        ],
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -85,7 +102,6 @@
         "state": {
           "type": "backlink",
           "state": {
-            "file": "Writing/Lines.md",
             "collapseAll": false,
             "extraContext": false,
             "sortOrder": "alphabetical",
@@ -102,7 +118,6 @@
         "state": {
           "type": "outgoing-link",
           "state": {
-            "file": "Writing/Lines.md",
             "linksCollapsed": false,
             "unlinkedCollapsed": true
           }
@@ -113,9 +128,7 @@
         "type": "leaf",
         "state": {
           "type": "outline",
-          "state": {
-            "file": "Writing/Lines.md"
-          }
+          "state": {}
         }
       }
     ],
@@ -131,10 +144,17 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "516f0f6bccbcc856",
+  "active": "cb9e282d6430a64a",
   "lastOpenFiles": [
+    "Writing/Lyrics scratch book.md",
     "Writing/Bandage.md",
     "Writing/Lines.md",
+    "Systems",
+    "Systems/Linux/Apps.md",
+    "Systems/Linux/Todo list for Linux.md",
+    "Systems/Linux/Linux.md",
+    "Systems/Linux",
+    "Writing/Writing.md",
     "Lines.md",
     "Writing",
     "Writing/Odds are lyrics.md",
