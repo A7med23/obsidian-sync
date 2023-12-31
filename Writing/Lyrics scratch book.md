@@ -156,7 +156,6 @@ I gave you the world while mine collapsed. Dont you dare utter about loyalty to 
   
 
 Teat me like mekamuru
-
 Fix me just to tear me apart again
 
   
@@ -182,13 +181,11 @@ The help im getting is losing the race against my failing mind
   
 
 He’s smart he’s angry
-
 Put that shit together you stay the fuck out the way
 
   
 
 Go back to your bathroom and shit some more
-
 Cause ure still full of it
 
   
@@ -198,13 +195,11 @@ No one will ever know the violence it took to be this gentle
   
 
 A star that once pierced the darkness
-
 Becomes the darkness
 
   
 
 When life gives tou lemons huh?
-
 Well life never gave lemons
 
   
@@ -218,31 +213,26 @@ Standing in the ashes of who i used to be
   
 
 Compartmentalizing the pain
-
 Living in the distraction
 
   
 
 My anger aint dying with me
-
 You cant stop whats coming for you
 
   
 
 Only time i feel in control is when im gripping your steering wheel
-
 Burying the pedal hoping it buries me
 
   
 
 You never loved me
-
 Im just an extension of your own ego
 
   
 
 Now you see me standing but you havent seen my falls
-
 Now you hear my engine roar but you havent seen the stalls
 
   
@@ -278,7 +268,6 @@ F u hoe
   
 
 Situation’s dire
-
 My exhaust’s on fire
 
   
@@ -292,7 +281,6 @@ Loudest one in the room yet the loneliest
   
 
 Im on the road now more than im home
-
 Still i find its only you on my mind
 
   
@@ -352,9 +340,7 @@ A twisted realm of emotions
   
 
 Know i look like an angel but this halo can get very dark
-
 Watch out cause you i wouldnt hesitate to slay
-
 This aint satire, this aint south park (MMMKAAYYY) *play the professor’s sound
 
   
@@ -372,9 +358,7 @@ Deep angry red pulsating with unknown energy
   
 
 Got demons have em in chains
-
 Dont lemme u leash
-
 These hell hounds soulbound
 
   
@@ -396,9 +380,7 @@ Why did you shoot him 14 times? I ran out of ammo
   
 
 Saw the chord give life to a newborn
-
 Saw it take life from the mother and give it to him
-
 And saw it choke the life outta him
 
   
@@ -464,9 +446,7 @@ Gaslight till burned out feelin like a blunt
   
 
 Got demons, only they are allowed to hurt me
-
 Touch me and theyll burn thee
-
 Theyll turn on you, burn you, if u even think of touchin me
 
   
@@ -480,15 +460,12 @@ Are we so helpless against the tide
   
 
 The inly thing seperating us is a few choices
-
 Some made by us some made for us
 
   
 
 Tell me i could be happy, i could be content
-
 But that aint the real me, just a glimpse of what coulda been
-
 The real me’s bitter and ugly
 
   
@@ -498,9 +475,7 @@ Why build us up yo crumble and fall
   
 
 Each new face letting me know again its real
-
 Each sad expression a tiny echo of the pain inside
-
 The pain hit me again, this time without the anesthesia of shock
 
   
@@ -510,13 +485,11 @@ The world has taken too much from you for you to be considered a child
   
 
 I came in peace
-
 You came in wrecking like Miley
 
   
 
 I wonder where you are
-
 I wonder where you’re going (the kids grandma)
 
   
@@ -530,9 +503,7 @@ To fight monsters, we created monsters of our own
   
 
 Kept raising didnt wanna fold on you
-
 Was forced to all in and the hand you gave me was a seven deux
-
 Y dealt me a sept duex ‘n i still all inned for u
 
   
@@ -542,7 +513,6 @@ Its lonely when ure mind’s a pot spitting meals others dunno how to taste
   
 
 Depression collapses time
-
 You find your whole days blending together into one endless suffocating loop
 
   
@@ -552,15 +522,12 @@ How many friendly smiles seen turn into flowers in front of a tombstone 
   
 
 Did i fly too high
-
 Is this my fall from grace
-
 Or was i never up there in the first place
 
   
 
 Got lost trynna save what we have
-
 Tried finding me afterwards lost you in the process
 
   
@@ -578,27 +545,20 @@ Ashes of my passions
   
 
 Thought id see you again
-
 Now i cant bare the pain
-
 Going insane
 
   
 
 How do you cope
-
 When all they gave you was hope
-
 Just to snatch it away with ur soul
 
   
 
 Y’all haters are heathens
-
 Wouldn’t believe even if i split you see (moses splitting the sea)
-
 Drown you in your sorrows
-
 Youre the slaves you aint no pharoahs
 
   
@@ -612,35 +572,28 @@ Livin on autopilot missed tge exit
   
 
 Cant fix broken people
-
 You either fix a bird’s wing and it flies
-
 Or you don’t and in your hands it dies
 
   
 
 Filled everyone’s cup now am feeling empty
-
 Now that I’ve dried up now they’re getting angry
-
 *word play on bartender ‘tender’*
 
   
 
 A lifetime filling cups feelin empty
-
 Day in day out battling anxi
 
   
 
 All those sticks
-
 Its hard to taste the carrot
 
   
 
 Spent nights waiting for a name with a ringtone
-
 It came too late my screen was already shattered
 
   
@@ -650,41 +603,29 @@ Write song about psychosis and use jinx
   
 
 Dead man walking 
-
 My dead friend’s talkin
 
   
 
 Sittin by your grave
-
 For this day I was never ready
-
 Living my life trynna leave a legacy
-
 The weights are getting heavy
-
 And i look at you and i wonder
-
 You were loved dearly
-
 But now youre gone and the wind blew
-
 And every string you wove fell through
-
 Is it all really worth this entropy
 
   
 
 Aint no monsters under the bed
-
 All hiding up in my head
 
   
 
 These demons might be haunting me
-
 But they still answer to me 
-
 If i unleash it will be ugly
 
   
@@ -694,27 +635,20 @@ Face the wrath of the real of me
   
 
 I love you but i dont wanna pass down what was passed tk me
-
 If i somehow someday resolve them id love to have you definitely 
 
   
 
 Fell in love at first site and you too (U2 adlib)
-
 Every dog on the street
-
 Knew we were in love with defeat
 
   
 
 Great art comes from great pain
-
 But at that point whats there to gain
-
 Other than fortune and fame
-
 And when its too much and u’re going insane
-
 *And when im at the all time low mentally
 Do i try to fix the thing that got me he
 
