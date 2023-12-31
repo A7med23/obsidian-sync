@@ -715,72 +715,57 @@ Other than fortune and fame
 
 And when its too much and u’re going insane
 
-**And when im at the all time low mentally
+*And when im at the all time low mentally
+Do i try to fix the thing that got me he
 
-Do i try to fix the thing that got me he**
-
-  
+	
 
 Everything ive done was to make you happy 
 
   
 
 and smiley
-
 All youve done was come in wrecking like miley
 
   
 
 You gambled and lost the bet
-
 And now ure here full of regret
 
   
 
 Screamed my fucking lungs out
-
 Yet the sincerity of my pain you still doubt
 
   
 
 Was born with a gift
-
 That would later be my curse
 
   
 
 Made my own make believe
-
 Dragged myself into it for relief
-
 My brother grew order and i felt responsibility
-
 Snapped myself back to reality
-
 Knowing how hard it will be
-
 To face this choas around me
 
   
 
 Cut throat
-
 Hang you like a raincoat 
 
   
 
 Heart’s bleeding out with every beat *repeated from below but variation*
-
 Lungs’ suffocating with your every word
 
   
 
 Lemme carry this future convo right now
-
 My life’s turned full circle from all the corners I’ve cut for you
-
 Stuck in a damned cycle trying to please you
-
 Then I spiraled out of control ‘n what did you do
 
   
@@ -790,19 +775,14 @@ Lift me up then throw me like you did him
   
 
 Everything’s out the window now
-
 What hanger are u gonna hang now
-
 Who’re u gonna blame now
 
   
 
 If this wound heals without you
-
 If a scar puts it back together and makes me someone new
-
 Would say we’ll regret it but honestly
-
 Itll only be me cause ‘course aint nothing wrong with what you do
 
   
@@ -812,13 +792,11 @@ My compromise has been taken for weakness for far too long
   
 
 Care for the clock
-
 Tick tock
 
   
 
 So far from being broke ye
-
 But so fucking far from bein’ okay
 
   
@@ -828,7 +806,6 @@ Weight on my shoulder’s to heavy that my eyelids are too hard to lift up in th
   
 
 Everything i had all gone
-
 Lost in a war targon
 
   
@@ -838,31 +815,24 @@ Dancing to the beats of war
   
 
 Remember
-
 Ecochamber
 
   
 
 The slightest demon bothering me
-
 Could burn your whole family tree
-
 Am a wolf (ref to zayde wolf ‘gladiator’)
-
 Spent too much money on a therapist
-
 Couldnt fix me I accepted it
 
   
 
 for you, everything i was ready to sacrifice
-
 But no matter what i do it just never sufficed
 
   
 
 alone
-
 At all
 
   
@@ -872,41 +842,33 @@ A childhood spent in vain
   
 
 The pot’s brewin off the fire you lit
-
 And all uve done to fix it was abandon it
-
 Well it didnt go off and now youre facing it
 
   
 
  My heart’s as empty as this hall see (halsey)
-
 Someone will love you but someone isnt me
 
   
 
 Heart’s bleeding with every beat
-
 Still fighting after the screen’s said defeat
 
   
 
 Met so
-
 Schizo
-
 Meds o
 
   
 
 Please fail me not
-
 Ive given all that i got
 
   
 
 Wont spend my last breath
-
 Building a monolith
 
   
@@ -916,11 +878,8 @@ Lost ‘n found, nemo
   
 
 Trynna keep the ship from sinking
-
 But does it really matter
-
 Will the waves ever stop limping
-
 ‘N on the beach not splatter
 
   
@@ -932,59 +891,46 @@ The tension’s here bigger than donna and harvey
   
 
 Ill do you shady…
-
 … killshot
 
   
 
 You burned your bridges
-
 Why should i keep mine
 
   
 
 Last thing im holding in to now’s
-
 A candle in the sky for the lost ones
 
   
 
 This might not be escapism 
-
 But i dont wanna feel how my heart js rippin
 
   
 
 Ay ay captain
-
 Ill swallow it up again
-
 But this sponge’s boutta pop
 
   
 
 Spent the weekend in paris (pronounce it in french)
-
 The city’s gold ‘n empty
-
 It’s lights were blindin me
 
   
 
 Life is pain
-
 Everyday you spent and will spend’s in vain
-
 Nothing’s left to lose and nothing’s there to gain
-
 Not much mental left to retain
 
   
 
 Wasnt love that brought us together
-
 It was the pain
-
 ‘n when I healed her, we got severed
 
   
@@ -994,7 +940,6 @@ Your face cant stand these shoes
   
 
 Take your face off
-
 Leave u dead in a cage
 
   
@@ -1004,23 +949,18 @@ Legend of the fall (pitt)
   
 
 Strange how things got out of hand
-
 Not my first ‘n not the last verse
 
   
 
 Sin city’s cold ‘n empty
-
 Its light’s startin to blind me
 
   
 
 Living life in adversity
-
 Everything I’ve built
-
 Came in wreckin like Miley
-
 Survivin by the humor I find in tragedy
 
   
@@ -1032,55 +972,42 @@ Learned fear very early on
   
 
 Is this just panic 
-
 Or am j going manic
 
   
 
 Keep digging in my head
-
 Youll find a mind with no ore(mine)
 
   
 
 My compassion ‘n love 
-
 Put me in a deep trough
 
   
 
 A ship sailing in a grateful sea
-
 Sun setting
-
 One man crew
 
   
 
 A warrior i was born
-
 But of the chance of battle i was torn
-
 So I wage this war on my own
-
 Walk down this path all alone
 
   
 
 Moon by my side
-
 Lemme tell you a secret tonight
-
 This body’s but a facade
-
 To voices lurkin up inside
-
 My head lemme show you where they reside
 
   
 
 All i did with this shit was always swallow
-
 But in this misery i cant forever wallow
 
   
@@ -1092,37 +1019,29 @@ You aint dope but ill smoke you
   
 
 You see me standing in the light
-
 But you haven’t seen the darkness i came out of
-
 Saw the highest highs and the lowest lows
 
   
 
 When everyone’s making it worse,
-
 Even ones that want to help you
-
 Dont have a damn clue what to doe
 
   
 
 Seen all kinds of drugs from all kinds of outlets
-
 Needles lines ‘n pills
 
   
 
 Had em all at disposal
-
 Needle line or pill
-
 Never have never will
 
   
 
 Lonesome in dienfall
-
 Abandkned by the same people for whome every breath you take
 
   
@@ -1132,17 +1051,13 @@ This body’s a facade to the voices inside
   
 
 Sometimes to love someone
-
 You have ti be a stranger
 
   
 
 Think you scare me?
-
 Think you can challenge me?
-
 Bitch i call on the banshee(s)
-
 Late at night when it’s lonely
 
   
@@ -1150,25 +1065,15 @@ Late at night when it’s lonely
   
 
 *add jordan peterson intro of him saying you have ti be aware of how monsterous you can be*
-
 Gave you my trust but that opportunity you blew
-
 Had to show you the devil inside me can do
-
 Took off the last layer no one’s seen through
-
 Not leaving any perspectives for you to skew
-
 Go ahead cry around tellin em you knew
-
 All along thats who i am it was only overdue
-
 Might’ve given you love but after learnin smth new
-
 Not to have someone truly special
-
 All ingredients in this cauldron to brew(stew)
-
 Can keep steering with or without you
 
   
@@ -1180,17 +1085,13 @@ A  soldier ‘gainst paining drowning in his own
   
 
 Oh the eternity thought we’d spend together
-
 My bad only fools think anything lasts forever
 
   
 
 Dreams die in suffering and i lost mine
-
 Decided to carry the burden of helping those suffering
-
 And my own i dont really mind
-
 Maybe purpose or happiness there ill find
 
   
@@ -1198,17 +1099,13 @@ Maybe purpose or happiness there ill find
   
 
 Got any clue how much i gotta relearn?
-
 How many realities i needa discern
-
 Asking me how much trust’s there to earn?
 
   
 
 All you did was decieve
-
 Me and make me believe
-
 It’s forever and my dreams you ripped and cleave(d)
 
   
@@ -1216,31 +1113,20 @@ It’s forever and my dreams you ripped and cleave(d)
   
 
 I know the issue issue
-
 My world’s full of  color
-
 You live in black and white
-
 I either point at what you see white and we’re tight
-
 Or what i point at you see black 
-
 And here communication’s lack
 
   
 
 Spending years in someone’s shadow
-
 What did you expect that foreshadows?
-
 “Wasnt taught to calm”, well
-
 Was i taught not to yell
-
 Was i taught to not let loose to hell
-
 To not storm out after every fight
-
 Close the door sit alone turn off the light
 
   
@@ -1248,31 +1134,18 @@ Close the door sit alone turn off the light
   
 
 Now dont keep trying to get to my head
-
 Youre banging on lucifer’s den
-
 The door might break and there’s demons you really dont wanna meet then
-
 Battlin then daily and keeping it to myself
-
 Not much left here to mend
-
 Dont bother yourself
-
 Barrel to my head, heart on the trigger
-
 If i cant beat em i sure as hell aint joinin them
-
 I can point at my every mistake
-
 Can recite my every flow
-
 But keep sayin i act victim
-
 Cant say i dont care 
-
 Just got too little emotions left to share
-
 Suffocating the toxicity i can’t bear
 
   
@@ -1282,13 +1155,9 @@ Suffocating the toxicity i can’t bear
   
 
 Dont talk to me about my pace
-
 Been awake for days
-
 Hands still shaking
-
 Heart still aching
-
 Will seems to be breaking
 
   
@@ -1300,69 +1169,50 @@ ReChing out but they all seem ti be blind
   
 
 Keep saying im acting victim
-
 Words sound like theyre coming out a rectum
 
   
 
   
-
 Hand still shaking
-
 Heart/brain still aching
-
 Still facin demons
 
   
 
 My hands are shakin
-
 My heart’s still achin
-
 My will seems to be breakin
-
 But off the gas im never takin
-
 My leg off never brakin
 
   
 
 You sit and you wonder
-
 Where did it fall through
-
 where did you blunder
-
 Is it my bad letting my guard down
 
 Giving u control of your feelings
-
 Is my bad i didnt manipulate
-
 To every thought of my mine make you relate
-
 every thought of yours make you debate
-
 Bend and twist to latch you by a hook
 
   
 
 I look in the mirror i see you
-
 Talking to myself i hear you
-
 And it terrifies me
 
   
 
 Asking me why i dont try?
-
 A fish askin its neighbor why dont you fly
 
   
 
 See you in my mirrors
-
 Hear you in my thoughts
 
   
