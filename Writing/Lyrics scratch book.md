@@ -1818,6 +1818,7 @@ Wrapped u around it to tell a tale
 That’ll lure em into whatchu dunno’s hell
 Trynna keep em around
 While chasin’ em out like a hound
+its all I fuckin
 A human catch 22
 
   
