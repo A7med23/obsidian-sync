@@ -23,11 +23,16 @@
             "id": "85ee2fd3a7abe045",
             "type": "leaf",
             "state": {
-              "type": "graph",
-              "state": {}
+              "type": "markdown",
+              "state": {
+                "file": "Writing/Lyrics scratch book.md",
+                "mode": "source",
+                "source": false
+              }
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -154,13 +159,14 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "b03a2ab5e4f32eb0",
+  "active": "85ee2fd3a7abe045",
   "lastOpenFiles": [
+    "Dear New Year.md",
+    "Writing/Lyrics scratch book.md",
     "Writing/Odds are lyrics.md",
     "Writing/Writing.md",
     "Systems/Linux/Todo list for Linux.md",
     "Writing/Bandage.md",
-    "Writing/Lyrics scratch book.md",
     "Systems/Linux/Apps.md",
     "Systems/Linux",
     "Systems/Linux/Linux.md",
