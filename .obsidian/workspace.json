@@ -8,15 +8,23 @@
         "type": "tabs",
         "children": [
           {
-            "id": "85ee2fd3a7abe045",
+            "id": "b03a2ab5e4f32eb0",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Writing/Lines.md",
+                "file": "Writing/Lyrics scratch book.md",
                 "mode": "source",
                 "source": false
               }
+            }
+          },
+          {
+            "id": "85ee2fd3a7abe045",
+            "type": "leaf",
+            "state": {
+              "type": "graph",
+              "state": {}
             }
           }
         ]
@@ -85,7 +93,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Writing/Lines.md",
+                "file": "Writing/Lyrics scratch book.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +110,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Writing/Lines.md",
+                "file": "Writing/Lyrics scratch book.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +133,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Writing/Lines.md"
+                "file": "Writing/Lyrics scratch book.md"
               }
             }
           }
@@ -146,11 +154,19 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "85ee2fd3a7abe045",
+  "active": "b03a2ab5e4f32eb0",
   "lastOpenFiles": [
-    "Writing/Bandage.md",
-    "Writing/Lines.md",
     "Writing/Odds are lyrics.md",
+    "Writing/Writing.md",
+    "Systems/Linux/Todo list for Linux.md",
+    "Writing/Bandage.md",
+    "Writing/Lyrics scratch book.md",
+    "Systems/Linux/Apps.md",
+    "Systems/Linux",
+    "Systems/Linux/Linux.md",
+    "Systems/Linux",
+    "Untitled",
+    "Systems",
     "Writing"
   ]
 }

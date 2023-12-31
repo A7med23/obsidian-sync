@@ -1720,55 +1720,42 @@ Watching myself drown 
   
 
 Empty days filled eith loneliness
-
 Losing my mind in the silence
-
 Only thing keepin me company’s tinnitus 
 
   
 
 I wanna be loved the way i love
-
 Want them to give me the world and still think they aint done enough
-
 Wanna be held and told im enough
 
   
 
 Life aint stoppin 
-
 But idk hawta keep goin
 
   
 
 Late night splittin
-
 On your image spittin
-
 Against the wall my head hittin
-
 For your company beggin
 
   
 
 Bitch im crazy
-
 Ill tear you apart
-
 ‘N eat up your heart
-
 It wont even phase me
 
   
 
 Most valuable things in our lives we got for free
-
 Most trivial things we got after spending sprees
 
   
 
 You cheating fucking bitch
-
 Stay and my poor soul dont ditch
 
   
@@ -1778,35 +1765,24 @@ Need someone to love and protect me from the world. But when theyre close i run
   
 
 History is filled with liars
-
 If he lives and you die
-
 His lies become the written truth
-
 Cause all u need to change the world
-
 Is one good lie and a river of blood (cpt price)
 
   
 
 U might be better off alone
-
 But ure not the alone
-
 Ure not the only one with this shit to hone 
 
   
 
 Dont care dont empathize
-
 Stick my d** between her thighs
-
 Make her lick her own demise
-
 Make her pay for all the lies
-
 Bitch am a king on the rise
-
 Trynna stop me ill bury one between yo’ eyes
 
   
@@ -1816,47 +1792,32 @@ Balto e9 min6
   
 
 Brick by brick i will (smith)
-
 Tear it all down
 
   
 
 Rip rip rip rip you apart
-
 Praying we’ll never grow far apart
-
 Tried usin you to fill a hollow heart
-
 Left me in pieces as u depart
 
   
 
 Too easy to forget all those pasts
-
 Cant hide all the scars
 
   
 
 *talking to the mask i made for myself*
-
 I know who you are I fucking made you
-
 Just like i made 10s of u for everyone i knew
-
 Dont try and fool me I am you
-
 I know you perfectly fit I fucking tailored you
-
 Measured every inch every detail
-
 Wrapped u around it to tell a tale
-
 That’ll lure em into whatchu dunno’s hell
-
 Trynna keep em around
-
 While chasin’ em out like a hound
-
 A human catch 22
 
   
@@ -1866,7 +1827,6 @@ I can be okay till u take over(the mask/my other side)
   
 
 Got an arsenal of characters
-
 Can call on stage on demand
 
   
@@ -1874,51 +1834,30 @@ Can call on stage on demand
   
 
 *interlude or verse idfk*
-
 Ask urself
-
 Did she just actually abandon you
-
 Did she just forget
-
 Or was it
-
 Did u keep wearing and tearing till there’s nth left
-
 Did u keep pushing till she eventually failed the test
-
 Were they actually bad parents
-
 Or were u a disaster deserving to be on the shelf
-
 Look at you
-
 All that talent and genius
-
 And Ure state’s so hideous
-
 Cant keep a hand to hold
 
   
 
 Look yourself in the fucking mirror
-
 Maybe ure not always the victim
-
 Maybe ure the serial victor 
-
 Maybe ure actually un fucking bearable
-
 Maybe relationships with you are fuckin terrible
-
 Maybe holding on to you’s fuckin horrible
-
 Despite all the effort uve put in
-
 All the good intentions u had
-
 Despite taking your all that uve given
-
 Uve imagined too much flavor when its all bland
 
   
@@ -1930,31 +1869,22 @@ From an early age i was cursed/blessed with rage
   
 
 Promise forever
-
 Say u love me
-
 Say u want me
-
 Well we shall see
-
 But most likely 
-
 Itll end up like halsey
-
 Someone will love you
-
 But someone isnt me
 
   
 
 Im trying my fucking hardest
-
 But im hurting everybody regardless
 
   
 
 Unbearable
-
 terrible
 
   
@@ -1964,17 +1894,11 @@ Not michael but ill jack ur son
   
 
 Run the beat ill switch up ooooon ya
-
 Feelin catatooonic yea
-
 Cartooonic
-
 Spit it
-
 Hit it
-
 *fast lines*
-
 “Mention the swap in flow/cadence”^
 
   
@@ -2000,21 +1924,17 @@ Walk through the ashes of my passions
   
 
 Someone will *…..*
-
 Someone isnt me/you
 
   
 
 My life’s fallin apart 
-
 My fault or their’s i cant tell
-
 L o l
 
   
 
 Bell’a dingin
-
 Gun slingin
 
   
@@ -2028,49 +1948,37 @@ See your face in every turn
   
 
 Eligible for assissted suicide
-
 Diagnosed with bpd
 
   
 
 Got a lotta chances i gotta use
-
 (A lotta potential to let)loose
-
 But a grip on life growing loose
-
 Nothing to lose
-
 But i need some kinda boost
-
 Cause all i want rn is my neck wrapped with a noose
-
 Only future i see imagine is my neck wrapped with a noose
 
   
 
 A life ends another starts
-
 Ive seen both sides
 
   
 
 Too many demons in my head
-
 Used to hide and play dead
 
   
 
 Took me full of life and left a Corpse of me
-
 You went ti sybstances i went to college
 
   
 
 Ive seen better days
-
 Fall from grace
-
 Ir never there in the furst place
 
   
@@ -2080,65 +1988,53 @@ I fire like an mg hit like a sniper
   
 
 At the front if my mind
-
 He’s at the back of her throat
 
   
 
 Too much pain in my chest struggling to numb it
-
 Yet chilling at a rock bottom thats your summit
 
   
 
 How many days am i gonna feel this for
-
 How many nights am i gonna confide in the darkness behind my eyelids
 
   
 
 Id lose my mind in the silence
-
 Thank god for the tinnitus 
 
   
 
 Demons cant bury or drown
-
 Mole diggers learned to swim
 
   
 
 Weights too heavy scared itll but me
-
 Used to fly so high now git a pair of broken wings on me
 
   
 
 Heart’s beating too fast inside of me
-
 Left to bleed
 
   
 
 Everything ive built turned to ashe ‘n
-
 Nobody cares till im lashin
-
 With demons in my head am clashin
 
   
 
 You think i aint honest?
-
 Bitch i pinky promised
 
   
 
 Bitch im a killa
-
 This aint a meta
-
 Phor
 
   
@@ -2156,25 +2052,19 @@ I dont shed tears i shed my skin
   
 
 Floored the pedal on an endless highway 
-
 A part of me wants to crash it
 
   
 
 Been just picking up the haste
-
 Pedal’s floored with no gas
-
 Swear a part of me wants to crash
 
   
 
 My pedal’s floored 
-
 My gas’s runnin out
-
 What else do i do
-
 Navigating through this mess i grew into
 
   
@@ -2184,7 +2074,6 @@ You cant hurt/disappoint me its all ive knwn
   
 
 Pedal floored running outta gas
-
 But i aint slowin down
 
   
@@ -2192,31 +2081,26 @@ But i aint slowin down
 Like me huh?
 
 Lemme show you what its like
-
 Dying every waking moment
 
   
 
 Its rainin pourin
-
 Aint writing my own ending
 
   
 
 The closest to tired i was rubber
-
 Hit rick bottom bounced off
 
   
 
 *song idea: ten*
-
 The whole song is just counting to ten while saying hardships/hope
 
   
 
 Wanna leave a legacy
-
 But u look down at my leg i see
 
   
@@ -2226,37 +2110,30 @@ Intentions (program your brain)
   
 
 Demons all around me gotta gun down
-
 Ceilings stacked up gotta tear down
 
   
 
 My hands tied
-
 His hands all over her
 
 My lips sealed
-
 Her lips grippin him
 
   
 
 Was one leg in a grave one hand grippin faith
-
 She was gripping dick
 
   
 
 Im trynna grab onto any hope
-
 She’s grabbin on his dick
 
   
 
 Im worse than a decease
-
 Fire i dont cease
-
 Till all’s deceased
 
   
@@ -2266,21 +2143,17 @@ Im lost and weary
   
 
 Was in first place
-
 Stopped running
-
 And saw everyone else go past
 
   
 
 Lived subzero
-
 Below rock bottom my heart froze
 
   
 
 I was addict iid
-
 To a sick piig
 
   
@@ -2294,13 +2167,11 @@ The lower i got on gas the harder i pushed the pedal 
   
 
 The kid in me what if wrong
-
 The teen in me ready to defend
 
   
 
 You could be on fire and on you i wouldnt piss
-
 Turbulance
 
   
@@ -2314,7 +2185,6 @@ Pens a gun never holst it without firing
   
 
 Are my own heart out
-
 Want any good for this heartless world
 
   
@@ -2324,19 +2194,16 @@ The older i grew the more it brew
   
 
 Bitch i got here from 6 feet below
-
 The ground
 
   
 
 Was stuck in a daze 
-
 Lost track of the days
 
   
 
 Dont need no one ive got an army
-
 Of voices in my head draggin me
 
   
@@ -2350,21 +2217,17 @@ Till my pulse flat
   
 
 Shoot for the moon? I had it in my hands
-
 But now its in someone else’s sky
 
   
 
 Let loose the hounds 
-
 Hellbound
 
   
 
 Ask for prayers from your mother
-
 Farewells from your brother
-
 Cause when i get a hold of your face ill smother
 
   
@@ -2372,7 +2235,6 @@ Cause when i get a hold of your face ill smother
   
 
 Heard the banshee callin my name
-
 Called her back
 
   
@@ -2386,7 +2248,6 @@ The legend if the angry blonde lives on through me
   
 
 What am i gonna do when the rage is gone
-
 And the lights go out in the trailer park
 
   
@@ -2396,19 +2257,14 @@ Too much epi in my veins no iv
   
 
 My ambition’s limitless
-
 My power’s infinite
-
 I can do anything
-
 Surprising how limiting that can be
 
   
 
 Was broken and barely breathing
-
 Yet tore down every curling
-
 Ceiling 
 
   
@@ -2444,15 +2300,12 @@ A warrior who learned to love the pain (add a score reference)
   
 
 Are you okay? Please stop askin if im okay
-
 How can i be alright aint no way
 
   
 
 Calling my bluff?
-
 Know what happened to the last guy who did that thinkin he tough?
-
 Yea his family dunno either
 
   
@@ -2460,9 +2313,7 @@ Yea his family dunno either
 *chorus*
 
 An cold… take me to where I was told…
-
 Where all this would end and
-
 Id sleep the night at home
 
   
@@ -2476,33 +2327,25 @@ Telling me to slow down but i got no brakes, Ken miles
   
 
 “Close your heart for their desperation,
-
 Close your heart for their suffering,
-
 Dont allow yourself to feel for them,
-
 They will not feel for you”
 
   
 
 Killed the predator of my spirit
-
 In the desert of my soul
-
 Ive had enough
-
 Breaking my heart trynna be enough
 
   
 
 My trust don’t break it
-
 Or your neck I’ll break it
 
   
 
 Am morally bankrupt
-
 I think ill fucking erupt
 
   
@@ -2516,29 +2359,23 @@ A lart of me thinks i love being broken
   
 
 Aint a king bitch an an emper(or)
-
 Faced a lion didnt ohase me the roar
-
 My battle cries are a lions roar
-
 In a conqueror
 
   
 
 Life’s got her weapons out
-
 Am a warri (or)
 
   
 
 Ehat youre witnessing is the effect of a butterfly
-
 Youll hear it anither time
 
   
 
 Never had the time to fake it
-
 Was always the first to make it
 
   
@@ -2548,13 +2385,11 @@ Heart’s frozen but this ice dint break
   
 
 Writer producer dentist coder graphic designer name it
-
 Aint a throne i saw and didnt claim it
 
   
 
 Living on autopilot
-
 Yelling inside but I’m quiet
 
   
@@ -2564,7 +2399,6 @@ This is the part if me that you’ll never take away frim me
   
 
 Chick ify
-
 Palms itchy
 
   
@@ -2574,25 +2408,19 @@ How are these people so blind to see the fl(aws) that are in (us) 
   
 
 Love i dint believ in
-
 The hills of life we skeein (joe’s death)
 
   
 
 The dream is forever 
-
 Let us dream together
 
   
 
 Cant count the nights I’ve spent hurting
-
 Thinking why I’m not enough
-
 Cant count the hours i have put in
-
 To rebuild myself
-
 So don’t talk to me about the times we were close in
 
   
@@ -2604,7 +2432,6 @@ Buying and selling me like its arbitrage
   
 
 Thought you were my life support but turns out i was your
-
  All you wanted ti di was pull the plug
 
   
@@ -2622,55 +2449,44 @@ Begging me to stay
   
 
 As long as those legs arent in these shoes
-
 Better shut the fuck up hoes
 
   
 
 *chorus*
-
 Take a moment of silence
-
 *I say my line*
 
   
 
 Dont stand to me hoe
-
 You cant handle my wrath 
-
 Wont spit ill spray you with a firetruck hose
 
   
 
 *lyrics* 
-
 But its okay its gonna get better
-
 No way this lasts forever… Right? (Beat drop)
 
   
 
 Keep pushin me
-
 I’ll kamikazeee crash (rhyme kamikaze with pushin me)
 
   
 
 Hope’s whats left when all’s gone
-
 Ironic
 
   
 
 I was right there in your darkest times
-
 Where were you when off went my lights
 
   
 
 Watched you go from happy to miserable (about me)
-
 This comeback’s personal
 
   
@@ -2680,7 +2496,6 @@ Made friends with the monster
   
 
 I miss you(missio)
-
 Sing to me
 
   
@@ -2690,7 +2505,6 @@ Problems dividing like theyre in a petri
   
 
 Dont pay your critiques to try ‘n break me
-
 Got a inner one that does it for free
 
   
@@ -2700,7 +2514,6 @@ I watched you give up on me
   
 
 Grew up a little too fast
-
 Miss when i couldnt care less
 
   
@@ -2712,25 +2525,19 @@ Does it get better or am i staying empty forever
   
 
 Not admitting
-
 Kitten
-
 Vision
 
   
 
 Here i go its my shot
-
 Feet fail me not
 
   
 
 Stuck next to a phone 
-
 Waiting for calls i’d never get
-
 Now i gotta move on
-
 Choices aint plent i gotta forget
 
   
@@ -2744,15 +2551,12 @@ Bitch i run your world
   
 
 Where’s the friend ive known since i was just a kid
-
 Together we played and in each other we hid
-
 Couldnt say goodbye but cant bare the hi either
 
   
 
 Buried every demon
-
 Tore down every cielin
 
   
@@ -2762,9 +2566,7 @@ Started with wings that were broken(butterfly)
   
 
 Best in me
-
 Abandon me
-
 Father further
 
   
@@ -2774,45 +2576,37 @@ Pain’s getting louder voices going quieter
   
 
 Thoughts cutting in my mind
-
 Blades running through my flesh
 
   
 
 Got no one texting me
-
 But my phone’s on dnd
 
   
 
 Demons in my mind but am laughing
-
 Terrors at midnight but am smiling
 
   
 
 A bit over the edge can’t you tell im?
-
 Ego too big it’s spilling
 
   
 
 Barclays
-
 Say the same thing 20 diff ways
-
 Ill make each one count anyways
 
   
 
 Good to be us
-
 Turned into a succubus
 
   
 
 Emotion
-
 Lotion
 
   
@@ -2822,7 +2616,6 @@ Holding on to couldve beens
   
 
 Intend to
-
 Switch like nintendo
 
   
@@ -2836,24 +2629,21 @@ Hell bent on revenge
   
 
 Left me for dead
-
 Crawled outta my grave better be ready and set
 
   
 
 Comodo- ty
-
 Comodo- dragon
 
   
 
 React 
-
 Tesseract 
+
 
 عكس كل الاحتمالات و ضد كل الحسابات و على جسة المنطق 
 
-  
 
 Labile/stable
 
@@ -2865,34 +2655,31 @@ Anvil on a house of cards
 
 Only bottom amma be hitting is if its sodomy
 
-  
+
+
+
 
 Fly high thunder in the sky
 
   
 
 Too soon
-
 Dead by next june
 
   
 
 Jacked as sparrow
-
 Hollow
-
 Sorrow
 
   
 
 Void in my heart
-
 Shot by a dart
 
   
 
 Pain healin
-
 Anger Spillin
 
   
@@ -2903,12 +2690,12 @@ Denizen
 
 Distress signals
 
+
 Checkers chess
 
   
 
 Had it all
-
 Stare the fall
 
   
@@ -2924,15 +2711,12 @@ Charm you like ahri
   
 
 Lost in an impossible quest
-
 No checkpoint to reload to aint blessed
-
 With that option to get unstressed
 
   
 
 Psycho
-
 Wherever i go
 
   
@@ -2942,7 +2726,6 @@ Got issues caused by my father
   
 
 Let you in
-
 Love pay dividends 
 
   
@@ -2964,25 +2747,20 @@ Try fix a heart you didn’t break
   
 
 Voices ringin
-
 Chains clingin
 
   
 
 (On “loser” rhyme)
-
 I dont wanna loooooooose control
-
 Hell’s lettin loose inside my mind
 
   
 
 Need one more lie
-
 Lost in the light
 
   
 
 Didnt believe in my success?
-
 Well now youre sucking on this
