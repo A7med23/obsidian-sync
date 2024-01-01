@@ -1,4 +1,6 @@
 
+Thought we built a dynasty but you went MIA
+
 stacked but i feel broke
 En inside
 Been divide
