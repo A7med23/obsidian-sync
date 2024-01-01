@@ -16,7 +16,7 @@ Still even on my knees, you looking at me’s break neck
 My week’s worth your yearly check
 Hottest in town even your girl’s on deck
 Don’t cross me I’m crazy you’re dome might just get hit with this blick
-
+Their arsenal’s a tickle yea i ain’t even nicked
 Yea that crown’s ending up on my head and their blood on it
 
 The past few years been really rough on me
