@@ -4,6 +4,8 @@ Thought we built a dynasty but you went MIA
 Thought we built a kingdom but you went MIA
 It all fell down
 
+Keep your sterlings its a cold fucking winter
+
 stacked but i feel broke
 En inside
 Been divide
