@@ -8,6 +8,15 @@ smth smth done
 
 22, 23, 24 the hell am i even doing this fir anymore
 
+Yea I’m broken, yea I’m shattered
+Yea I’m betrayed, yea I’m battered 
+Yea I’m lost, yea I’m scattered
+Yea I’m alone and nothing I’ve done ever mattered
+Still even on my knees, you looking at me’s break neck
+My week’s worth your yearly check
+Hottest in town even your girl’s on deck
+
+
 The past few years been really rough on me
 Pushed through them with quite the difficulty
 They didn’t answer my pleas

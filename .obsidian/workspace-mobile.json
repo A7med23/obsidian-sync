@@ -23,8 +23,12 @@
             "id": "59c3ecfad5737b8e",
             "type": "leaf",
             "state": {
-              "type": "graph",
-              "state": {}
+              "type": "markdown",
+              "state": {
+                "file": "Writing/Dear New Year.md",
+                "mode": "source",
+                "source": false
+              }
             }
           },
           {
@@ -118,6 +122,7 @@
         "state": {
           "type": "backlink",
           "state": {
+            "file": "Writing/Dear New Year.md",
             "collapseAll": false,
             "extraContext": false,
             "sortOrder": "alphabetical",
@@ -134,6 +139,7 @@
         "state": {
           "type": "outgoing-link",
           "state": {
+            "file": "Writing/Dear New Year.md",
             "linksCollapsed": false,
             "unlinkedCollapsed": true
           }
@@ -144,7 +150,9 @@
         "type": "leaf",
         "state": {
           "type": "outline",
-          "state": {}
+          "state": {
+            "file": "Writing/Dear New Year.md"
+          }
         }
       }
     ],
@@ -162,10 +170,11 @@
   },
   "active": "59c3ecfad5737b8e",
   "lastOpenFiles": [
+    "Writing/WIPs.md",
+    "blood.md",
     "other.md",
     "Writing/Writing.md",
     "Writing/Inspiration.md",
-    "Writing/WIPs.md",
     "Writing/drafts, sketches, scratches.md",
     "Writing/Full Pieces.md",
     "Writing/Lyrics scratch book.md",
