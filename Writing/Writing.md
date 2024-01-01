@@ -1,18 +1,11 @@
 
-### Full Pieces
-[[Poison]]
+### [[Full Pieces]]
 
-### WIPs
+### [[WIPs]]
 
-[[Dear New Year]]
+### [[drafts, sketches, scratches]]
 
-### drafts, sketches, scratches
+### [[Inspiration]]
 
-[[Lyrics scratch book]]
-[[Bandage]]
-
-### Inspiration
-[[Odds are lyrics]]
-
-### other
+### [[other]]
 Dropped my ego and confidence was my last resort then show kanye’s apology

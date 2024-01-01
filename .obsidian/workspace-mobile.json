@@ -13,8 +13,8 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Writing/Lyrics scratch book.md",
-                "mode": "preview",
+                "file": "Writing/Writing.md",
+                "mode": "source",
                 "source": false
               }
             }
@@ -51,8 +51,7 @@
               }
             }
           }
-        ],
-        "currentTab": 3
+        ]
       }
     ],
     "direction": "vertical"
@@ -164,13 +163,14 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "3107d722dad375cd",
+  "active": "516f0f6bccbcc856",
   "lastOpenFiles": [
+    "Full Pieces.md",
+    "Writing/Writing.md",
     "Writing/Lyrics scratch book.md",
     "Trading goals.md",
     "Trading",
     "Writing/Dear New Year.md",
-    "Writing/Writing.md",
     "Writing/Bandage.md",
     "Writing/Lines.md",
     "Systems",
