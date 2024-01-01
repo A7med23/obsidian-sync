@@ -1542,8 +1542,8 @@ Just like i made 10s of u for everyone i knew
 Dont try and fool me I am you
 I know you perfectly fit I fucking tailored you
 Measured every inch every detail
-Wrapped u around it to tell a tale
-That’ll lure em into whatchu dunno’s hell
+Wrapped u around to tell a tale
+That’ll lure em into what they don’t know’s hell
 Trynna keep em around
 Then chase em out like a hound
 its all I fuckin do

@@ -25,7 +25,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Writing/Dear New Year.md",
+                "file": "Writing/Lyrics scratch book.md",
                 "mode": "source",
                 "source": false
               }
@@ -122,7 +122,7 @@
         "state": {
           "type": "backlink",
           "state": {
-            "file": "Writing/Dear New Year.md",
+            "file": "Writing/Lyrics scratch book.md",
             "collapseAll": false,
             "extraContext": false,
             "sortOrder": "alphabetical",
@@ -139,7 +139,7 @@
         "state": {
           "type": "outgoing-link",
           "state": {
-            "file": "Writing/Dear New Year.md",
+            "file": "Writing/Lyrics scratch book.md",
             "linksCollapsed": false,
             "unlinkedCollapsed": true
           }
@@ -151,7 +151,7 @@
         "state": {
           "type": "outline",
           "state": {
-            "file": "Writing/Dear New Year.md"
+            "file": "Writing/Lyrics scratch book.md"
           }
         }
       }
@@ -168,8 +168,9 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "59c3ecfad5737b8e",
+  "active": "480e906321060958",
   "lastOpenFiles": [
+    "Writing/Dear New Year.md",
     "Writing/WIPs.md",
     "blood.md",
     "other.md",
@@ -180,7 +181,6 @@
     "Writing/Lyrics scratch book.md",
     "Writing/Trading goals.md",
     "Trading",
-    "Writing/Dear New Year.md",
     "Writing/Bandage.md",
     "Writing/Lines.md",
     "Systems",
