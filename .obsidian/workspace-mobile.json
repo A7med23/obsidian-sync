@@ -45,7 +45,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Writing/Lyrics scratch book.md",
+                "file": "Writing/Writing.md",
                 "mode": "source",
                 "source": false
               }
@@ -118,7 +118,7 @@
         "state": {
           "type": "backlink",
           "state": {
-            "file": "Writing/Lyrics scratch book.md",
+            "file": "Writing/Writing.md",
             "collapseAll": false,
             "extraContext": false,
             "sortOrder": "alphabetical",
@@ -135,7 +135,7 @@
         "state": {
           "type": "outgoing-link",
           "state": {
-            "file": "Writing/Lyrics scratch book.md",
+            "file": "Writing/Writing.md",
             "linksCollapsed": false,
             "unlinkedCollapsed": true
           }
@@ -147,7 +147,7 @@
         "state": {
           "type": "outline",
           "state": {
-            "file": "Writing/Lyrics scratch book.md"
+            "file": "Writing/Writing.md"
           }
         }
       }
@@ -166,8 +166,8 @@
   },
   "active": "3107d722dad375cd",
   "lastOpenFiles": [
-    "Trading goals.md",
     "Writing/Lyrics scratch book.md",
+    "Trading goals.md",
     "Trading",
     "Writing/Dear New Year.md",
     "Writing/Writing.md",
