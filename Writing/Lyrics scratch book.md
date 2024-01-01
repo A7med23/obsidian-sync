@@ -1,6 +1,9 @@
 
 Thought we built a dynasty but you went MIA
 
+Thought we built a kingdom but you went MIA
+It all fell down
+
 stacked but i feel broke
 En inside
 Been divide
@@ -1540,7 +1543,7 @@ Measured every inch every detail
 Wrapped u around it to tell a tale
 That’ll lure em into whatchu dunno’s hell
 Trynna keep em around
-While chasin’ em out like a hound
+Then chase em out like a hound
 its all I fuckin do
 A human catch 22
 
