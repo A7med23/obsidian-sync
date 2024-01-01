@@ -159,7 +159,7 @@ There will be a time that’s the last youre ever thought of
 See u in the day’s haze
 (Dancing in the kitchen in the day’s haze)
 U could call me heydaze
-I could call u my new religion
+Cause i might just call u my new religion
 
 I gave you the world while mine collapsed. Dont you dare utter about loyalty to me
 
