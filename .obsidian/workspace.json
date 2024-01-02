@@ -25,14 +25,26 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Writing/Lyrics scratch book.md",
+                "file": "Writing/drafts, sketches, scratches.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "a4e009ae78148088",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Writing/WIPs.md",
                 "mode": "source",
                 "source": false
               }
             }
           }
         ],
-        "currentTab": 1
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -98,7 +110,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Writing/Lyrics scratch book.md",
+                "file": "Writing/WIPs.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -115,7 +127,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Writing/Lyrics scratch book.md",
+                "file": "Writing/WIPs.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -138,7 +150,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Writing/Lyrics scratch book.md"
+                "file": "Writing/WIPs.md"
               }
             }
           }
@@ -159,14 +171,21 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "85ee2fd3a7abe045",
+  "active": "a4e009ae78148088",
   "lastOpenFiles": [
-    "Dear New Year.md",
+    "Writing/drafts, sketches, scratches.md",
+    "Writing/Dear New Year.md",
+    "Writing/Bandage.md",
     "Writing/Lyrics scratch book.md",
+    "Writing/other.md",
+    "Writing/WIPs.md",
+    "Trading goals.md",
+    "Writing/Inspiration.md",
+    "Writing/Full Pieces.md",
+    "Dear New Year.md",
     "Writing/Odds are lyrics.md",
     "Writing/Writing.md",
     "Systems/Linux/Todo list for Linux.md",
-    "Writing/Bandage.md",
     "Systems/Linux/Apps.md",
     "Systems/Linux",
     "Systems/Linux/Linux.md",
