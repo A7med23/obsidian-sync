@@ -25,7 +25,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Writing/Dear New Year.md",
+                "file": "لخبطة نوايا.md",
                 "mode": "source",
                 "source": false
               }
@@ -122,7 +122,7 @@
         "state": {
           "type": "backlink",
           "state": {
-            "file": "Writing/Dear New Year.md",
+            "file": "لخبطة نوايا.md",
             "collapseAll": false,
             "extraContext": false,
             "sortOrder": "alphabetical",
@@ -139,7 +139,7 @@
         "state": {
           "type": "outgoing-link",
           "state": {
-            "file": "Writing/Dear New Year.md",
+            "file": "لخبطة نوايا.md",
             "linksCollapsed": false,
             "unlinkedCollapsed": true
           }
@@ -151,7 +151,7 @@
         "state": {
           "type": "outline",
           "state": {
-            "file": "Writing/Dear New Year.md"
+            "file": "لخبطة نوايا.md"
           }
         }
       }
@@ -168,18 +168,19 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "480e906321060958",
+  "active": "59c3ecfad5737b8e",
   "lastOpenFiles": [
+    "Writing/WIPs.md",
+    "لخبطة نوايا.md",
+    "Writing/Writing.md",
+    "Writing/Dear New Year.md",
     "Notes from Misc trading.md",
     "Writing/drafts, sketches, scratches.md",
-    "Writing/Dear New Year.md",
     "Pasted image 20240103004207.png",
     "Trading goals.md",
     "Writing/Trading goals.md",
     "Writing/other.md",
-    "Writing/WIPs.md",
     "blood.md",
-    "Writing/Writing.md",
     "Writing/Inspiration.md",
     "Writing/Full Pieces.md",
     "Writing/Lyrics scratch book.md",
