@@ -25,7 +25,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "لخبطة نوايا.md",
+                "file": "Writing/Dear New Year.md",
                 "mode": "source",
                 "source": false
               }
@@ -122,7 +122,7 @@
         "state": {
           "type": "backlink",
           "state": {
-            "file": "لخبطة نوايا.md",
+            "file": "Writing/Dear New Year.md",
             "collapseAll": false,
             "extraContext": false,
             "sortOrder": "alphabetical",
@@ -139,7 +139,7 @@
         "state": {
           "type": "outgoing-link",
           "state": {
-            "file": "لخبطة نوايا.md",
+            "file": "Writing/Dear New Year.md",
             "linksCollapsed": false,
             "unlinkedCollapsed": true
           }
@@ -151,7 +151,7 @@
         "state": {
           "type": "outline",
           "state": {
-            "file": "لخبطة نوايا.md"
+            "file": "Writing/Dear New Year.md"
           }
         }
       }
@@ -168,10 +168,10 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "59c3ecfad5737b8e",
+  "active": "480e906321060958",
   "lastOpenFiles": [
-    "Writing/WIPs.md",
     "لخبطة نوايا.md",
+    "Writing/WIPs.md",
     "Writing/Writing.md",
     "Writing/Dear New Year.md",
     "Notes from Misc trading.md",
