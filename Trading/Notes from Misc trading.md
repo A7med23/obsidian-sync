@@ -19,4 +19,4 @@
 14) an origin is a level that had a significant rejection multiple times
 15) ideally short/long them at the 4th or 5th time
 
-1:50
+1:50h
