@@ -6,3 +6,5 @@
 5) move stop to entry once the price moves down because final holds are crazy sometimes.![[Pasted image 20240104150438.png]]
 6) the longer a candle is left a lone and the more the price is above/under it the stronger it gets
 7) always long the final 1m hold and/or the final 1m break
+
+8) always mark out your ranges, the breaks from highest TFs down 
