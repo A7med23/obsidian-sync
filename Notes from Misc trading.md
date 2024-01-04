@@ -10,3 +10,5 @@
 8) always mark out your ranges, the breaks from highest TFs down
 9) when price is pumping or dumping really hard, mostly you want to take the breaks.
 10) hold levels are very good when youre accuming or distributing or going sideways (because theyre good for the price to use to range) or when theyre the final holds.
+
+min55
