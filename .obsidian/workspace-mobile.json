@@ -25,7 +25,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Writing/Dear New Year.md",
+                "file": "Watch list.md",
                 "mode": "source",
                 "source": false
               }
@@ -122,7 +122,7 @@
         "state": {
           "type": "backlink",
           "state": {
-            "file": "Writing/Dear New Year.md",
+            "file": "Watch list.md",
             "collapseAll": false,
             "extraContext": false,
             "sortOrder": "alphabetical",
@@ -139,7 +139,7 @@
         "state": {
           "type": "outgoing-link",
           "state": {
-            "file": "Writing/Dear New Year.md",
+            "file": "Watch list.md",
             "linksCollapsed": false,
             "unlinkedCollapsed": true
           }
@@ -151,7 +151,7 @@
         "state": {
           "type": "outline",
           "state": {
-            "file": "Writing/Dear New Year.md"
+            "file": "Watch list.md"
           }
         }
       }
@@ -168,23 +168,30 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "480e906321060958",
+  "active": "59c3ecfad5737b8e",
   "lastOpenFiles": [
+    "Trading/Notes from Misc trading.md",
+    "Trading/Trading goals.md",
+    "Writing/Dear New Year.md",
+    "Writing/لخبطة نوايا.md",
+    "Trading/Pasted image 20240104150438.png",
+    "Trading/Pasted image 20240103004207.png",
+    "Trading",
+    "Trading/Pasted image 20240104150345.png",
+    "Watch list.md",
+    "Writing/other.md",
     "لخبطة نوايا.md",
     "Writing/WIPs.md",
     "Writing/Writing.md",
-    "Writing/Dear New Year.md",
     "Notes from Misc trading.md",
     "Writing/drafts, sketches, scratches.md",
     "Pasted image 20240103004207.png",
     "Trading goals.md",
     "Writing/Trading goals.md",
-    "Writing/other.md",
     "blood.md",
     "Writing/Inspiration.md",
     "Writing/Full Pieces.md",
     "Writing/Lyrics scratch book.md",
-    "Trading",
     "Writing/Bandage.md",
     "Writing/Lines.md",
     "Systems",
