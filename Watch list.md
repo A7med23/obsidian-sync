@@ -1,1 +1,2 @@
-TIA USDT
+TIA 
+SOL
