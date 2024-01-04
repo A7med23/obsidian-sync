@@ -16,4 +16,7 @@
 
 13) ALWAYS be careful with BTC's mvmnt
 
+14) an origin is a level that had a significant rejection multiple times
+15) ideally short/long them at the 4th or 5th time
+
 min55
