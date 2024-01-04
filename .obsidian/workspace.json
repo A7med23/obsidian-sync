@@ -37,7 +37,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Trading goals.md",
+                "file": "Trading/Trading goals.md",
                 "mode": "source",
                 "source": false
               }
@@ -47,12 +47,8 @@
             "id": "f61c18bae696b657",
             "type": "leaf",
             "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Notes from Misc trading.md",
-                "mode": "source",
-                "source": false
-              }
+              "type": "graph",
+              "state": {}
             }
           }
         ],
@@ -122,7 +118,6 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Notes from Misc trading.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -139,7 +134,6 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Notes from Misc trading.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -161,9 +155,7 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {
-                "file": "Notes from Misc trading.md"
-              }
+              "state": {}
             }
           }
         ]
@@ -185,12 +177,14 @@
   },
   "active": "f61c18bae696b657",
   "lastOpenFiles": [
-    "لخبطة نوايا.md",
-    "Pasted image 20240104150438.png",
-    "Pasted image 20240104150345.png",
-    "Pasted image 20240103004207.png",
-    "Notes from Misc trading.md",
-    "Trading goals.md",
+    "Writing/Writing.md",
+    "Trading/Notes from Misc trading.md",
+    "Trading",
+    "Writing/لخبطة نوايا.md",
+    "Trading/Pasted image 20240104150438.png",
+    "Trading/Pasted image 20240104150345.png",
+    "Trading/Pasted image 20240103004207.png",
+    "Trading/Trading goals.md",
     "Writing/WIPs.md",
     "Writing/drafts, sketches, scratches.md",
     "Writing/Dear New Year.md",
@@ -201,13 +195,11 @@
     "Writing/Full Pieces.md",
     "Dear New Year.md",
     "Writing/Odds are lyrics.md",
-    "Writing/Writing.md",
     "Systems/Linux/Todo list for Linux.md",
     "Systems/Linux/Apps.md",
     "Systems/Linux",
     "Systems/Linux/Linux.md",
     "Systems/Linux",
-    "Untitled",
     "Systems",
     "Writing"
   ]
