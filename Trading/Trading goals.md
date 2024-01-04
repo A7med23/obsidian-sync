@@ -1,3 +1,4 @@
 - practice trend breakings and trading the outskirts of ranges
 - get to a point where you get 2 40-50% trades a week
-+ 
+- BE PATIENT
+- just keep marking trends and ranges and only take the guaranteed trades
