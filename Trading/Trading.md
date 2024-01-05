@@ -4,8 +4,6 @@
 
 ## [[Watch list]]
 
-## [[Trade Logs]]
-
 ### [[Roadmap]]
 
 
