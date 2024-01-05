@@ -4,15 +4,19 @@
     "type": "split",
     "children": [
       {
-        "id": "4ff0eb05e9a283c8",
+        "id": "c96a5b7c2e762b2d",
         "type": "tabs",
         "children": [
           {
-            "id": "b599ccf7608a913f",
+            "id": "4e3f04e49ac35c5a",
             "type": "leaf",
             "state": {
-              "type": "graph",
-              "state": {}
+              "type": "markdown",
+              "state": {
+                "file": "Trading/Roadmap.md",
+                "mode": "source",
+                "source": false
+              }
             }
           }
         ]
@@ -81,6 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "Trading/Roadmap.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -97,6 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "Trading/Roadmap.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -118,7 +124,9 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {}
+              "state": {
+                "file": "Trading/Roadmap.md"
+              }
             }
           }
         ]
@@ -138,11 +146,14 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "b599ccf7608a913f",
+  "active": "15c403d4309da4ec",
   "lastOpenFiles": [
     "Trading/Trading.md",
-    "Trading/Watch list.md",
+    "Trading/Roadmap.md",
+    "Trading/Trade Logs/Trade Logs.md",
     "Trading/Trading goals.md",
+    "Trading/Watch list.md",
+    "Trading/Trade Logs",
     "Trading/Notes/Notes.md",
     "Trading/Notes/Jookies Concepts.md",
     "Trading/Notes/Notes from Misc trading.md",
@@ -172,7 +183,6 @@
     "Systems/Linux",
     "Systems/Linux/Linux.md",
     "Systems/Linux",
-    "Systems",
-    "Writing"
+    "Systems"
   ]
 }

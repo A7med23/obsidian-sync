@@ -1,7 +1,13 @@
-### [[Notes]]
+## [[Notes]]
 
-### [[Trading goals]]
+## [[Trading goals]]
 
-### [[Watch list]]
+## [[Watch list]]
+
+## [[Trade Logs]]
+
+### [[Roadmap]]
+
+
 
 
