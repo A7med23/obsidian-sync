@@ -8,3 +8,8 @@
 * here he marks the 15min bs and 5min fs
 
 * ![[Pasted image 20240106202300.png]] the idea from this is to be able to get data from the level that you can use in the momnet. here the data is that 1) you created a 5 min that needs to hold the move and an origin that isnt broken, which signals polarity later in the move. 2) got a range trend from that 5min level breaking
+
+* ![[Pasted image 20240106203438.png]] if you take the 4h all youll be left with is a 4h candle as adata if the 1h youll be left with 1h no deeper levels and timeframes to extrapolate data from
+* ![[Pasted image 20240106203826.png]] take the least risk ALWAYS
+
+again all you need is 3 trades a week
