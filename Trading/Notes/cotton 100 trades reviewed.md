@@ -18,3 +18,7 @@ again all you need is 3 trades a week
 ![[Pasted image 20240106214841.png]]
 
 3:30
+
+### pt.9
+![[Pasted image 20240107010700.png]]
+if you test the break and create possible origin and then ladder off that wick that means youre going up
