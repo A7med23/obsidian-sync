@@ -4,4 +4,7 @@
 ![[Pasted image 20240106201225.png]] refining the levels:
 * that backside isnt good. he recommends starting at that 4 hours candle of the valley on the right and working the way up to find combo levels(aka trail the holds inside the candle) *trail is if a candle is tested, the valley that tested it is the level*
 * step 1 ![[Pasted image 20240106201728.png]]
-* 
+* step 2 ![[Pasted image 20240106201941.png]] 
+* here he marks the 15min bs and 5min fs
+
+* ![[Pasted image 20240106202300.png]] the idea from this is to be able to get data from the level that you can use in the momnet. here the data ist hat you created a 5 min that needs to hold the move and an origin that isnt broken, which signals polarity later in the move 
