@@ -14,6 +14,5 @@
 
 again all you need is 3 trades a week
 
-![[Pasted image 20240106211301.png]]
-example of level trailing
-![[Pasted image 20240106211313.png]]
+![[Pasted image 20240106211301.png]]example of level trailing
+ ![[Pasted image 20240106214706.png]]
