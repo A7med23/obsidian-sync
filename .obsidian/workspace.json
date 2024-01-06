@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Trading/Strategy.md",
+                "file": "Trading/Trading goals.md",
                 "mode": "source",
                 "source": false
               }
@@ -27,7 +27,8 @@
               "state": {}
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -93,7 +94,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Trading/Strategy.md",
+                "file": "Trading/Trading goals.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -110,7 +111,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Trading/Strategy.md",
+                "file": "Trading/Trading goals.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -133,7 +134,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Trading/Strategy.md"
+                "file": "Trading/Trading goals.md"
               }
             }
           }
@@ -154,12 +155,12 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "4e3f04e49ac35c5a",
+  "active": "6e660cafd6cd5870",
   "lastOpenFiles": [
-    "Trading/Roadmap.md",
-    "Writing/Inspiration.md",
     "Trading/Trading goals.md",
     "Trading/Strategy.md",
+    "Trading/Roadmap.md",
+    "Writing/Inspiration.md",
     "Trading/Trading.md",
     "Trading/Progress.md",
     "Trading/Trade Logs/Trade Logs.md",
