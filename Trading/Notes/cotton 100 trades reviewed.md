@@ -17,3 +17,4 @@ again all you need is 3 trades a week
 ![[Pasted image 20240106211301.png]] example of level trailing and it giving data
 ![[Pasted image 20240106214841.png]]
 
+3:30
