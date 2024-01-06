@@ -13,19 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Writing/other.md",
-                "mode": "preview",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "59c3ecfad5737b8e",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Watch list.md",
+                "file": "Writing/Lyrics scratch book.md",
                 "mode": "source",
                 "source": false
               }
@@ -55,8 +43,7 @@
               }
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -122,7 +109,7 @@
         "state": {
           "type": "backlink",
           "state": {
-            "file": "Watch list.md",
+            "file": "Writing/Lyrics scratch book.md",
             "collapseAll": false,
             "extraContext": false,
             "sortOrder": "alphabetical",
@@ -139,7 +126,7 @@
         "state": {
           "type": "outgoing-link",
           "state": {
-            "file": "Watch list.md",
+            "file": "Writing/Lyrics scratch book.md",
             "linksCollapsed": false,
             "unlinkedCollapsed": true
           }
@@ -151,7 +138,7 @@
         "state": {
           "type": "outline",
           "state": {
-            "file": "Watch list.md"
+            "file": "Writing/Lyrics scratch book.md"
           }
         }
       }
@@ -168,8 +155,25 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "59c3ecfad5737b8e",
+  "active": "516f0f6bccbcc856",
   "lastOpenFiles": [
+    "Watch list.md",
+    "Trading/Roadmap.md",
+    "Trading/Trade Logs",
+    "Trading/Trade Logs/Trade Logs.md",
+    "Trading/Strategy.md",
+    "Trading/Watch list.md",
+    "Trading/Trading.md",
+    "Trading/Progress.md",
+    "Trading/Notes/pics/misc notes/Pasted image 20240104150345 1 1 1.png",
+    "Trading/Notes/pics/misc notes/Pasted image 20240104150438 1 1 1.png",
+    "Trading/Notes/pics/misc notes/Pasted image 20240103004207 1 1 1.png",
+    "Trading/Notes/pics/misc notes",
+    "Trading/Notes/Notes.md",
+    "Trading/Notes/Jookies Concepts.md",
+    "Trading/Notes/pics",
+    "Trading/Notes/Notes from Misc trading.md",
+    "Trading/Notes",
     "Trading/Notes from Misc trading.md",
     "Trading/Trading goals.md",
     "Writing/Dear New Year.md",
@@ -178,7 +182,6 @@
     "Trading/Pasted image 20240103004207.png",
     "Trading",
     "Trading/Pasted image 20240104150345.png",
-    "Watch list.md",
     "Writing/other.md",
     "لخبطة نوايا.md",
     "Writing/WIPs.md",
@@ -192,16 +195,8 @@
     "Writing/Inspiration.md",
     "Writing/Full Pieces.md",
     "Writing/Lyrics scratch book.md",
-    "Writing/Bandage.md",
-    "Writing/Lines.md",
     "Systems",
-    "Systems/Linux/Apps.md",
-    "Systems/Linux/Todo list for Linux.md",
-    "Systems/Linux/Linux.md",
     "Systems/Linux",
-    "Lines.md",
-    "Writing",
-    "Writing/Odds are lyrics.md",
-    "Bandage.md"
+    "Writing"
   ]
 }

@@ -1,4 +1,6 @@
 
+Love isnt a feeling, love is what we do despite what we feel
+
 Thought we built a dynasty but you went MIA
 
 Thought we built a kingdom but you went MIA
