@@ -13,3 +13,7 @@
 * ![[Pasted image 20240106203826.png]] take the least risk ALWAYS
 
 again all you need is 3 trades a week
+
+![[Pasted image 20240106211301.png]]
+example of level trailing
+![[Pasted image 20240106211313.png]]
