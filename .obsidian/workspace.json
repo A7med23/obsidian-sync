@@ -23,8 +23,12 @@
             "id": "6e660cafd6cd5870",
             "type": "leaf",
             "state": {
-              "type": "graph",
-              "state": {}
+              "type": "markdown",
+              "state": {
+                "file": "Art/Making Money as an artist by Kirsty Partridge.md",
+                "mode": "source",
+                "source": false
+              }
             }
           }
         ],
@@ -94,7 +98,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Trading/Trading goals.md",
+                "file": "Art/Making Money as an artist by Kirsty Partridge.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -111,7 +115,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Trading/Trading goals.md",
+                "file": "Art/Making Money as an artist by Kirsty Partridge.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -134,7 +138,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Trading/Trading goals.md"
+                "file": "Art/Making Money as an artist by Kirsty Partridge.md"
               }
             }
           }
@@ -157,6 +161,8 @@
   },
   "active": "6e660cafd6cd5870",
   "lastOpenFiles": [
+    "Art/Making Money as an artist by Kirsty Partridge.md",
+    "Art",
     "Trading/Trading goals.md",
     "Trading/Strategy.md",
     "Trading/Roadmap.md",
@@ -193,7 +199,6 @@
     "Systems/Linux/Apps.md",
     "Systems/Linux",
     "Systems/Linux/Linux.md",
-    "Systems/Linux",
-    "Systems"
+    "Systems/Linux"
   ]
 }
