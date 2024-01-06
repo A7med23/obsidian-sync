@@ -25,7 +25,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Trading/Notes/Cotton 500 to 7400 video.md",
+                "file": "Trading/Notes/cotton 100 trades reviewed.md",
                 "mode": "source",
                 "source": false
               }
@@ -98,7 +98,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Trading/Notes/Cotton 500 to 7400 video.md",
+                "file": "Trading/Notes/cotton 100 trades reviewed.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -115,7 +115,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Trading/Notes/Cotton 500 to 7400 video.md",
+                "file": "Trading/Notes/cotton 100 trades reviewed.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -138,7 +138,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Trading/Notes/Cotton 500 to 7400 video.md"
+                "file": "Trading/Notes/cotton 100 trades reviewed.md"
               }
             }
           }
@@ -161,10 +161,12 @@
   },
   "active": "6e660cafd6cd5870",
   "lastOpenFiles": [
-    "Pasted image 20240106195154.png",
+    "Pasted image 20240106201225.png",
+    "Trading/Notes/Cotton 500 to 7400 video.md",
+    "Trading/Notes/cotton 100 trades reviewed.md",
+    "Trading/Notes/pics/Pasted image 20240106195154.png",
     "Trading/Notes/pics/Pasted image 20240106194319.png",
     "Art/Making Money as an artist by Kirsty Partridge.md",
-    "Trading/Notes/Cotton 500 to 7400 video.md",
     "Art",
     "Trading/Trading goals.md",
     "Trading/Strategy.md",
@@ -198,7 +200,6 @@
     "Writing/Full Pieces.md",
     "Dear New Year.md",
     "Writing/Odds are lyrics.md",
-    "Systems/Linux/Todo list for Linux.md",
     "Systems/Linux",
     "Systems/Linux"
   ]
