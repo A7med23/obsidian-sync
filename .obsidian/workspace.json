@@ -23,9 +23,11 @@
             "id": "6e660cafd6cd5870",
             "type": "leaf",
             "state": {
-              "type": "image",
+              "type": "markdown",
               "state": {
-                "file": "Trading/Notes/pics/Pasted image 20240106201225.png"
+                "file": "Trading/Notes/cotton 100 trades reviewed.md",
+                "mode": "source",
+                "source": false
               }
             }
           }
@@ -96,7 +98,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Trading/Notes/pics/Pasted image 20240106201225.png",
+                "file": "Trading/Notes/cotton 100 trades reviewed.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -113,7 +115,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Trading/Notes/pics/Pasted image 20240106201225.png",
+                "file": "Trading/Notes/cotton 100 trades reviewed.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -136,7 +138,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Trading/Notes/pics/Pasted image 20240106201225.png"
+                "file": "Trading/Notes/cotton 100 trades reviewed.md"
               }
             }
           }
@@ -157,21 +159,25 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "6e660cafd6cd5870",
+  "active": "15c403d4309da4ec",
   "lastOpenFiles": [
-    "Notes/pics/trades reviewed/pt.7",
-    "Notes/pics/trades reviewed",
+    "Trading/Notes/Cotton 500 to 7400 video.md",
+    "Trading/Notes/Jookies Concepts.md",
+    "Trading/Notes/Notes.md",
+    "Trading/Notes/Notes from Misc trading.md",
+    "Trading/Trade Logs/Trade Logs.md",
+    "Trading/Notes/cotton 100 trades reviewed.md",
+    "Trading/Notes/pics/Pasted image 20240106195154.png",
+    "Trading/Notes/pics/Pasted image 20240106194319.png",
+    "Trading/Notes/pics/trades reviewed/pt.7/Pasted image 20240106201225.png",
+    "Trading/Notes/pics/trades reviewed/pt.7",
+    "Trading/Notes/pics/trades reviewed",
     "Notes/pics",
     "Notes",
-    "Trading/Notes/pics/Pasted image 20240106194319.png",
-    "Trading/Notes/pics/Pasted image 20240106195154.png",
-    "Trading/Notes/pics/Pasted image 20240106201225.png",
-    "Trading/Notes/pics/Pasted image 20240106201640.png",
-    "Trading/Notes/pics/Pasted image 20240106201728.png",
-    "Trading/Notes/pics/Pasted image 20240106201941.png",
-    "Trading/Notes/pics/Pasted image 20240106202300.png",
-    "Trading/Notes/cotton 100 trades reviewed.md",
-    "Trading/Notes/Cotton 500 to 7400 video.md",
+    "Trading/Notes/pics/trades reviewed/pt.7/Pasted image 20240106201640.png",
+    "Trading/Notes/pics/trades reviewed/pt.7/Pasted image 20240106201728.png",
+    "Trading/Notes/pics/trades reviewed/pt.7/Pasted image 20240106201941.png",
+    "Trading/Notes/pics/trades reviewed/pt.7/Pasted image 20240106202300.png",
     "Art/Making Money as an artist by Kirsty Partridge.md",
     "Art",
     "Trading/Trading goals.md",
@@ -180,12 +186,8 @@
     "Writing/Inspiration.md",
     "Trading/Trading.md",
     "Trading/Progress.md",
-    "Trading/Trade Logs/Trade Logs.md",
     "Trading/Watch list.md",
     "Trading/Trade Logs",
-    "Trading/Notes/Notes.md",
-    "Trading/Notes/Jookies Concepts.md",
-    "Trading/Notes/Notes from Misc trading.md",
     "Trading/Notes",
     "Trading/Notes/pics/jookies concepts",
     "Trading/Notes/pics/misc notes/Pasted image 20240104150438 1 1 1.png",
@@ -193,7 +195,6 @@
     "Trading/Notes/pics/misc notes/Pasted image 20240103004207 1 1 1.png",
     "Trading/Notes/pics/misc notes",
     "notes from misc",
-    "Trading/Notes/pics",
     "Writing/Writing.md",
     "Writing/لخبطة نوايا.md",
     "Writing/WIPs.md",
