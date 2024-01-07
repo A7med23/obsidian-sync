@@ -11,4 +11,5 @@ having the creativity to see all the possible outcomes to determine trades
 ![[Pasted image 20240107172629.png]] a reentry that you can take because you can see that youre laddering off that origin level and that hold is designed to break the trend on the bottom. so you can use that as youre trigger to either exit the trade or hold it. depending on whether the trend holds or not.
 
 > the most common problem is that traders dont take training seriously
+> take a thousand dollar trades
 
