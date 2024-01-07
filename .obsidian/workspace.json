@@ -33,11 +33,9 @@
             "id": "934dd73b28e0ae88",
             "type": "leaf",
             "state": {
-              "type": "markdown",
+              "type": "image",
               "state": {
-                "file": "Trading/Notes/cotton 100 trades reviewed.md",
-                "mode": "source",
-                "source": false
+                "file": "Pasted image 20240107010700.png"
               }
             }
           }
@@ -108,7 +106,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Trading/Notes/cotton 100 trades reviewed.md",
+                "file": "Pasted image 20240107010700.png",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -125,7 +123,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Trading/Notes/cotton 100 trades reviewed.md",
+                "file": "Pasted image 20240107010700.png",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -148,7 +146,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Trading/Notes/cotton 100 trades reviewed.md"
+                "file": "Pasted image 20240107010700.png"
               }
             }
           }
@@ -171,13 +169,13 @@
   },
   "active": "934dd73b28e0ae88",
   "lastOpenFiles": [
-    "Pasted image 20240107010700.png",
     "Pasted image 20240107010555.png",
-    "oracle hosting.md",
+    "Pasted image 20240107010700.png",
     "Pasted image 20240106234757.png",
+    "Trading/Notes/cotton 100 trades reviewed.md",
+    "oracle hosting.md",
     "Trading/Notes/pics/trades reviewed/pt.7/Pasted image 20240106203438.png",
     "Untitled",
-    "Trading/Notes/cotton 100 trades reviewed.md",
     "Trading/Notes/pics/trades reviewed/pt.7/Pasted image 20240106214841.png",
     "Trading/Notes/pics/trades reviewed/pt.7/Pasted image 20240106214706.png",
     "Trading/Notes/pics/trades reviewed/pt.7/Pasted image 20240106211313.png",
@@ -189,7 +187,6 @@
     "Trading/Notes/Notes from Misc trading.md",
     "Trading/Trade Logs/Trade Logs.md",
     "Trading/Notes/pics/Pasted image 20240106195154.png",
-    "Trading/Notes/pics/Pasted image 20240106194319.png",
     "Trading/Notes/pics/trades reviewed/pt.7",
     "Trading/Notes/pics/trades reviewed",
     "Notes/pics",
