@@ -1,1 +1,1 @@
-![[Pasted image 20240106234757.png]]
+![[oracle hosting.png]]
