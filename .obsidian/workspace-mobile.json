@@ -25,7 +25,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Payyer secret code.md",
+                "file": "Writing/Lyrics scratch book.md",
                 "mode": "source",
                 "source": false
               }
@@ -122,7 +122,7 @@
         "state": {
           "type": "backlink",
           "state": {
-            "file": "Payyer secret code.md",
+            "file": "Writing/Lyrics scratch book.md",
             "collapseAll": false,
             "extraContext": false,
             "sortOrder": "alphabetical",
@@ -139,7 +139,7 @@
         "state": {
           "type": "outgoing-link",
           "state": {
-            "file": "Payyer secret code.md",
+            "file": "Writing/Lyrics scratch book.md",
             "linksCollapsed": false,
             "unlinkedCollapsed": true
           }
@@ -151,7 +151,7 @@
         "state": {
           "type": "outline",
           "state": {
-            "file": "Payyer secret code.md"
+            "file": "Writing/Lyrics scratch book.md"
           }
         }
       }
@@ -168,28 +168,30 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "307e45a2a8976c98",
+  "active": "480e906321060958",
   "lastOpenFiles": [
+    "Payyer secret code.md",
+    "Trading/Notes/pics/overcoming fear of trading",
+    "oracle hosting.png",
+    "Trading/Notes/pics/overcoming fear of trading/Pasted image 20240107172126.png",
+    "Trading/Notes/pics/overcoming fear of trading/Pasted image 20240107172629.png",
+    "Trading/Notes/pics/trades reviewed/pt.9/Pasted image 20240107010700.png",
+    "Trading/Notes/pics/trades reviewed/pt.9/Pasted image 20240107010555.png",
+    "Trading/Notes/pics/trades reviewed/pt.9",
+    "Trading/Notes/overcoming fear of failure.md",
+    "Trading/Notes/pics/overcoming fear of trading/Pasted image 20240107171552.png",
+    "Trading/Notes/pics/overcoming fear of trading/Pasted image 20240107171621.png",
     "Trading/Notes/pics/Pasted image 20240106195154.png",
     "Trading/Notes/pics/Pasted image 20240106194319.png",
     "Art/Making Money as an artist by Kirsty Partridge.md",
     "Art",
     "Trading/Notes/Cotton 500 to 7400 video.md",
     "Pasted image 20240107010555.png",
-    "Pasted image 20240107010700.png",
-    "Trading/Notes/pics/trades reviewed/pt.7/Pasted image 20240106203826.png",
-    "Trading/Notes/pics/trades reviewed/pt.7/Pasted image 20240106201941.png",
-    "Trading/Notes/pics/trades reviewed/pt.7/Pasted image 20240106211313.png",
-    "Trading/Notes/pics/trades reviewed/pt.7/Pasted image 20240106201640.png",
-    "Trading/Notes/pics/trades reviewed/pt.7/Pasted image 20240106202300.png",
-    "Trading/Notes/pics/trades reviewed/pt.7/Pasted image 20240106201225.png",
     "Trading/Notes/pics/trades reviewed/pt.7",
     "Trading/Notes/pics/trades reviewed",
-    "Trading/Notes/pics/trades reviewed/pt.7/Pasted image 20240106201728.png",
     "oracle hosting.md",
     "Trading/Notes/cotton 100 trades reviewed.md",
     "Writing/Lyrics scratch book.md",
-    "Payyer secret code.md",
     "Watch list.md",
     "Trading/Roadmap.md",
     "Trading/Trade Logs",
@@ -212,9 +214,6 @@
     "Writing/other.md",
     "لخبطة نوايا.md",
     "Writing/WIPs.md",
-    "Writing/Writing.md",
-    "Notes from Misc trading.md",
-    "Systems",
-    "Systems/Linux"
+    "Writing/Writing.md"
   ]
 }

@@ -1,4 +1,7 @@
 
+All the war had me thinkin on my feet
+Sad but somedays i wished u were dead beat
+
 Love isnt a feeling, love is what we do despite what we feel
 
 Thought we built a dynasty but you went MIA
