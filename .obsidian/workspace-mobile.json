@@ -54,9 +54,21 @@
                 "source": false
               }
             }
+          },
+          {
+            "id": "b2bef762aeb6e4b6",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Draw someone as cartoon.md",
+                "mode": "source",
+                "source": false
+              }
+            }
           }
         ],
-        "currentTab": 1
+        "currentTab": 4
       }
     ],
     "direction": "vertical"
@@ -122,7 +134,7 @@
         "state": {
           "type": "backlink",
           "state": {
-            "file": "Writing/Lyrics scratch book.md",
+            "file": "Draw someone as cartoon.md",
             "collapseAll": false,
             "extraContext": false,
             "sortOrder": "alphabetical",
@@ -139,7 +151,7 @@
         "state": {
           "type": "outgoing-link",
           "state": {
-            "file": "Writing/Lyrics scratch book.md",
+            "file": "Draw someone as cartoon.md",
             "linksCollapsed": false,
             "unlinkedCollapsed": true
           }
@@ -151,7 +163,7 @@
         "state": {
           "type": "outline",
           "state": {
-            "file": "Writing/Lyrics scratch book.md"
+            "file": "Draw someone as cartoon.md"
           }
         }
       }
@@ -168,8 +180,10 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "480e906321060958",
+  "active": "b2bef762aeb6e4b6",
   "lastOpenFiles": [
+    "Writing/Lyrics scratch book.md",
+    "Draw someone as cartoon.md",
     "Payyer secret code.md",
     "Trading/Notes/pics/overcoming fear of trading",
     "oracle hosting.png",
@@ -191,7 +205,6 @@
     "Trading/Notes/pics/trades reviewed",
     "oracle hosting.md",
     "Trading/Notes/cotton 100 trades reviewed.md",
-    "Writing/Lyrics scratch book.md",
     "Watch list.md",
     "Trading/Roadmap.md",
     "Trading/Trade Logs",
