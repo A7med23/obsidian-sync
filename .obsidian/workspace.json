@@ -33,9 +33,11 @@
             "id": "934dd73b28e0ae88",
             "type": "leaf",
             "state": {
-              "type": "image",
+              "type": "markdown",
               "state": {
-                "file": "Pasted image 20240107010700.png"
+                "file": "Trading/Notes/overcoming fear of failure.md",
+                "mode": "source",
+                "source": false
               }
             }
           }
@@ -106,7 +108,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Pasted image 20240107010700.png",
+                "file": "Trading/Notes/overcoming fear of failure.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -123,7 +125,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Pasted image 20240107010700.png",
+                "file": "Trading/Notes/overcoming fear of failure.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -146,7 +148,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Pasted image 20240107010700.png"
+                "file": "Trading/Notes/overcoming fear of failure.md"
               }
             }
           }
@@ -169,10 +171,16 @@
   },
   "active": "934dd73b28e0ae88",
   "lastOpenFiles": [
-    "Pasted image 20240107010555.png",
-    "Pasted image 20240107010700.png",
-    "Pasted image 20240106234757.png",
+    "Pasted image 20240107171621.png",
+    "Pasted image 20240107171552.png",
     "Trading/Notes/cotton 100 trades reviewed.md",
+    "Trading/Notes/overcoming fear of failure.md",
+    "Trading/Notes/Cotton 500 to 7400 video.md",
+    "Trading/Notes/pics/trades reviewed/pt.9/Pasted image 20240107010555.png",
+    "Trading/Notes/pics/trades reviewed/pt.9",
+    "Pasted image 20240106234757.png",
+    "Trading/Notes/pics/trades reviewed/pt.9/Pasted image 20240107010700.png",
+    "Payyer secret code.md",
     "oracle hosting.md",
     "Trading/Notes/pics/trades reviewed/pt.7/Pasted image 20240106203438.png",
     "Untitled",
@@ -181,12 +189,10 @@
     "Trading/Notes/pics/trades reviewed/pt.7/Pasted image 20240106211313.png",
     "Trading/Notes/pics/trades reviewed/pt.7/Pasted image 20240106211301.png",
     "Trading/Notes/pics/trades reviewed/pt.7/Pasted image 20240106203826.png",
-    "Trading/Notes/Cotton 500 to 7400 video.md",
     "Trading/Notes/Jookies Concepts.md",
     "Trading/Notes/Notes.md",
     "Trading/Notes/Notes from Misc trading.md",
     "Trading/Trade Logs/Trade Logs.md",
-    "Trading/Notes/pics/Pasted image 20240106195154.png",
     "Trading/Notes/pics/trades reviewed/pt.7",
     "Trading/Notes/pics/trades reviewed",
     "Notes/pics",
@@ -203,7 +209,6 @@
     "Trading/Trade Logs",
     "Trading/Notes",
     "Trading/Notes/pics/jookies concepts",
-    "Trading/Notes/pics/misc notes",
     "Writing/Writing.md",
     "Writing/لخبطة نوايا.md",
     "Writing/WIPs.md",
@@ -211,8 +216,6 @@
     "Writing/Dear New Year.md",
     "Writing/Bandage.md",
     "Writing/Lyrics scratch book.md",
-    "Writing/other.md",
-    "Writing/Full Pieces.md",
-    "Dear New Year.md"
+    "Writing/other.md"
   ]
 }
