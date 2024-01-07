@@ -20,6 +20,18 @@
             }
           },
           {
+            "id": "307e45a2a8976c98",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Payyer secret code.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
             "id": "cb9e282d6430a64a",
             "type": "leaf",
             "state": {
@@ -43,7 +55,8 @@
               }
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -109,7 +122,7 @@
         "state": {
           "type": "backlink",
           "state": {
-            "file": "Writing/Lyrics scratch book.md",
+            "file": "Payyer secret code.md",
             "collapseAll": false,
             "extraContext": false,
             "sortOrder": "alphabetical",
@@ -126,7 +139,7 @@
         "state": {
           "type": "outgoing-link",
           "state": {
-            "file": "Writing/Lyrics scratch book.md",
+            "file": "Payyer secret code.md",
             "linksCollapsed": false,
             "unlinkedCollapsed": true
           }
@@ -138,7 +151,7 @@
         "state": {
           "type": "outline",
           "state": {
-            "file": "Writing/Lyrics scratch book.md"
+            "file": "Payyer secret code.md"
           }
         }
       }
@@ -155,8 +168,28 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "516f0f6bccbcc856",
+  "active": "307e45a2a8976c98",
   "lastOpenFiles": [
+    "Trading/Notes/pics/Pasted image 20240106195154.png",
+    "Trading/Notes/pics/Pasted image 20240106194319.png",
+    "Art/Making Money as an artist by Kirsty Partridge.md",
+    "Art",
+    "Trading/Notes/Cotton 500 to 7400 video.md",
+    "Pasted image 20240107010555.png",
+    "Pasted image 20240107010700.png",
+    "Trading/Notes/pics/trades reviewed/pt.7/Pasted image 20240106203826.png",
+    "Trading/Notes/pics/trades reviewed/pt.7/Pasted image 20240106201941.png",
+    "Trading/Notes/pics/trades reviewed/pt.7/Pasted image 20240106211313.png",
+    "Trading/Notes/pics/trades reviewed/pt.7/Pasted image 20240106201640.png",
+    "Trading/Notes/pics/trades reviewed/pt.7/Pasted image 20240106202300.png",
+    "Trading/Notes/pics/trades reviewed/pt.7/Pasted image 20240106201225.png",
+    "Trading/Notes/pics/trades reviewed/pt.7",
+    "Trading/Notes/pics/trades reviewed",
+    "Trading/Notes/pics/trades reviewed/pt.7/Pasted image 20240106201728.png",
+    "oracle hosting.md",
+    "Trading/Notes/cotton 100 trades reviewed.md",
+    "Writing/Lyrics scratch book.md",
+    "Payyer secret code.md",
     "Watch list.md",
     "Trading/Roadmap.md",
     "Trading/Trade Logs",
@@ -165,9 +198,6 @@
     "Trading/Watch list.md",
     "Trading/Trading.md",
     "Trading/Progress.md",
-    "Trading/Notes/pics/misc notes/Pasted image 20240104150345 1 1 1.png",
-    "Trading/Notes/pics/misc notes/Pasted image 20240104150438 1 1 1.png",
-    "Trading/Notes/pics/misc notes/Pasted image 20240103004207 1 1 1.png",
     "Trading/Notes/pics/misc notes",
     "Trading/Notes/Notes.md",
     "Trading/Notes/Jookies Concepts.md",
@@ -178,25 +208,13 @@
     "Trading/Trading goals.md",
     "Writing/Dear New Year.md",
     "Writing/لخبطة نوايا.md",
-    "Trading/Pasted image 20240104150438.png",
-    "Trading/Pasted image 20240103004207.png",
     "Trading",
-    "Trading/Pasted image 20240104150345.png",
     "Writing/other.md",
     "لخبطة نوايا.md",
     "Writing/WIPs.md",
     "Writing/Writing.md",
     "Notes from Misc trading.md",
-    "Writing/drafts, sketches, scratches.md",
-    "Pasted image 20240103004207.png",
-    "Trading goals.md",
-    "Writing/Trading goals.md",
-    "blood.md",
-    "Writing/Inspiration.md",
-    "Writing/Full Pieces.md",
-    "Writing/Lyrics scratch book.md",
     "Systems",
-    "Systems/Linux",
-    "Writing"
+    "Systems/Linux"
   ]
 }
