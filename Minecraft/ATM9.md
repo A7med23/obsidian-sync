@@ -31,3 +31,5 @@
 - hoarder bee spawn eggs are made by bee conversion (need 10 bees, 10hopper and 10 shulker shells) right click normal bee with hopper then with shulker to make it hoarder bee
 
 - need a shit ton of rancher bees (30)
+
+- watch the last chapters of this video https://youtu.be/Ux1s7XheEGI?si=kd-ezro0ayzxEsl3 to setup the farms
