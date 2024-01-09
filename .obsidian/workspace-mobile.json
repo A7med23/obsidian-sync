@@ -73,7 +73,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "How to get art style.md",
+                "file": "Minecraft/ATM9.md",
                 "mode": "source",
                 "source": false
               }
@@ -146,7 +146,7 @@
         "state": {
           "type": "backlink",
           "state": {
-            "file": "How to get art style.md",
+            "file": "Minecraft/ATM9.md",
             "collapseAll": false,
             "extraContext": false,
             "sortOrder": "alphabetical",
@@ -163,7 +163,7 @@
         "state": {
           "type": "outgoing-link",
           "state": {
-            "file": "How to get art style.md",
+            "file": "Minecraft/ATM9.md",
             "linksCollapsed": false,
             "unlinkedCollapsed": true
           }
@@ -175,7 +175,7 @@
         "state": {
           "type": "outline",
           "state": {
-            "file": "How to get art style.md"
+            "file": "Minecraft/ATM9.md"
           }
         }
       }
@@ -192,12 +192,14 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "91630b54a717aba8",
+  "active": "480e906321060958",
   "lastOpenFiles": [
-    "Draw someone as cartoon.md",
-    "How to get art style.md",
-    "Untitled",
+    "Minecraft/Modded.md",
+    "Minecraft/ATM9.md",
     "Writing/Lyrics scratch book.md",
+    "Minecraft",
+    "How to get art style.md",
+    "Draw someone as cartoon.md",
     "Payyer secret code.md",
     "Trading/Notes/pics/overcoming fear of trading",
     "oracle hosting.png",
@@ -237,8 +239,6 @@
     "Trading/Trading goals.md",
     "Writing/Dear New Year.md",
     "Writing/لخبطة نوايا.md",
-    "Writing/other.md",
-    "لخبطة نوايا.md",
-    "Writing/WIPs.md"
+    "Writing/other.md"
   ]
 }

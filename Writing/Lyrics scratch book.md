@@ -1,4 +1,7 @@
 
+
+I can feel my strings pulling outta the fabric of reality
+
 All the war had me thinkin on my feet
 Sad but somedays i wished u were dead beat
 
