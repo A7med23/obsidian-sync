@@ -18,4 +18,5 @@
 
 ## wannabees
 * use biome compass to find a meadow biome, every tree there has a bee nest (100% chance)
+* Use advanced beehive with expansion
 * bee keeper villagers are very useful (put unemployed villager next to advanced beehive) 
