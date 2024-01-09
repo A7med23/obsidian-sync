@@ -1,6 +1,6 @@
 
 
-### beginner gear guide and progression
+## beginner gear guide and progression
 
 * you can put a normal stone tools in crafting to turn them into silent gear then replace their parts
 
@@ -14,3 +14,6 @@
 * Bones are one of the best for weapons
 * sword blade: Iron > osmium > enderium 
 * Put redstone tip on blade
+
+
+## wannabees
