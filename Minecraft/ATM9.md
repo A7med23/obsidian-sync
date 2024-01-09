@@ -28,4 +28,4 @@
 
 - piston the bees into a bottler then centeifuging the bottle to get genes. Combine bottles to get the 100% chance
 
-- hoarder bee spawn eggs are made by bee conversion
+- hoarder bee spawn eggs are made by bee conversion (need 10 bees, 10hopper and 10 shulker shells) right click normal bee with hopper then with shulker to make it hoarder bee
