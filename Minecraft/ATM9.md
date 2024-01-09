@@ -26,4 +26,4 @@
 - Right click nests with honey treats
 - Breed the sugarback and neon coocoo to make the pepto beesmol
 
-- 
+- piston the bees into a bottler then centeifuging the bottle to get genes. Combine bottles to get the 100% chance
