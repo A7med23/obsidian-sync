@@ -23,3 +23,4 @@
 
 * get a sugarback bee by breaking mature coco beans. Make a wall of them and grow them faster with lily pads of fertilization, bonemeal or watering can
 * Neon coocoo bee spawns about every 10 times a blue band bee comes out of its beehve. The blue band beehive can be made by crafting a sword with a dark oak log
+* Right click nests with honey treats
