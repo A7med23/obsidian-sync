@@ -8,6 +8,8 @@
 * Highest multiplier is signalum (1.3x)
 * pick head: iron > osmium > signalum
 * Gold tips is one of the best for pickaxe
+* Redstone tip is better late game when the multiplier is higher than the flat (6) value of the gold tip
 
 * Bones are one of the best for weapons
 * sword blade: Iron > osmium 
+* Put redstone tip on blade
