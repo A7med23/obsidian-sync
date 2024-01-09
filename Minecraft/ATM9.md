@@ -17,3 +17,5 @@
 
 
 ## wannabees
+* use biome compass to find a meadow biome, every tree there has a bee nest (100% chance)
+* 
