@@ -1,0 +1,1 @@
+tryndamere's eyes going from red to normal is what lvoe does to a mf
