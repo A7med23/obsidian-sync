@@ -45,7 +45,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "game dev/game ideas.md",
+                "file": "game dev/content creators.md",
                 "mode": "source",
                 "source": false
               }
@@ -118,7 +118,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "game dev/game ideas.md",
+                "file": "game dev/content creators.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -135,7 +135,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "game dev/game ideas.md",
+                "file": "game dev/content creators.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -158,7 +158,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "game dev/game ideas.md"
+                "file": "game dev/content creators.md"
               }
             }
           }
@@ -181,8 +181,9 @@
   },
   "active": "2f3a82f3bc82a1c0",
   "lastOpenFiles": [
-    "Art/pixel art for games.md",
     "game dev/game ideas.md",
+    "game dev/content creators.md",
+    "Art/pixel art for games.md",
     "game dev",
     "league im still here.md",
     "Trading/Notes/pics/Pasted image 20240106194319.png",
@@ -225,7 +226,6 @@
     "Trading/Trading.md",
     "Trading/Progress.md",
     "Trading/Watch list.md",
-    "Trading/Trade Logs",
-    "Writing/Writing.md"
+    "Trading/Trade Logs"
   ]
 }
