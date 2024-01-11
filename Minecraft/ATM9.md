@@ -15,6 +15,7 @@
 * sword blade: Iron > osmium > enderium 
 * Put redstone tip on blade
 * then go for morgan sword
+https://docs.google.com/spreadsheets/d/1cc5SODK5GzY2ENSMbnngqJtR9bOaW_N74ddZCD-9oII/edit#gid=0
 
 
 ## wannabees
