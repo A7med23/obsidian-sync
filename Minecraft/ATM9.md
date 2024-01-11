@@ -14,6 +14,7 @@
 * Bones are one of the best for weapons
 * sword blade: Iron > osmium > enderium 
 * Put redstone tip on blade
+* then go for morgan sword
 
 
 ## wannabees
