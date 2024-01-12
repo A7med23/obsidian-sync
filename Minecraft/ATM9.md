@@ -1,21 +1,5 @@
 
 ## todo list
-- [ ] getting fortune
-- make the vengeance pickaxe
-
-- make blood extractor (can combine more than one to have more storage)
-put blood on floor and let it dry then break it with flint and steal
-
-- get an empty bowl of promises crush dark gems in squeezer and craft them with it to make a dusted bowl of promises then put it into the blood infuser
-
-- make a promise of tenacity 1, and put it in the infuser
-
-- make a blook
-
-- make a purifier put it and fill it with blood
-
-- put pick in it for one cycle to remove the vengeance then second cylce put the blook with it
-
 
 ## beginner gear guide and progression
 
