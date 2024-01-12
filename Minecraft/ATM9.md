@@ -8,15 +8,15 @@
 - [x] Find suspicious clay there (go to portaly thing theyre around the bridge area)
 - [x] Get the all the modium ingot from the quest of killing the warden
 - [x] Make the charm and find some atm
-- [ ] Go to mining dimension 
+- [x] Go to mining dimension 
 - [x] Set up a reactor there for the builder
-- [ ] Make builder
-- [ ] Make shape card and filter card
+- [x] Make builder
+- [x] Make shape card and filter card
 - [ ] Get all atm gear
 - [ ] Make angel wand with infinity wand
 - [ ] Build the mob farm for apotheosis gear in the end
 - [ ] process the ores with mechanical squeezer then hammer them down then smelt them for 6x ore production
-- [ ] setup a builder at base and make it look for dimensional shard ore for the rf tools
+- [x] setup a builder at base and make it look for dimensional shard ore for the rf tools
 - [ ] 
 
 - [ ] get to twilight forest, set up a manual killing farm till u get the twilight gem. 
