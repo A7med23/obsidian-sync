@@ -1,5 +1,6 @@
 
 ## todo list
+- [ ] 1
 
 ## beginner gear guide and progression
 
