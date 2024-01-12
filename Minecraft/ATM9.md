@@ -12,6 +12,9 @@
 - [ ] Set up a reactor there for the builder
 - [ ] Make builder
 - [ ] Make shape card and filter card
+- [ ] Get all atm gear
+- [ ] Make angel wand with infinity wand
+- [ ] Build the mob farm for apotheosis gear in the end
 
 ## beginner gear guide and progression
 
