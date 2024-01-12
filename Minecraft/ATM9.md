@@ -8,6 +8,8 @@
 - [ ] Make the charm and find some atm
 - [ ] Go to mining dimension 
 - [ ] Set up a reactor there for the builder
+- [ ] Make builder
+- [ ] Make shape card and filter card
 
 ## beginner gear guide and progression
 
