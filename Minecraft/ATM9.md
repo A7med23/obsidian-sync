@@ -17,7 +17,9 @@
 - [ ] Build the mob farm for apotheosis gear in the end
 - [ ] process the ores with mechanical squeezer then hammer them down then smelt them for 6x ore production
 - [x] setup a builder at base and make it look for dimensional shard ore for the rf tools
-- [ ] 
+- [ ] find more dimensional shards (look up how to auto farm them)
+- [ ] make the atm gear
+- [ ] farm for apotheosis enchants
 
 - [ ] get to twilight forest, set up a manual killing farm till u get the twilight gem. 
 - [ ] Use that tk get the goblin to automate the gem dust thing
