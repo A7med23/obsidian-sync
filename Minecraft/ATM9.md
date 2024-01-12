@@ -15,6 +15,7 @@
 - [ ] Get all atm gear
 - [ ] Make angel wand with infinity wand
 - [ ] Build the mob farm for apotheosis gear in the end
+- [ ] Put on the night vision googles
 - [ ] process the ores with mechanical squeezer then hammer them down then smelt them for 6x ore production
 - [x] setup a builder at base and make it look for dimensional shard ore for the rf tools
 - [ ] find more dimensional shards (look up how to auto farm them)
