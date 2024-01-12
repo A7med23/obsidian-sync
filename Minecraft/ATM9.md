@@ -1,6 +1,7 @@
 
 ## todo list
 - [ ] Make jetpack
+- [ ] Use redstone stuff to automate the reactor regulation
 - [ ] craft twilight cloak
 - [ ] Go to ancient city kill warden
 - [ ] Find suspicious clay there (go to portaly thing theyre around the bridge area)
