@@ -3,7 +3,7 @@
 - [ ] Make jetpack
 - [ ] craft twilight cloak
 - [ ] Go to ancient city kill warden
-- [ ] Find suspicious clay there
+- [ ] Find suspicious clay there (go to portaly thing theyre around the bridge area)
 
 ## beginner gear guide and progression
 
