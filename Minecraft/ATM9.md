@@ -1,15 +1,15 @@
 
 ## todo list
-- [ ] Make jetpack
-- [ ] Use redstone stuff to automate the reactor regulation
-- [ ] Set up flux networks
-- [ ] craft twilight cloak
-- [ ] Go to ancient city kill warden
-- [ ] Find suspicious clay there (go to portaly thing theyre around the bridge area)
-- [ ] Get the all the modium ingot from the quest of killing the warden
-- [ ] Make the charm and find some atm
+- [x] Make jetpack
+- [x] Use redstone stuff to automate the reactor regulation
+- [x] Set up flux networks
+- [x] craft twilight cloak
+- [x] Go to ancient city kill warden
+- [x] Find suspicious clay there (go to portaly thing theyre around the bridge area)
+- [x] Get the all the modium ingot from the quest of killing the warden
+- [x] Make the charm and find some atm
 - [ ] Go to mining dimension 
-- [ ] Set up a reactor there for the builder
+- [x] Set up a reactor there for the builder
 - [ ] Make builder
 - [ ] Make shape card and filter card
 - [ ] Get all atm gear
