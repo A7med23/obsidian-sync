@@ -4,6 +4,9 @@
 - [ ] craft twilight cloak
 - [ ] Go to ancient city kill warden
 - [ ] Find suspicious clay there (go to portaly thing theyre around the bridge area)
+- [ ] Get the all the modium ingot from the quest of killing the warden
+- [ ] Make the charm
+- [ ] Go to mining dimension 
 
 ## beginner gear guide and progression
 
