@@ -15,6 +15,7 @@
 - [ ] Get all atm gear
 - [ ] Make angel wand with infinity wand
 - [ ] Build the mob farm for apotheosis gear in the end
+- [ ] process the ores with mechanical squeezer then hammer them down then smelt them for 6x ore production
 
 - [ ] get to twilight forest, set up a manual killing farm till u get the twilight gem. 
 - [ ] Use that tk get the goblin to automate the gem dust thing
