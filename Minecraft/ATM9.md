@@ -18,6 +18,7 @@
 
 - [ ] get to twilight forest, set up a manual killing farm till u get the twilight gem. 
 - [ ] Use that tk get the goblin to automate the gem dust thing
+- [ ] 2 rotten eggs on 2 5x5 dirts with vector plates on top and redstone ticking with rf tools timer under and kill them with enchanted sword for gems
 ## beginner gear guide and progression
 
 * you can put a normal stone tools in crafting to turn them into silent gear then replace their parts
