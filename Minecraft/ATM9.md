@@ -16,6 +16,8 @@
 - [ ] Make angel wand with infinity wand
 - [ ] Build the mob farm for apotheosis gear in the end
 
+- [ ] get to twilight forest, set up a manual killing farm till u get the twilight gem. 
+- [ ] Use that tk get the goblin to automate the gem dust thing
 ## beginner gear guide and progression
 
 * you can put a normal stone tools in crafting to turn them into silent gear then replace their parts
