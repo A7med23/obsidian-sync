@@ -1,7 +1,9 @@
 
 ## todo list
 - [ ] Make jetpack
-- [ ] 
+- [ ] craft twilight cloak
+- [ ] Go to ancient city kill warden
+- [ ] Find suspicious clay there
 
 ## beginner gear guide and progression
 
