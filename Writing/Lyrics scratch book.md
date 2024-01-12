@@ -1,5 +1,8 @@
 
 
+The rain pour i can feel the pain more
+It used to wash it all away
+
 I can feel my strings pulling outta the fabric of reality
 
 All the war had me thinkin on my feet

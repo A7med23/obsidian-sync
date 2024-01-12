@@ -85,7 +85,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Mice.md",
+                "file": "Minecraft/ATM9.md",
                 "mode": "source",
                 "source": false
               }
@@ -158,7 +158,7 @@
         "state": {
           "type": "backlink",
           "state": {
-            "file": "Mice.md",
+            "file": "Minecraft/ATM9.md",
             "collapseAll": false,
             "extraContext": false,
             "sortOrder": "alphabetical",
@@ -175,7 +175,7 @@
         "state": {
           "type": "outgoing-link",
           "state": {
-            "file": "Mice.md",
+            "file": "Minecraft/ATM9.md",
             "linksCollapsed": false,
             "unlinkedCollapsed": true
           }
@@ -187,7 +187,7 @@
         "state": {
           "type": "outline",
           "state": {
-            "file": "Mice.md"
+            "file": "Minecraft/ATM9.md"
           }
         }
       }
@@ -207,6 +207,12 @@
   "active": "b91b62c28649e8f3",
   "lastOpenFiles": [
     "Writing/Lyrics scratch book.md",
+    "game dev",
+    "game dev/game ideas.md",
+    "league im still here.md",
+    "Art/pixel art for games.md",
+    "game dev/content creators.md",
+    "Writing/drafts, sketches, scratches.md",
     "Mice.md",
     "Minecraft/Modded.md",
     "Minecraft/ATM9.md",
@@ -244,13 +250,6 @@
     "Trading/Progress.md",
     "Trading/Notes/pics/misc notes",
     "Trading/Notes/Notes.md",
-    "Trading/Notes/Jookies Concepts.md",
-    "Trading/Notes/pics",
-    "Trading/Notes/Notes from Misc trading.md",
-    "Trading/Notes",
-    "Trading/Notes from Misc trading.md",
-    "Trading/Trading goals.md",
-    "Writing/Dear New Year.md",
-    "Writing/لخبطة نوايا.md"
+    "Trading/Notes/pics"
   ]
 }

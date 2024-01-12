@@ -1,6 +1,7 @@
 
 ## todo list
-- [ ] 1
+- [ ] Make jetpack
+- [ ] 
 
 ## beginner gear guide and progression
 
