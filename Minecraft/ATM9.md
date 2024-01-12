@@ -5,8 +5,9 @@
 - [ ] Go to ancient city kill warden
 - [ ] Find suspicious clay there (go to portaly thing theyre around the bridge area)
 - [ ] Get the all the modium ingot from the quest of killing the warden
-- [ ] Make the charm
+- [ ] Make the charm and find some atm
 - [ ] Go to mining dimension 
+- [ ] Set up a reactor there for the builder
 
 ## beginner gear guide and progression
 
