@@ -26,10 +26,9 @@
 - [ ] Use that tk get the goblin to automate the gem dust thing
 - [ ] 2 rotten eggs on 2 5x5 dirts with vector plates on top and redstone ticking with rf tools timer under and kill them with enchanted sword for gems (only works on verwoeld)
 
+- [ ] make a mob farm that chosen architect made
 - [ ] make mystical agriculture farm 
 - [ ] use ender chest with diamond to make it private
-- [ ] 378 137 305
-- [ ] -190 -69 151
 ## beginner gear guide and progression
 
 * you can put a normal stone tools in crafting to turn them into silent gear then replace their parts
