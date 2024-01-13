@@ -28,6 +28,8 @@
 
 - [ ] make a mob farm that chosen architect made
 - [ ] make mystical agriculture farm 
+- [ ] use advanced item collector for 15x15
+- [ ] allow fake players for modular router
 - [ ] use ender chest with diamond to make it private
 ## beginner gear guide and progression
 
