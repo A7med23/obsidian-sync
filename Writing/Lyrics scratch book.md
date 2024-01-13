@@ -1,4 +1,5 @@
 
+the last vestige of hope is wiped
 
 Dont wanna do this anymore
 The party continues to roar
