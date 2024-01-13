@@ -28,6 +28,8 @@
 
 - [ ] make mystical agriculture farm 
 - [ ] use ender chest with diamond to make it private
+- [ ] 378 137 305
+- [ ] -190 -69 151
 ## beginner gear guide and progression
 
 * you can put a normal stone tools in crafting to turn them into silent gear then replace their parts
