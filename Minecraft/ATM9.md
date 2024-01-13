@@ -73,3 +73,5 @@ https://docs.google.com/spreadsheets/d/1cc5SODK5GzY2ENSMbnngqJtR9bOaW_N74ddZCD-9
 
 - use nest locater 
 - make an expansion box and advanced hive
+- automate vanilla bees to get honeycombs and honey (or use MA for honey)
+- 
