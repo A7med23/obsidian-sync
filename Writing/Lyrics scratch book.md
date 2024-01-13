@@ -1,5 +1,12 @@
 
 
+Dont wanna do this anymore
+The party continues to roar
+But im the only one on the dance floor
+
+Im not legend i dont have the cure for what weve become
+But our cards are on the table we’re both showing hearts
+
 The rain pour i can feel the pain more
 It used to wash it all away
 
