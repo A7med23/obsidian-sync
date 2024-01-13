@@ -51,6 +51,7 @@ https://docs.google.com/spreadsheets/d/1cc5SODK5GzY2ENSMbnngqJtR9bOaW_N74ddZCD-9
 
 ## wannabees
 - use biome compass to find a meadow biome, every tree there has a bee nest (100% chance)
+- 
 - Use advanced beehive with expansion
 - bee keeper villagers are very useful (put unemployed villager next to advanced beehive) 
 
@@ -66,3 +67,9 @@ https://docs.google.com/spreadsheets/d/1cc5SODK5GzY2ENSMbnngqJtR9bOaW_N74ddZCD-9
 - need a shit ton of rancher bees (30)
 
 - watch the last chapters of this video https://youtu.be/Ux1s7XheEGI?si=kd-ezro0ayzxEsl3 to setup the farms
+-
+
+## productive bees pilpoh guide
+
+- use nest locater 
+- make an expansion box and advanced hive
