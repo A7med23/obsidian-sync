@@ -79,3 +79,6 @@ https://docs.google.com/spreadsheets/d/1cc5SODK5GzY2ENSMbnngqJtR9bOaW_N74ddZCD-9
 - get a bunch of kamikaze bees for the high productivity trait
 - to get weather tolerance of any you need to get a prismarine bee
 - leave the bees outside fro a while to get metaturnal
+
+## powah
+- setting up energized steel automating 
