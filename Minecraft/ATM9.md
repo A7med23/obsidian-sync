@@ -32,6 +32,8 @@
 - [ ] allow fake players for modular router
 - [ ] use ender chest with diamond to make it private
 - [ ] Remake base (big hole in the ground)
+- [ ] Automate refined storage
+- [ ] Make a requester to keep things like glass in stock
 ## beginner gear guide and progression
 
 * you can put a normal stone tools in crafting to turn them into silent gear then replace their parts
