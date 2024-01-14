@@ -26,6 +26,8 @@
 - [ ] Use that tk get the goblin to automate the gem dust thing
 - [ ] 2 rotten eggs on 2 5x5 dirts with vector plates on top and redstone ticking with rf tools timer under and kill them with enchanted sword for gems (only works on verwoeld)
 
+- [ ] 
+
 - [ ] make a mob farm that chosen architect made
 - [ ] make mystical agriculture farm 
 - [ ] use advanced item collector for 15x15
