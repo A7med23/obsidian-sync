@@ -76,3 +76,4 @@ https://docs.google.com/spreadsheets/d/1cc5SODK5GzY2ENSMbnngqJtR9bOaW_N74ddZCD-9
 - automate vanilla bees to get honeycombs and honey (or use MA for honey)
 - shift right with the sturdy beecage when placing them down to gaurantee they plop into the nest
 - can use a feeding slap for aesthetics
+- get a bunch of kamikaze bees for the high productivity trait
