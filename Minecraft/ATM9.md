@@ -81,4 +81,4 @@ https://docs.google.com/spreadsheets/d/1cc5SODK5GzY2ENSMbnngqJtR9bOaW_N74ddZCD-9
 - leave the bees outside fro a while to get metaturnal
 
 ## powah
-- setting up energized steel automating 
+- setting up energized steel automating ![[Pasted image 20240114045132.png]]
