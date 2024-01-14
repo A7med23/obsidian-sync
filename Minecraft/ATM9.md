@@ -83,7 +83,6 @@ https://docs.google.com/spreadsheets/d/1cc5SODK5GzY2ENSMbnngqJtR9bOaW_N74ddZCD-9
 - can use a feeding slap for aesthetics
 - get a bunch of kamikaze bees for the high productivity trait
 - to get weather tolerance of any you need to get a prismarine bee
-- leave the bees outside fo a while to get metaturnal
-
+- leave the bees outside fo a while to get metaturnal ![[Pasted image 20240114185454.png]]
 ## powah
 - setting up energized steel automating ![[Pasted image 20240114045132.png]]
