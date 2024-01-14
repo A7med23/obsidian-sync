@@ -77,3 +77,5 @@ https://docs.google.com/spreadsheets/d/1cc5SODK5GzY2ENSMbnngqJtR9bOaW_N74ddZCD-9
 - shift right with the sturdy beecage when placing them down to gaurantee they plop into the nest
 - can use a feeding slap for aesthetics
 - get a bunch of kamikaze bees for the high productivity trait
+- to get weather tolerance of any you need to get a prismarine bee
+- leave the bees outside fro a while to get metaturnal
