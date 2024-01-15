@@ -1,6 +1,9 @@
 
 the last vestige of hope is wiped
 
+Your words cutting like knives
+Your brains thinking like hives 
+
 Dont wanna do this anymore
 The party continues to roar
 But im the only one on the dance floor
