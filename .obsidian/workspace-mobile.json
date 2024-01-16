@@ -102,9 +102,21 @@
                 "source": false
               }
             }
+          },
+          {
+            "id": "b877f264b9a51d9d",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "قرار.md",
+                "mode": "source",
+                "source": false
+              }
+            }
           }
         ],
-        "currentTab": 7
+        "currentTab": 8
       }
     ],
     "direction": "vertical"
@@ -170,7 +182,7 @@
         "state": {
           "type": "backlink",
           "state": {
-            "file": "Minecraft/ATM9.md",
+            "file": "قرار.md",
             "collapseAll": false,
             "extraContext": false,
             "sortOrder": "alphabetical",
@@ -187,7 +199,7 @@
         "state": {
           "type": "outgoing-link",
           "state": {
-            "file": "Minecraft/ATM9.md",
+            "file": "قرار.md",
             "linksCollapsed": false,
             "unlinkedCollapsed": true
           }
@@ -199,7 +211,7 @@
         "state": {
           "type": "outline",
           "state": {
-            "file": "Minecraft/ATM9.md"
+            "file": "قرار.md"
           }
         }
       }
@@ -216,11 +228,12 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "480e906321060958",
+  "active": "b877f264b9a51d9d",
   "lastOpenFiles": [
+    "Minecraft/ATM9.md",
+    "قرار.md",
     "Writing/Lyrics scratch book.md",
     "Pasted image 20240114185454.png",
-    "Minecraft/ATM9.md",
     "Pasted image 20240114045132.png",
     "كنت فاكر.md",
     "game dev",
