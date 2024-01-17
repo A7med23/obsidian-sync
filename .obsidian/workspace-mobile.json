@@ -109,7 +109,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Writing/Lyrics scratch book.md",
+                "file": "Writing/Addicted.md",
                 "mode": "source",
                 "source": false
               }
@@ -182,7 +182,7 @@
         "state": {
           "type": "backlink",
           "state": {
-            "file": "Writing/Lyrics scratch book.md",
+            "file": "Writing/Addicted.md",
             "collapseAll": false,
             "extraContext": false,
             "sortOrder": "alphabetical",
@@ -199,7 +199,7 @@
         "state": {
           "type": "outgoing-link",
           "state": {
-            "file": "Writing/Lyrics scratch book.md",
+            "file": "Writing/Addicted.md",
             "linksCollapsed": false,
             "unlinkedCollapsed": true
           }
@@ -211,7 +211,7 @@
         "state": {
           "type": "outline",
           "state": {
-            "file": "Writing/Lyrics scratch book.md"
+            "file": "Writing/Addicted.md"
           }
         }
       }
@@ -228,14 +228,15 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "480e906321060958",
+  "active": "b877f264b9a51d9d",
   "lastOpenFiles": [
-    "قرار.md",
-    "Minecraft/ATM9.md",
+    "Writing/كنت فاكر.md",
+    "Writing/Addicted.md",
+    "Writing/قرار.md",
     "Writing/Lyrics scratch book.md",
+    "Minecraft/ATM9.md",
     "Pasted image 20240114185454.png",
     "Pasted image 20240114045132.png",
-    "كنت فاكر.md",
     "game dev",
     "game dev/game ideas.md",
     "league im still here.md",
@@ -273,7 +274,6 @@
     "Trading/Strategy.md",
     "Trading/Watch list.md",
     "Trading/Trading.md",
-    "Trading/Progress.md",
     "Trading/Notes/pics/misc notes",
     "Trading/Notes/pics"
   ]
