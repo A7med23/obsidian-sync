@@ -1,7 +1,8 @@
 
 the last vestige of hope is wiped
 
-
+Like the Devil in the face
+Made it home safe
 
 Your words cutting like knives
 Your brains thinking like hives 
