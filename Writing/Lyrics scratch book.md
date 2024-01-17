@@ -1,6 +1,8 @@
 
 the last vestige of hope is wiped
 
+i remember my lessons and the people who taught me them
+
 My eyes leaked as i achieved
 
 the deeper i go the more hidden i am from the monsters outside
