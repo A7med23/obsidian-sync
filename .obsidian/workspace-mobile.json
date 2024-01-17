@@ -102,9 +102,21 @@
                 "source": false
               }
             }
+          },
+          {
+            "id": "b877f264b9a51d9d",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Writing/Lyrics scratch book.md",
+                "mode": "source",
+                "source": false
+              }
+            }
           }
         ],
-        "currentTab": 7
+        "currentTab": 8
       }
     ],
     "direction": "vertical"
@@ -170,7 +182,7 @@
         "state": {
           "type": "backlink",
           "state": {
-            "file": "Minecraft/ATM9.md",
+            "file": "Writing/Lyrics scratch book.md",
             "collapseAll": false,
             "extraContext": false,
             "sortOrder": "alphabetical",
@@ -187,7 +199,7 @@
         "state": {
           "type": "outgoing-link",
           "state": {
-            "file": "Minecraft/ATM9.md",
+            "file": "Writing/Lyrics scratch book.md",
             "linksCollapsed": false,
             "unlinkedCollapsed": true
           }
@@ -199,7 +211,7 @@
         "state": {
           "type": "outline",
           "state": {
-            "file": "Minecraft/ATM9.md"
+            "file": "Writing/Lyrics scratch book.md"
           }
         }
       }
@@ -216,12 +228,15 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "49526ef4157b3e83",
+  "active": "b877f264b9a51d9d",
   "lastOpenFiles": [
-    "Pasted image 20240114045132.png",
+    "Writing/Addicted.md",
+    "Writing/كنت فاكر.md",
+    "Writing/قرار.md",
     "Writing/Lyrics scratch book.md",
-    "كنت فاكر.md",
     "Minecraft/ATM9.md",
+    "Pasted image 20240114185454.png",
+    "Pasted image 20240114045132.png",
     "game dev",
     "game dev/game ideas.md",
     "league im still here.md",
@@ -245,11 +260,9 @@
     "Trading/Notes/pics/overcoming fear of trading/Pasted image 20240107171552.png",
     "Trading/Notes/pics/overcoming fear of trading/Pasted image 20240107171621.png",
     "Trading/Notes/pics/Pasted image 20240106195154.png",
-    "Trading/Notes/pics/Pasted image 20240106194319.png",
     "Art/Making Money as an artist by Kirsty Partridge.md",
     "Art",
     "Trading/Notes/Cotton 500 to 7400 video.md",
-    "Pasted image 20240107010555.png",
     "Trading/Notes/pics/trades reviewed/pt.7",
     "Trading/Notes/pics/trades reviewed",
     "oracle hosting.md",
@@ -261,7 +274,6 @@
     "Trading/Strategy.md",
     "Trading/Watch list.md",
     "Trading/Trading.md",
-    "Trading/Progress.md",
     "Trading/Notes/pics/misc notes",
     "Trading/Notes/pics"
   ]
