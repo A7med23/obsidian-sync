@@ -1,6 +1,8 @@
 
 the last vestige of hope is wiped
 
+My eyes leaked as i achieved
+
 the deeper i go the more hidden i am from the monsters outside
 But in this solidarity i face my demons
 Run from them outside then back down to them
