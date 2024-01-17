@@ -1,6 +1,8 @@
 
 the last vestige of hope is wiped
 
+
+
 Your words cutting like knives
 Your brains thinking like hives 
 
