@@ -92,7 +92,10 @@ https://docs.google.com/spreadsheets/d/1cc5SODK5GzY2ENSMbnngqJtR9bOaW_N74ddZCD-9
 - to get weather tolerance of any you need to get a prismarine bee
 - leave the bees outside fo a while to get metaturnal ![[Pasted image 20240114185454.png]]
 ## powah
-- setting up energized steel automating ![[Pasted image 20240114045132.png]]
+automating it:
+- put a crafter facing the energizing orb with a moduler router on top of it
+- the moduler router should have a puller module then a redstone module that outputs the redstone signal into the crafter and then a sender module that sends them into a refined storage interface. the modules must be in this order
+- ![[Pasted image 20240119230441.png]]
 
 
 ## mobs needed to be farmed for the ATM star
