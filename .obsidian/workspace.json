@@ -57,7 +57,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Writing/Lyrics scratch book.md",
+                "file": "Minecraft/ATM9.md",
                 "mode": "source",
                 "source": false
               }
@@ -130,7 +130,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Writing/Lyrics scratch book.md",
+                "file": "Minecraft/ATM9.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -147,7 +147,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Writing/Lyrics scratch book.md",
+                "file": "Minecraft/ATM9.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -170,7 +170,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Writing/Lyrics scratch book.md"
+                "file": "Minecraft/ATM9.md"
               }
             }
           }
@@ -193,6 +193,8 @@
   },
   "active": "2a5c06e26eb1ea96",
   "lastOpenFiles": [
+    "Pasted image 20240119043554.png",
+    "Writing/Lyrics scratch book.md",
     "Minecraft/ATM9.md",
     "conflict-files-obsidian-git.md",
     "Writing/كنت فاكر.md",
@@ -201,7 +203,6 @@
     "Minecraft/Modded.md",
     "Pasted image 20240114185454.png",
     "Pasted image 20240114045132.png",
-    "Writing/Lyrics scratch book.md",
     "كنت فاكر.md",
     "game dev/game ideas.md",
     "game dev/content creators.md",
@@ -237,7 +238,6 @@
     "Notes",
     "Art/Making Money as an artist by Kirsty Partridge.md",
     "Art",
-    "Trading/Trading goals.md",
     "Trading/Trade Logs"
   ]
 }
