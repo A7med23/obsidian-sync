@@ -100,3 +100,9 @@ automating it:
 
 ## mobs needed to be farmed for the ATM star
 https://www.youtube.com/watch?v=thRZwHWIqGM&t=435s&ab_channel=SystemCollapse
+
+
+## apo enchantment 
+max setup is 3x3 that has 3 masterful insight shelves, 4 of the quanta ones, one draconic 6 pearlescent and the rest is normal bokoshelves
+
+prismatic cobweb to remove curses
