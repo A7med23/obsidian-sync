@@ -1,26 +1,9 @@
 
 ## todo list
-- [x] Make jetpack
-- [x] Use redstone stuff to automate the reactor regulation
-- [x] Set up flux networks
-- [x] craft twilight cloak
-- [x] Go to ancient city kill warden
-- [x] Find suspicious clay there (go to portaly thing theyre around the bridge area)
-- [x] Get the all the modium ingot from the quest of killing the warden
-- [x] Make the charm and find some atm
-- [x] Go to mining dimension 
-- [x] Set up a reactor there for the builder
-- [x] Make builder
-- [x] Make shape card and filter card
+
 - [ ] Get all atm gear
 - [ ] Make angel wand with infinity wand
 - [ ] Build the mob farm for apotheosis gear in the end
-- [ ] Put on the night vision googles
-- [ ] process the ores with mechanical squeezer then hammer them down then smelt them for 6x ore production
-- [x] setup a builder at base and make it look for dimensional shard ore for the rf tools
-- [ ] find more dimensional shards (look up how to auto farm them)
-- [ ] make the atm gear
-- [ ] farm for apotheosis enchants
 
 - [ ] get to twilight forest, set up a manual killing farm till u get the twilight gem. 
 - [ ] Use that tk get the goblin to automate the gem dust thing
@@ -28,21 +11,10 @@
 
 - [ ] use MA for honey and then bees for the other stuff
 
-- [ ] make a mob farm that chosen architect made
-- [ ] make mystical agriculture farm 
-- [ ] use advanced item collector for 15x15
-- [ ] allow fake players for modular router
-- [ ] use ender chest with diamond to make it private
-- [ ] Remake base (big hole in the ground)
-- [ ] Automate refined storage
-- [ ] Make a requester to keep things like glass in stock
+- [ ] make a mob farm that chosen architect made for the gems
 
-- [ ] use a regulator upgrade for RF storage automation with mekanism and stuff that does processing
 - [ ] use quantum catcher for mobs
-- [x] Use chipped mod for blocks
 
-- [ ] make a chicken spawner by getting a chicken spawn egg by feeding it the gm chicken feed and a mob swap
-- [ ] use that spawner to make gm cursed feed to get rotten eggs
 ## beginner gear guide and progression
 
 * you can put a normal stone tools in crafting to turn them into silent gear then replace their parts

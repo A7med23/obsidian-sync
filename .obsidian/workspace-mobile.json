@@ -109,7 +109,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Writing/Lyrics scratch book.md",
+                "file": "Minecraft/ATM9.md",
                 "mode": "source",
                 "source": false
               }
@@ -182,7 +182,7 @@
         "state": {
           "type": "backlink",
           "state": {
-            "file": "Writing/Lyrics scratch book.md",
+            "file": "Minecraft/ATM9.md",
             "collapseAll": false,
             "extraContext": false,
             "sortOrder": "alphabetical",
@@ -199,7 +199,7 @@
         "state": {
           "type": "outgoing-link",
           "state": {
-            "file": "Writing/Lyrics scratch book.md",
+            "file": "Minecraft/ATM9.md",
             "linksCollapsed": false,
             "unlinkedCollapsed": true
           }
@@ -211,7 +211,7 @@
         "state": {
           "type": "outline",
           "state": {
-            "file": "Writing/Lyrics scratch book.md"
+            "file": "Minecraft/ATM9.md"
           }
         }
       }
@@ -230,10 +230,13 @@
   },
   "active": "b877f264b9a51d9d",
   "lastOpenFiles": [
+    "Writing/Lyrics scratch book.md",
+    "Writing/Miss saying it.md",
+    "Pasted image 20240119230441.png",
+    "Pasted image 20240119043554.png",
     "Writing/Addicted.md",
     "Writing/كنت فاكر.md",
     "Writing/قرار.md",
-    "Writing/Lyrics scratch book.md",
     "Minecraft/ATM9.md",
     "Pasted image 20240114185454.png",
     "Pasted image 20240114045132.png",
@@ -258,8 +261,6 @@
     "Trading/Notes/pics/trades reviewed/pt.9",
     "Trading/Notes/overcoming fear of failure.md",
     "Trading/Notes/pics/overcoming fear of trading/Pasted image 20240107171552.png",
-    "Trading/Notes/pics/overcoming fear of trading/Pasted image 20240107171621.png",
-    "Trading/Notes/pics/Pasted image 20240106195154.png",
     "Art/Making Money as an artist by Kirsty Partridge.md",
     "Art",
     "Trading/Notes/Cotton 500 to 7400 video.md",
@@ -273,7 +274,6 @@
     "Trading/Trade Logs/Trade Logs.md",
     "Trading/Strategy.md",
     "Trading/Watch list.md",
-    "Trading/Trading.md",
     "Trading/Notes/pics/misc notes",
     "Trading/Notes/pics"
   ]
