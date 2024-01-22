@@ -15,6 +15,10 @@
 
 - [ ] use quantum catcher for mobs
 
+- [ ] make a hyperbox for the phytogenic i sulators
+- [ ] Make an interface that takes puts in seeds and phytogrow and extracts the seeds and essence
+- [ ] make phytos for nether stars, quartz and uranium
+
 ## beginner gear guide and progression
 
 * you can put a normal stone tools in crafting to turn them into silent gear then replace their parts
