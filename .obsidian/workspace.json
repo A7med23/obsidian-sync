@@ -57,7 +57,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Writing/Miss saying it.md",
+                "file": "League/stuffs to watch.md",
                 "mode": "source",
                 "source": false
               }
@@ -130,7 +130,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Writing/Miss saying it.md",
+                "file": "League/stuffs to watch.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -147,7 +147,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Writing/Miss saying it.md",
+                "file": "League/stuffs to watch.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -170,7 +170,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Writing/Miss saying it.md"
+                "file": "League/stuffs to watch.md"
               }
             }
           }
@@ -193,8 +193,10 @@
   },
   "active": "2a5c06e26eb1ea96",
   "lastOpenFiles": [
-    "Minecraft/ATM9.md",
     "Writing/Miss saying it.md",
+    "League/stuffs to watch.md",
+    "League",
+    "Minecraft/ATM9.md",
     "Pasted image 20240119230441.png",
     "Pasted image 20240119043554.png",
     "Writing/Lyrics scratch book.md",
@@ -236,8 +238,6 @@
     "Trading/Notes/pics/trades reviewed",
     "Notes/pics",
     "Notes",
-    "Art/Making Money as an artist by Kirsty Partridge.md",
-    "Art",
-    "Trading/Trade Logs"
+    "Art"
   ]
 }
