@@ -1,6 +1,8 @@
 
 the last vestige of hope is wiped
 
+to be the best at anything, requires a lot of dissapointment
+
 i remember my lessons and the people who taught me them
 
 My eyes leaked as i achieved
