@@ -109,7 +109,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Writing/Security.md",
+                "file": "Writing/Printah.md",
                 "mode": "source",
                 "source": false
               }
@@ -182,7 +182,7 @@
         "state": {
           "type": "backlink",
           "state": {
-            "file": "Writing/Security.md",
+            "file": "Writing/Printah.md",
             "collapseAll": false,
             "extraContext": false,
             "sortOrder": "alphabetical",
@@ -199,7 +199,7 @@
         "state": {
           "type": "outgoing-link",
           "state": {
-            "file": "Writing/Security.md",
+            "file": "Writing/Printah.md",
             "linksCollapsed": false,
             "unlinkedCollapsed": true
           }
@@ -211,7 +211,7 @@
         "state": {
           "type": "outline",
           "state": {
-            "file": "Writing/Security.md"
+            "file": "Writing/Printah.md"
           }
         }
       }
@@ -230,8 +230,9 @@
   },
   "active": "b877f264b9a51d9d",
   "lastOpenFiles": [
-    "Minecraft/ATM9.md",
     "Writing/Security.md",
+    "Writing/Printah.md",
+    "Minecraft/ATM9.md",
     "League/stuffs to watch.md",
     "League",
     "Writing/Lyrics scratch book.md",
@@ -274,7 +275,6 @@
     "Watch list.md",
     "Trading/Roadmap.md",
     "Trading/Trade Logs",
-    "Trading/Trade Logs/Trade Logs.md",
     "Trading/Notes/pics/misc notes"
   ]
 }
