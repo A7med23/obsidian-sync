@@ -109,7 +109,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Minecraft/ATM9.md",
+                "file": "Writing/Security.md",
                 "mode": "source",
                 "source": false
               }
@@ -182,7 +182,7 @@
         "state": {
           "type": "backlink",
           "state": {
-            "file": "Minecraft/ATM9.md",
+            "file": "Writing/Security.md",
             "collapseAll": false,
             "extraContext": false,
             "sortOrder": "alphabetical",
@@ -199,7 +199,7 @@
         "state": {
           "type": "outgoing-link",
           "state": {
-            "file": "Minecraft/ATM9.md",
+            "file": "Writing/Security.md",
             "linksCollapsed": false,
             "unlinkedCollapsed": true
           }
@@ -211,7 +211,7 @@
         "state": {
           "type": "outline",
           "state": {
-            "file": "Minecraft/ATM9.md"
+            "file": "Writing/Security.md"
           }
         }
       }
@@ -228,8 +228,10 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "480e906321060958",
+  "active": "b877f264b9a51d9d",
   "lastOpenFiles": [
+    "Minecraft/ATM9.md",
+    "Writing/Security.md",
     "League/stuffs to watch.md",
     "League",
     "Writing/Lyrics scratch book.md",
@@ -239,7 +241,6 @@
     "Writing/Addicted.md",
     "Writing/كنت فاكر.md",
     "Writing/قرار.md",
-    "Minecraft/ATM9.md",
     "Pasted image 20240114185454.png",
     "Pasted image 20240114045132.png",
     "game dev",
@@ -274,7 +275,6 @@
     "Trading/Roadmap.md",
     "Trading/Trade Logs",
     "Trading/Trade Logs/Trade Logs.md",
-    "Trading/Strategy.md",
     "Trading/Notes/pics/misc notes"
   ]
 }
