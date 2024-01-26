@@ -109,7 +109,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Poison.md",
+                "file": "Writing/Lyrics scratch book.md",
                 "mode": "source",
                 "source": false
               }
@@ -182,7 +182,7 @@
         "state": {
           "type": "backlink",
           "state": {
-            "file": "Poison.md",
+            "file": "Writing/Lyrics scratch book.md",
             "collapseAll": false,
             "extraContext": false,
             "sortOrder": "alphabetical",
@@ -199,7 +199,7 @@
         "state": {
           "type": "outgoing-link",
           "state": {
-            "file": "Poison.md",
+            "file": "Writing/Lyrics scratch book.md",
             "linksCollapsed": false,
             "unlinkedCollapsed": true
           }
@@ -211,7 +211,7 @@
         "state": {
           "type": "outline",
           "state": {
-            "file": "Poison.md"
+            "file": "Writing/Lyrics scratch book.md"
           }
         }
       }
@@ -228,10 +228,12 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "b877f264b9a51d9d",
+  "active": "480e906321060958",
   "lastOpenFiles": [
-    "Writing/Full Pieces.md",
+    "Writing/Writing.md",
+    "Writing/Security.md",
     "Poison.md",
+    "Writing/Full Pieces.md",
     "Writing/Odds are lyrics.md",
     "Writing/Lyrics scratch book.md",
     "Writing/drafts, sketches, scratches.md",
@@ -240,7 +242,6 @@
     "Writing/WIPs.md",
     "Writing/Miss saying it.md",
     "Writing/Printer.md",
-    "Writing/Security.md",
     "Minecraft/ATM9.md",
     "League/stuffs to watch.md",
     "League",
@@ -269,7 +270,6 @@
     "Trading/Notes/pics/trades reviewed/pt.9/Pasted image 20240107010700.png",
     "Trading/Notes/pics/trades reviewed/pt.9/Pasted image 20240107010555.png",
     "Trading/Notes/pics/trades reviewed/pt.9",
-    "Trading/Notes/overcoming fear of failure.md",
     "Trading/Notes/pics/overcoming fear of trading/Pasted image 20240107171552.png",
     "Art",
     "Trading/Notes/pics/trades reviewed/pt.7",
