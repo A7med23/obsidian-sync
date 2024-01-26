@@ -109,7 +109,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Writing/Dear New Year.md",
+                "file": "Writing/Odds are lyrics.md",
                 "mode": "source",
                 "source": false
               }
@@ -182,7 +182,7 @@
         "state": {
           "type": "backlink",
           "state": {
-            "file": "Writing/Dear New Year.md",
+            "file": "Writing/Odds are lyrics.md",
             "collapseAll": false,
             "extraContext": false,
             "sortOrder": "alphabetical",
@@ -199,7 +199,7 @@
         "state": {
           "type": "outgoing-link",
           "state": {
-            "file": "Writing/Dear New Year.md",
+            "file": "Writing/Odds are lyrics.md",
             "linksCollapsed": false,
             "unlinkedCollapsed": true
           }
@@ -211,7 +211,7 @@
         "state": {
           "type": "outline",
           "state": {
-            "file": "Writing/Dear New Year.md"
+            "file": "Writing/Odds are lyrics.md"
           }
         }
       }
@@ -230,9 +230,12 @@
   },
   "active": "480e906321060958",
   "lastOpenFiles": [
+    "Writing/Lyrics scratch book.md",
+    "Writing/drafts, sketches, scratches.md",
+    "Writing/Bandage.md",
+    "Writing/Dear New Year.md",
     "Writing/WIPs.md",
     "Writing/Miss saying it.md",
-    "Writing/Lyrics scratch book.md",
     "Writing/Printer.md",
     "Writing/Security.md",
     "Minecraft/ATM9.md",
@@ -250,7 +253,6 @@
     "league im still here.md",
     "Art/pixel art for games.md",
     "game dev/content creators.md",
-    "Writing/drafts, sketches, scratches.md",
     "Mice.md",
     "Minecraft/Modded.md",
     "Minecraft",
@@ -272,8 +274,6 @@
     "Trading/Notes/pics/trades reviewed/pt.7",
     "Trading/Notes/pics/trades reviewed",
     "oracle hosting.md",
-    "Trading/Notes/cotton 100 trades reviewed.md",
-    "Watch list.md",
     "Trading/Trade Logs",
     "Trading/Notes/pics/misc notes"
   ]
