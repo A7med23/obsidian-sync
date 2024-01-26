@@ -109,7 +109,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Writing/Odds are lyrics.md",
+                "file": "Poison.md",
                 "mode": "source",
                 "source": false
               }
@@ -182,7 +182,7 @@
         "state": {
           "type": "backlink",
           "state": {
-            "file": "Writing/Odds are lyrics.md",
+            "file": "Poison.md",
             "collapseAll": false,
             "extraContext": false,
             "sortOrder": "alphabetical",
@@ -199,7 +199,7 @@
         "state": {
           "type": "outgoing-link",
           "state": {
-            "file": "Writing/Odds are lyrics.md",
+            "file": "Poison.md",
             "linksCollapsed": false,
             "unlinkedCollapsed": true
           }
@@ -211,7 +211,7 @@
         "state": {
           "type": "outline",
           "state": {
-            "file": "Writing/Odds are lyrics.md"
+            "file": "Poison.md"
           }
         }
       }
@@ -228,8 +228,11 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "480e906321060958",
+  "active": "b877f264b9a51d9d",
   "lastOpenFiles": [
+    "Writing/Full Pieces.md",
+    "Poison.md",
+    "Writing/Odds are lyrics.md",
     "Writing/Lyrics scratch book.md",
     "Writing/drafts, sketches, scratches.md",
     "Writing/Bandage.md",
@@ -268,12 +271,9 @@
     "Trading/Notes/pics/trades reviewed/pt.9",
     "Trading/Notes/overcoming fear of failure.md",
     "Trading/Notes/pics/overcoming fear of trading/Pasted image 20240107171552.png",
-    "Art/Making Money as an artist by Kirsty Partridge.md",
     "Art",
-    "Trading/Notes/Cotton 500 to 7400 video.md",
     "Trading/Notes/pics/trades reviewed/pt.7",
     "Trading/Notes/pics/trades reviewed",
-    "oracle hosting.md",
     "Trading/Trade Logs",
     "Trading/Notes/pics/misc notes"
   ]
