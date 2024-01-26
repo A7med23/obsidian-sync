@@ -109,7 +109,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Writing/Lyrics scratch book.md",
+                "file": "Writing/Dear New Year.md",
                 "mode": "source",
                 "source": false
               }
@@ -182,7 +182,7 @@
         "state": {
           "type": "backlink",
           "state": {
-            "file": "Writing/Lyrics scratch book.md",
+            "file": "Writing/Dear New Year.md",
             "collapseAll": false,
             "extraContext": false,
             "sortOrder": "alphabetical",
@@ -199,7 +199,7 @@
         "state": {
           "type": "outgoing-link",
           "state": {
-            "file": "Writing/Lyrics scratch book.md",
+            "file": "Writing/Dear New Year.md",
             "linksCollapsed": false,
             "unlinkedCollapsed": true
           }
@@ -211,7 +211,7 @@
         "state": {
           "type": "outline",
           "state": {
-            "file": "Writing/Lyrics scratch book.md"
+            "file": "Writing/Dear New Year.md"
           }
         }
       }
@@ -230,13 +230,14 @@
   },
   "active": "480e906321060958",
   "lastOpenFiles": [
+    "Writing/WIPs.md",
+    "Writing/Miss saying it.md",
+    "Writing/Lyrics scratch book.md",
     "Writing/Printer.md",
     "Writing/Security.md",
     "Minecraft/ATM9.md",
     "League/stuffs to watch.md",
     "League",
-    "Writing/Lyrics scratch book.md",
-    "Writing/Miss saying it.md",
     "Pasted image 20240119230441.png",
     "Pasted image 20240119043554.png",
     "Writing/Addicted.md",
@@ -273,7 +274,6 @@
     "oracle hosting.md",
     "Trading/Notes/cotton 100 trades reviewed.md",
     "Watch list.md",
-    "Trading/Roadmap.md",
     "Trading/Trade Logs",
     "Trading/Notes/pics/misc notes"
   ]
