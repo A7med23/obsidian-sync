@@ -18,7 +18,7 @@
 - [ ] make a hyperbox for the phytogenic i sulators
 - [ ] Make an interface that takes puts in seeds and phytogrow and extracts the seeds and essence
 - [ ] make phytos for nether stars, quartz and uranium
-- [ ] 
+- [ ] setup warden in a hyper box with environmental controller above him to heal him and the spells to suck him off for mana
 
 ## beginner gear guide and progression
 
