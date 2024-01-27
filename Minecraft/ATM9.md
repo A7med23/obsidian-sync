@@ -18,6 +18,7 @@
 - [ ] make a hyperbox for the phytogenic i sulators
 - [ ] Make an interface that takes puts in seeds and phytogrow and extracts the seeds and essence
 - [ ] make phytos for nether stars, quartz and uranium
+- [ ] 
 
 ## beginner gear guide and progression
 
