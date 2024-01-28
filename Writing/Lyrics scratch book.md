@@ -1,6 +1,12 @@
 
 the last vestige of hope is wiped
 
+Shoot we aint dead
+Martyrs marching six feet deep
+
+Dont know if ill ever forgive u for taking yourself away
+But my love for you isnt measurable and will forever stay
+
 to be the best at anything, requires a lot of dissapointment
 
 i remember my lessons and the people who taught me them
