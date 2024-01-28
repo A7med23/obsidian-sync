@@ -1,6 +1,9 @@
 
 the last vestige of hope is wiped
 
+Think u can play god without permission?
+Killing and combing those children
+
 Shoot we aint dead
 Martyrs marching six feet deep
 
