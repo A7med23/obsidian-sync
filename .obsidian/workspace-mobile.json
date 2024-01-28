@@ -109,7 +109,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Writing/Lyrics scratch book.md",
+                "file": "Dont die.md",
                 "mode": "source",
                 "source": false
               }
@@ -182,7 +182,7 @@
         "state": {
           "type": "backlink",
           "state": {
-            "file": "Writing/Lyrics scratch book.md",
+            "file": "Dont die.md",
             "collapseAll": false,
             "extraContext": false,
             "sortOrder": "alphabetical",
@@ -199,7 +199,7 @@
         "state": {
           "type": "outgoing-link",
           "state": {
-            "file": "Writing/Lyrics scratch book.md",
+            "file": "Dont die.md",
             "linksCollapsed": false,
             "unlinkedCollapsed": true
           }
@@ -211,7 +211,7 @@
         "state": {
           "type": "outline",
           "state": {
-            "file": "Writing/Lyrics scratch book.md"
+            "file": "Dont die.md"
           }
         }
       }
@@ -230,11 +230,12 @@
   },
   "active": "b877f264b9a51d9d",
   "lastOpenFiles": [
-    "Writing/drafts, sketches, scratches.md",
-    "dying star.md",
     "Writing/WIPs.md",
+    "Dont die.md",
     "Writing/Writing.md",
+    "Writing/drafts, sketches, scratches.md",
     "Writing/Lyrics scratch book.md",
+    "dying star.md",
     "Writing/Guardian angel.md",
     "Writing/Security.md",
     "Poison.md",
@@ -262,7 +263,6 @@
     "Mice.md",
     "Minecraft/Modded.md",
     "Minecraft",
-    "How to get art style.md",
     "Trading/Notes/pics/overcoming fear of trading",
     "oracle hosting.png",
     "Trading/Notes/pics/overcoming fear of trading/Pasted image 20240107172126.png",
