@@ -12,4 +12,7 @@ Shoot, bomb, nuke we don’t die
 Martyrs marching six feet deep
 Don't think your soldiers seeing ghosts is a bit weird?
 
+Truths in plain sight but they’re denying
+
+
 Soon you’ll be a relic of the past, yahoo
