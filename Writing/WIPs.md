@@ -8,4 +8,4 @@
 [[Printer]]
 [[Security]]
 [[dying star]]
-[[Dont die]]
+[[Still fighting]]

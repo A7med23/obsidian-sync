@@ -109,7 +109,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Dont die.md",
+                "file": "Still fighting.md",
                 "mode": "source",
                 "source": false
               }
@@ -182,7 +182,7 @@
         "state": {
           "type": "backlink",
           "state": {
-            "file": "Dont die.md",
+            "file": "Still fighting.md",
             "collapseAll": false,
             "extraContext": false,
             "sortOrder": "alphabetical",
@@ -199,7 +199,7 @@
         "state": {
           "type": "outgoing-link",
           "state": {
-            "file": "Dont die.md",
+            "file": "Still fighting.md",
             "linksCollapsed": false,
             "unlinkedCollapsed": true
           }
@@ -211,7 +211,7 @@
         "state": {
           "type": "outline",
           "state": {
-            "file": "Dont die.md"
+            "file": "Still fighting.md"
           }
         }
       }
@@ -231,7 +231,7 @@
   "active": "b877f264b9a51d9d",
   "lastOpenFiles": [
     "Writing/WIPs.md",
-    "Dont die.md",
+    "Still fighting.md",
     "Writing/Writing.md",
     "Writing/drafts, sketches, scratches.md",
     "Writing/Lyrics scratch book.md",
