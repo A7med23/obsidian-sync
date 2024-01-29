@@ -13,6 +13,7 @@ Martyrs marching six feet deep
 Don't think your soldiers seeing ghosts is a bit weird?
 
 Truths in plain sight but they’re denying
+Own the banks and the media, still caught lying
 
 
 Soon you’ll be a relic of the past, yahoo
