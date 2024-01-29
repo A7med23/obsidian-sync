@@ -1,15 +1,15 @@
-Think u can play god without permission?
-Killing and combing those children
-Bitch all out war for each of their cries
-We aint like we wont just lie on our backs and die in an oven
-Shoot, bomb, nuke we dont die
-Martyrs marching six feet deep
-
-
-
-Thought the painter was bad?
-Well let me draw this picture for you
+Think the painter was bad?
+Well let me draw you this picture
+A land taken despite being forbidden by their scripture
 A sieged border relentlessly bombed
-How different is that from an oven
+Fires blaze neither safe inside nor out in the open
+How different is that really from an oven
+
+Think u can play god without permission?
+Killing and bombing those children
+Bitch all out war for each of their cries
+Shoot, bomb, nuke we don’t die
+Martyrs marching six feet deep
+Don't think your soldiers seeing ghosts is a bit weird?
 
 Soon you’ll be a relic of the past, yahoo
