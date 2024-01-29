@@ -14,6 +14,5 @@ Don't think your soldiers seeing ghosts is a bit weird?
 
 Truths in plain sight but they’re denying
 Own the banks and the media, still caught lying
-Leaders caught with pants down
-
-Soon you’ll be a relic of the past, yahoo
+Leaders caught with pants down ain’t got nothing to do
+But sooner or later you’ll be a relic of the past, yahoo
