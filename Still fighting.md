@@ -12,6 +12,7 @@ Shoot, bomb, nuke we don’t die
 Martyrs marching six feet deep
 Don't think your soldiers seeing ghosts is a bit weird?
 
+Take away food, water and shelter we’re still fighting
 Truths in plain sight but they’re denying
 Own the banks and the media, still caught lying
 Leaders caught with pants down ain’t got nothing to do
