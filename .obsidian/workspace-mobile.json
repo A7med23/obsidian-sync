@@ -109,7 +109,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Still fighting.md",
+                "file": "dying star.md",
                 "mode": "source",
                 "source": false
               }
@@ -182,7 +182,7 @@
         "state": {
           "type": "backlink",
           "state": {
-            "file": "Still fighting.md",
+            "file": "dying star.md",
             "collapseAll": false,
             "extraContext": false,
             "sortOrder": "alphabetical",
@@ -199,7 +199,7 @@
         "state": {
           "type": "outgoing-link",
           "state": {
-            "file": "Still fighting.md",
+            "file": "dying star.md",
             "linksCollapsed": false,
             "unlinkedCollapsed": true
           }
@@ -211,7 +211,7 @@
         "state": {
           "type": "outline",
           "state": {
-            "file": "Still fighting.md"
+            "file": "dying star.md"
           }
         }
       }
@@ -231,8 +231,8 @@
   "active": "b877f264b9a51d9d",
   "lastOpenFiles": [
     "Writing/WIPs.md",
-    "Still fighting.md",
     "Writing/Writing.md",
+    "Still fighting.md",
     "Writing/drafts, sketches, scratches.md",
     "Writing/Lyrics scratch book.md",
     "dying star.md",

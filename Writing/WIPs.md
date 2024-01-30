@@ -9,3 +9,6 @@
 [[Security]]
 [[dying star]]
 [[Still fighting]]
+[[قرار]]
+[[كنت فاكر]]
+[[half way down (bojack)]]
