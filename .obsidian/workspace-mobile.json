@@ -109,7 +109,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Writing/Lyrics scratch book.md",
+                "file": "wake up.md",
                 "mode": "source",
                 "source": false
               }
@@ -182,7 +182,7 @@
         "state": {
           "type": "backlink",
           "state": {
-            "file": "Writing/Lyrics scratch book.md",
+            "file": "wake up.md",
             "collapseAll": false,
             "extraContext": false,
             "sortOrder": "alphabetical",
@@ -199,7 +199,7 @@
         "state": {
           "type": "outgoing-link",
           "state": {
-            "file": "Writing/Lyrics scratch book.md",
+            "file": "wake up.md",
             "linksCollapsed": false,
             "unlinkedCollapsed": true
           }
@@ -211,7 +211,7 @@
         "state": {
           "type": "outline",
           "state": {
-            "file": "Writing/Lyrics scratch book.md"
+            "file": "wake up.md"
           }
         }
       }
@@ -228,14 +228,15 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "b877f264b9a51d9d",
+  "active": "480e906321060958",
   "lastOpenFiles": [
+    "Writing/Lyrics scratch book.md",
+    "wake up.md",
+    "Writing/WIPs.md",
     "Writing/drafts, sketches, scratches.md",
     "dying star.md",
-    "Writing/WIPs.md",
     "Writing/Writing.md",
     "Still fighting.md",
-    "Writing/Lyrics scratch book.md",
     "Writing/Guardian angel.md",
     "Writing/Security.md",
     "Poison.md",
@@ -261,7 +262,6 @@
     "Art/pixel art for games.md",
     "game dev/content creators.md",
     "Mice.md",
-    "Minecraft/Modded.md",
     "Minecraft",
     "Trading/Notes/pics/overcoming fear of trading",
     "oracle hosting.png",
