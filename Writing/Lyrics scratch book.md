@@ -1,6 +1,15 @@
 
 the last vestige of hope is wiped
 
+Dont mistake our peace for surrender
+Over step and ashes your feet will be rendered
+
+Take the pigment out my skin if that means i get to live
+
+How many cheeks do we have to turn
+
+You aint “neutral” youre dumb deaf and blind, a triplet
+
 I think I’ve seen this before, and the ending wasn’t pretty
 Didn’t notice it was dawning on me so swiftly(tswift)
 If i ever (iver) give up …
