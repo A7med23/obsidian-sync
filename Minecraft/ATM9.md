@@ -19,6 +19,7 @@
 - [ ] Make an interface that takes puts in seeds and phytogrow and extracts the seeds and essence
 - [ ] make phytos for nether stars, quartz and uranium
 - [ ] setup warden in a hyper box with environmental controller above him to heal him and the spells to suck him off for mana
+- [ ] farm materials for the ender upgrades
 
 ## beginner gear guide and progression
 
