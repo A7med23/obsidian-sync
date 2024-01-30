@@ -1,6 +1,10 @@
 
 the last vestige of hope is wiped
 
+I think I’ve seen this before, and the ending wasn’t pretty
+Didn’t notice it was dawning on me so swiftly(tswift)
+If i ever (iver) give up …
+
 Dont know if ill ever forgive u for taking yourself away
 But my love for you isnt measurable and will forever stay
 

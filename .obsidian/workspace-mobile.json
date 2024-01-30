@@ -109,7 +109,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "dying star.md",
+                "file": "Writing/Lyrics scratch book.md",
                 "mode": "source",
                 "source": false
               }
@@ -182,7 +182,7 @@
         "state": {
           "type": "backlink",
           "state": {
-            "file": "dying star.md",
+            "file": "Writing/Lyrics scratch book.md",
             "collapseAll": false,
             "extraContext": false,
             "sortOrder": "alphabetical",
@@ -199,7 +199,7 @@
         "state": {
           "type": "outgoing-link",
           "state": {
-            "file": "dying star.md",
+            "file": "Writing/Lyrics scratch book.md",
             "linksCollapsed": false,
             "unlinkedCollapsed": true
           }
@@ -211,7 +211,7 @@
         "state": {
           "type": "outline",
           "state": {
-            "file": "dying star.md"
+            "file": "Writing/Lyrics scratch book.md"
           }
         }
       }
@@ -230,12 +230,12 @@
   },
   "active": "b877f264b9a51d9d",
   "lastOpenFiles": [
+    "Writing/drafts, sketches, scratches.md",
+    "dying star.md",
     "Writing/WIPs.md",
     "Writing/Writing.md",
     "Still fighting.md",
-    "Writing/drafts, sketches, scratches.md",
     "Writing/Lyrics scratch book.md",
-    "dying star.md",
     "Writing/Guardian angel.md",
     "Writing/Security.md",
     "Poison.md",
