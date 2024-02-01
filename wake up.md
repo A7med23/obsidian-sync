@@ -11,4 +11,6 @@ Toxic “social” media and porn and its all free too
 stripping them off any minds or brains
 Morph them into gears
 Grind them in machines
-Spread their genes
+
+Took societal roles ‘n turned them to 9-5s
+Slavin us away calling it jobs
