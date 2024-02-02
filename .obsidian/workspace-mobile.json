@@ -109,7 +109,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "wake up.md",
+                "file": "Writing/Lyrics scratch book.md",
                 "mode": "source",
                 "source": false
               }
@@ -182,7 +182,7 @@
         "state": {
           "type": "backlink",
           "state": {
-            "file": "wake up.md",
+            "file": "Writing/Lyrics scratch book.md",
             "collapseAll": false,
             "extraContext": false,
             "sortOrder": "alphabetical",
@@ -199,7 +199,7 @@
         "state": {
           "type": "outgoing-link",
           "state": {
-            "file": "wake up.md",
+            "file": "Writing/Lyrics scratch book.md",
             "linksCollapsed": false,
             "unlinkedCollapsed": true
           }
@@ -211,7 +211,7 @@
         "state": {
           "type": "outline",
           "state": {
-            "file": "wake up.md"
+            "file": "Writing/Lyrics scratch book.md"
           }
         }
       }
@@ -230,10 +230,10 @@
   },
   "active": "b877f264b9a51d9d",
   "lastOpenFiles": [
-    "Writing/Lyrics scratch book.md",
-    "wake up.md",
-    "Writing/WIPs.md",
     "Writing/drafts, sketches, scratches.md",
+    "wake up.md",
+    "Writing/Lyrics scratch book.md",
+    "Writing/WIPs.md",
     "dying star.md",
     "Writing/Writing.md",
     "Still fighting.md",

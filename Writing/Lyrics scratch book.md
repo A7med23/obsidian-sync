@@ -1,6 +1,9 @@
 
 the last vestige of hope is wiped
 
+Protected yall from it but no one thought about what it left inside of me (him and what he left inwide of me)
+Im now my own villain
+
 Dont mistake our peace for surrender
 Over step and ashes your feet will be rendered
 
