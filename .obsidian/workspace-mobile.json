@@ -109,7 +109,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Writing/Full Pieces.md",
+                "file": "wake up.md",
                 "mode": "source",
                 "source": false
               }
@@ -182,7 +182,7 @@
         "state": {
           "type": "backlink",
           "state": {
-            "file": "Writing/Full Pieces.md",
+            "file": "wake up.md",
             "collapseAll": false,
             "extraContext": false,
             "sortOrder": "alphabetical",
@@ -199,7 +199,7 @@
         "state": {
           "type": "outgoing-link",
           "state": {
-            "file": "Writing/Full Pieces.md",
+            "file": "wake up.md",
             "linksCollapsed": false,
             "unlinkedCollapsed": true
           }
@@ -211,7 +211,7 @@
         "state": {
           "type": "outline",
           "state": {
-            "file": "Writing/Full Pieces.md"
+            "file": "wake up.md"
           }
         }
       }
@@ -228,8 +228,9 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "480e906321060958",
+  "active": "b877f264b9a51d9d",
   "lastOpenFiles": [
+    "Writing/Full Pieces.md",
     "Writing/Lyrics scratch book.md",
     "Writing/drafts, sketches, scratches.md",
     "wake up.md",
@@ -240,7 +241,6 @@
     "Writing/Guardian angel.md",
     "Writing/Security.md",
     "Poison.md",
-    "Writing/Full Pieces.md",
     "Writing/Odds are lyrics.md",
     "Writing/Bandage.md",
     "Writing/Dear New Year.md",
