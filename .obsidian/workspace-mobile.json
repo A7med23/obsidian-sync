@@ -109,7 +109,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Writing/Lyrics scratch book.md",
+                "file": "Writing/Full Pieces.md",
                 "mode": "source",
                 "source": false
               }
@@ -182,7 +182,7 @@
         "state": {
           "type": "backlink",
           "state": {
-            "file": "Writing/Lyrics scratch book.md",
+            "file": "Writing/Full Pieces.md",
             "collapseAll": false,
             "extraContext": false,
             "sortOrder": "alphabetical",
@@ -199,7 +199,7 @@
         "state": {
           "type": "outgoing-link",
           "state": {
-            "file": "Writing/Lyrics scratch book.md",
+            "file": "Writing/Full Pieces.md",
             "linksCollapsed": false,
             "unlinkedCollapsed": true
           }
@@ -211,7 +211,7 @@
         "state": {
           "type": "outline",
           "state": {
-            "file": "Writing/Lyrics scratch book.md"
+            "file": "Writing/Full Pieces.md"
           }
         }
       }
@@ -228,11 +228,11 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "b877f264b9a51d9d",
+  "active": "480e906321060958",
   "lastOpenFiles": [
+    "Writing/Lyrics scratch book.md",
     "Writing/drafts, sketches, scratches.md",
     "wake up.md",
-    "Writing/Lyrics scratch book.md",
     "Writing/WIPs.md",
     "dying star.md",
     "Writing/Writing.md",
