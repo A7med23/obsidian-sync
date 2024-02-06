@@ -3,6 +3,11 @@ the last vestige of hope is wiped
 
 الشغف يحرك الهواة المسؤولية تحرك المحترفين و الفضول يحرك العباقرة
 
+Look
+I dont tear pages from books
+Can count those i care about
+
+
 Protected yall from it but no one thought about what it left inside of me (him and what he left inwide of me)
 Im now my own villain
 
