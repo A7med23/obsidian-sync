@@ -56,18 +56,6 @@
             }
           },
           {
-            "id": "b2bef762aeb6e4b6",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Draw someone as cartoon.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
             "id": "91630b54a717aba8",
             "type": "leaf",
             "state": {
@@ -109,14 +97,14 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Writing/Lyrics scratch book.md",
+                "file": "Writing/Odds are lyrics.md",
                 "mode": "source",
                 "source": false
               }
             }
           }
         ],
-        "currentTab": 8
+        "currentTab": 7
       }
     ],
     "direction": "vertical"
@@ -182,7 +170,7 @@
         "state": {
           "type": "backlink",
           "state": {
-            "file": "Writing/Lyrics scratch book.md",
+            "file": "Writing/Odds are lyrics.md",
             "collapseAll": false,
             "extraContext": false,
             "sortOrder": "alphabetical",
@@ -199,7 +187,7 @@
         "state": {
           "type": "outgoing-link",
           "state": {
-            "file": "Writing/Lyrics scratch book.md",
+            "file": "Writing/Odds are lyrics.md",
             "linksCollapsed": false,
             "unlinkedCollapsed": true
           }
@@ -211,7 +199,7 @@
         "state": {
           "type": "outline",
           "state": {
-            "file": "Writing/Lyrics scratch book.md"
+            "file": "Writing/Odds are lyrics.md"
           }
         }
       }
@@ -230,9 +218,15 @@
   },
   "active": "480e906321060958",
   "lastOpenFiles": [
+    "Writing/dying star.md",
+    "Writing/Lyrics scratch book.md",
+    "Writing/wake up.md",
+    "Writing/Still fighting.md",
+    "Art/Draw someone as cartoon.md",
+    "Art/How to get art style.md",
+    "Writing/Poison.md",
     "wake up.md",
     "Writing/Full Pieces.md",
-    "Writing/Lyrics scratch book.md",
     "Writing/drafts, sketches, scratches.md",
     "Writing/WIPs.md",
     "dying star.md",
@@ -253,15 +247,9 @@
     "Pasted image 20240119043554.png",
     "Writing/Addicted.md",
     "Writing/كنت فاكر.md",
-    "Writing/قرار.md",
     "Pasted image 20240114185454.png",
     "Pasted image 20240114045132.png",
     "game dev",
-    "game dev/game ideas.md",
-    "league im still here.md",
-    "Art/pixel art for games.md",
-    "game dev/content creators.md",
-    "Mice.md",
     "Minecraft",
     "Trading/Notes/pics/overcoming fear of trading",
     "oracle hosting.png",

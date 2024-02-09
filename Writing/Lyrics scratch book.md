@@ -5,8 +5,17 @@ the last vestige of hope is wiped
 
 Look
 I dont tear pages from books
-Can count those i care about
+‘n i dont got nothing to lose
+So out of my way I’d advise you to move
+Got one reason left to draw my next breath
+Go for it and I’ll make you wish for death
+This smile’s got hell brewing underneath it
+So don’t mistake this kindness for weakness
 
+Can count on one hand those i care about
+Take a bullet for them any day no doubt
+Protect them with the last of my breaths
+And I’ll kill if it gets desperate
 
 Protected yall from it but no one thought about what it left inside of me (him and what he left inwide of me)
 Im now my own villain
