@@ -3,6 +3,8 @@ the last vestige of hope is wiped
 
 الشغف يحرك الهواة المسؤولية تحرك المحترفين و الفضول يحرك العباقرة
 
+My reasons cut like knives
+
 Look
 I dont tear pages from books
 ‘n i dont got nothing to lose

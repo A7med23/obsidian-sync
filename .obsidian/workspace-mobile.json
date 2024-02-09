@@ -97,7 +97,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Writing/Odds are lyrics.md",
+                "file": "Writing/Lyrics scratch book.md",
                 "mode": "source",
                 "source": false
               }
@@ -170,7 +170,7 @@
         "state": {
           "type": "backlink",
           "state": {
-            "file": "Writing/Odds are lyrics.md",
+            "file": "Writing/Lyrics scratch book.md",
             "collapseAll": false,
             "extraContext": false,
             "sortOrder": "alphabetical",
@@ -187,7 +187,7 @@
         "state": {
           "type": "outgoing-link",
           "state": {
-            "file": "Writing/Odds are lyrics.md",
+            "file": "Writing/Lyrics scratch book.md",
             "linksCollapsed": false,
             "unlinkedCollapsed": true
           }
@@ -199,7 +199,7 @@
         "state": {
           "type": "outline",
           "state": {
-            "file": "Writing/Odds are lyrics.md"
+            "file": "Writing/Lyrics scratch book.md"
           }
         }
       }
@@ -216,10 +216,12 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "480e906321060958",
+  "active": "b877f264b9a51d9d",
   "lastOpenFiles": [
-    "Writing/dying star.md",
+    "Writing/drafts, sketches, scratches.md",
+    "Writing/Odds are lyrics.md",
     "Writing/Lyrics scratch book.md",
+    "Writing/dying star.md",
     "Writing/wake up.md",
     "Writing/Still fighting.md",
     "Art/Draw someone as cartoon.md",
@@ -227,7 +229,6 @@
     "Writing/Poison.md",
     "wake up.md",
     "Writing/Full Pieces.md",
-    "Writing/drafts, sketches, scratches.md",
     "Writing/WIPs.md",
     "dying star.md",
     "Writing/Writing.md",
@@ -235,7 +236,6 @@
     "Writing/Guardian angel.md",
     "Writing/Security.md",
     "Poison.md",
-    "Writing/Odds are lyrics.md",
     "Writing/Bandage.md",
     "Writing/Dear New Year.md",
     "Writing/Miss saying it.md",
