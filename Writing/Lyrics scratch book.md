@@ -5,7 +5,9 @@ the last vestige of hope is wiped
 
 My reasons cut like knives
 
-
+Had no time to choose what i chose to do
+With myself a made a deal (adil ‘pronounce it like adele’)
+Never t
 
 Look
 I dont tear pages from books
