@@ -7,7 +7,8 @@ My reasons cut like knives
 
 Had no time to choose what i chose to do
 With myself a made a deal (adil ‘pronounce it like adele’)
-Never t
+Never check myself out no matter how bad i feel (fil)
+Rolled too deep now im acquainted with the blue
 
 Look
 I dont tear pages from books
