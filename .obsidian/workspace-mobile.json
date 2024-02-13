@@ -97,7 +97,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Writing/Lyrics scratch book.md",
+                "file": "Trading/Notes/Notes from Misc trading.md",
                 "mode": "source",
                 "source": false
               }
@@ -170,7 +170,7 @@
         "state": {
           "type": "backlink",
           "state": {
-            "file": "Writing/Lyrics scratch book.md",
+            "file": "Trading/Notes/Notes from Misc trading.md",
             "collapseAll": false,
             "extraContext": false,
             "sortOrder": "alphabetical",
@@ -187,7 +187,7 @@
         "state": {
           "type": "outgoing-link",
           "state": {
-            "file": "Writing/Lyrics scratch book.md",
+            "file": "Trading/Notes/Notes from Misc trading.md",
             "linksCollapsed": false,
             "unlinkedCollapsed": true
           }
@@ -199,7 +199,7 @@
         "state": {
           "type": "outline",
           "state": {
-            "file": "Writing/Lyrics scratch book.md"
+            "file": "Trading/Notes/Notes from Misc trading.md"
           }
         }
       }
@@ -216,11 +216,14 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "b877f264b9a51d9d",
+  "active": "480e906321060958",
   "lastOpenFiles": [
+    "Trading/Notes/Notes.md",
+    "Trading/Notes/Cotton 500 to 7400 video.md",
+    "Trading/Notes/cotton 100 trades reviewed.md",
+    "Writing/Lyrics scratch book.md",
     "Writing/drafts, sketches, scratches.md",
     "Writing/Odds are lyrics.md",
-    "Writing/Lyrics scratch book.md",
     "Writing/dying star.md",
     "Writing/wake up.md",
     "Writing/Still fighting.md",
@@ -241,12 +244,9 @@
     "Writing/Miss saying it.md",
     "Writing/Printer.md",
     "Minecraft/ATM9.md",
-    "League/stuffs to watch.md",
     "League",
     "Pasted image 20240119230441.png",
     "Pasted image 20240119043554.png",
-    "Writing/Addicted.md",
-    "Writing/كنت فاكر.md",
     "Pasted image 20240114185454.png",
     "Pasted image 20240114045132.png",
     "game dev",
