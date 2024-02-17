@@ -97,7 +97,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Trading/Notes/Notes from Misc trading.md",
+                "file": "Writing/Lyrics scratch book.md",
                 "mode": "source",
                 "source": false
               }
@@ -170,7 +170,7 @@
         "state": {
           "type": "backlink",
           "state": {
-            "file": "Trading/Notes/Notes from Misc trading.md",
+            "file": "Writing/Lyrics scratch book.md",
             "collapseAll": false,
             "extraContext": false,
             "sortOrder": "alphabetical",
@@ -187,7 +187,7 @@
         "state": {
           "type": "outgoing-link",
           "state": {
-            "file": "Trading/Notes/Notes from Misc trading.md",
+            "file": "Writing/Lyrics scratch book.md",
             "linksCollapsed": false,
             "unlinkedCollapsed": true
           }
@@ -199,7 +199,7 @@
         "state": {
           "type": "outline",
           "state": {
-            "file": "Trading/Notes/Notes from Misc trading.md"
+            "file": "Writing/Lyrics scratch book.md"
           }
         }
       }
@@ -218,10 +218,11 @@
   },
   "active": "480e906321060958",
   "lastOpenFiles": [
+    "Trading/Notes/Notes from Misc trading.md",
+    "Writing/Lyrics scratch book.md",
     "Trading/Notes/Notes.md",
     "Trading/Notes/Cotton 500 to 7400 video.md",
     "Trading/Notes/cotton 100 trades reviewed.md",
-    "Writing/Lyrics scratch book.md",
     "Writing/drafts, sketches, scratches.md",
     "Writing/Odds are lyrics.md",
     "Writing/dying star.md",
@@ -243,7 +244,6 @@
     "Writing/Dear New Year.md",
     "Writing/Miss saying it.md",
     "Writing/Printer.md",
-    "Minecraft/ATM9.md",
     "League",
     "Pasted image 20240119230441.png",
     "Pasted image 20240119043554.png",

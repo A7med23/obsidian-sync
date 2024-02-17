@@ -1,6 +1,16 @@
 
 the last vestige of hope is wiped
 
+*add to the silence poem* blood under my bed ive slain all the monsters
+Fire in my chest leftover from all the demons i murdered
+Makin six digits in silence
+Not in a year in a month(find a word that rhymes witb ence to replace ‘month’ here maybe)
+Dont push me into violence
+I can afford your soul
+Each of ur organs alone or your body as a whole
+Wipe you to a null
+
+
 الشغف يحرك الهواة المسؤولية تحرك المحترفين و الفضول يحرك العباقرة
 
 My reasons cut like knives
