@@ -8,7 +8,12 @@ Not in a year in a month(find a word that rhymes witb ence to replace ‘month�
 Dont push me into violence
 I can afford your soul
 Each of ur organs alone or your body as a whole
-Wipe you to a null
+Wipe you to a null (as in no one will find him in a government look up sight)
+
+Fightin demons, i do it for a livin
+One day ill turn this underworld to a heaven
+But there’s one hauntin me, even i dread
+It, stay away if u hurt me itll tear u to shreds
 
 
 الشغف يحرك الهواة المسؤولية تحرك المحترفين و الفضول يحرك العباقرة
