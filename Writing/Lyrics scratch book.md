@@ -10,6 +10,10 @@ I can afford your soul
 Each of ur organs alone or your body as a whole
 Wipe you to a null (as in no one will find him in a government look up sight)
 
+These walls around u?
+None of yall can keep em
+Cause if i gotta b
+
 Fightin demons, i do it for a livin
 One day ill turn this underworld to a heaven
 But there’s one hauntin me, even i dread
