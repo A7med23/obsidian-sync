@@ -13,6 +13,8 @@ I can afford your soul
 Each of ur organs alone or your body as a whole
 Wipe you to a null (as in no one will find him in a government look up sight)
 
+Got so much fire inside am a walking pile of ash 
+
 These walls around u?
 None of yall can keep em
 Cause if i gotta smash it all to dust
