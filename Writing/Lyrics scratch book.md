@@ -12,7 +12,8 @@ Wipe you to a null (as in no one will find him in a government look up sight)
 
 These walls around u?
 None of yall can keep em
-Cause if i gotta b
+Cause if i gotta smash it all to dust
+Burn jt all down
 
 Fightin demons, i do it for a livin
 One day ill turn this underworld to a heaven
