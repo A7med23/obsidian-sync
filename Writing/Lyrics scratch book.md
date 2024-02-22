@@ -1,6 +1,9 @@
 
 the last vestige of hope is wiped
 
+Dont you see it, hooligan but for you nth but obedient 
+Murderer but in your arms am a lover
+
 *add to the silence poem* blood under my bed ive slain all the monsters
 Fire in my chest leftover from all the demons i murdered
 Makin six digits in silence
