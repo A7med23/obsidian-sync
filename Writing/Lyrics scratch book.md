@@ -4,6 +4,9 @@ the last vestige of hope is wiped
 Dont you see it, hooligan but for you nth but obedient 
 Murderer but in your arms am a lover
 
+To your thought I’m addic-ted
+But with commitment im afflic-ted
+
 I said i dont wanna end up like our parents
 You said dont worry im gonna let us
 
