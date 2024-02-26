@@ -13,3 +13,11 @@
 [[كنت فاكر]]
 [[half way down (bojack)]]
 [[wake up]]
+
+Ideas
+[[dear dream]]
+[[Writing/pessimistic]]
+
+
+
+
