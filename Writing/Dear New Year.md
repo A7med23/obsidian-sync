@@ -47,7 +47,7 @@ Not asking for love or a vacation overseas
 Asking for a release
 For this shit storm to cease
 Not down on my knees but
-I just…
+I just… (say this urself at 2:10 the last beat change and close out but he sog)
 
 I wanna be freed
 From the guilt the fear the anxiety
