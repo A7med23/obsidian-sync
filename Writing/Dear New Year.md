@@ -13,9 +13,9 @@ Yea I’m betrayed, yea I’m battered
 Yea I’m lost, yea I’m scattered
 Yea I’m alone and nothing I’ve done ever mattered
 Still even on my knees, you looking at me’s break neck
-My week’s worth your yearly check
-Hottest in town even your girl’s on deck
-Don’t cross me I’m crazy you’re dome might just get hit with this blick
+What i make in a week’s worth your yearly check
+Hottest in this town even your girl’s on deck
+Don’t cross me I’m crazy might h it ur dome with this blick
 Their arsenal’s a tickle yea i ain’t even nicked
 Yea that crown’s ending up on my head with their blood on it
 
