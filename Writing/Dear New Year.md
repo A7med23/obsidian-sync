@@ -11,17 +11,17 @@ smth smth done
 Yea I’m broken, yea I’m shattered
 Yea I’m betrayed, yea I’m battered 
 Yea I’m lost, yea I’m scattered
-Yea I’m alone and nothing I’ve done ever mattered
+Yea I’m alone and nothing I’ve done ever mattered (end it at around 51s the beat change)
 Still even on my knees, you looking at me’s break neck
 What i make in a week’s worth your yearly check
 Hottest in this town even your girl’s on deck
 Don’t cross me I’m crazy might h it ur dome with this blick
 Their arsenal’s a tickle yea i ain’t even nicked
-Yea that crown’s ending up on my head with their blood on it
+Yea that crown’s ending up on my head with their blood on it (end at the beat change)
 
 The past few years been really rough on me
 Pushed through them with quite the difficulty
-They didn’t answer my pleas
+They didn’t answer my pleas (say this before the chorus)
 
 So if you please
 Am not asking for wealth or the cure to a disease
@@ -29,7 +29,7 @@ Not asking for love or a vacation overseas
 Am asking for a release
 For this shit storm to cease
 Not down on my knees but
-I just…
+I just… 
 
 wanna feel like I’m changin things to a degree
 Where i at least am feelin some sorta relief
