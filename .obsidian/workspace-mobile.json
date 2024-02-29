@@ -97,7 +97,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Writing/Lyrics scratch book.md",
+                "file": "Writing/Dear New Year.md",
                 "mode": "source",
                 "source": false
               }
@@ -170,7 +170,7 @@
         "state": {
           "type": "backlink",
           "state": {
-            "file": "Writing/Lyrics scratch book.md",
+            "file": "Writing/Dear New Year.md",
             "collapseAll": false,
             "extraContext": false,
             "sortOrder": "alphabetical",
@@ -187,7 +187,7 @@
         "state": {
           "type": "outgoing-link",
           "state": {
-            "file": "Writing/Lyrics scratch book.md",
+            "file": "Writing/Dear New Year.md",
             "linksCollapsed": false,
             "unlinkedCollapsed": true
           }
@@ -199,7 +199,7 @@
         "state": {
           "type": "outline",
           "state": {
-            "file": "Writing/Lyrics scratch book.md"
+            "file": "Writing/Dear New Year.md"
           }
         }
       }
@@ -218,14 +218,15 @@
   },
   "active": "b877f264b9a51d9d",
   "lastOpenFiles": [
-    "Writing/drafts, sketches, scratches.md",
-    "Writing/Writing.md",
-    "Writing/Let’s pretend.md",
     "Writing/WIPs.md",
+    "Writing/Writing.md",
+    "Writing/drafts, sketches, scratches.md",
+    "Writing/Full Pieces.md",
+    "Writing/Lyrics scratch book.md",
+    "Writing/Let’s pretend.md",
     "Writing/pessimistic.md",
     "Writing/dear dream.md",
     "Writing/wake up.md",
-    "Writing/Lyrics scratch book.md",
     "Trading/Notes/Notes from Misc trading.md",
     "Trading/Notes/Notes.md",
     "Trading/Notes/Cotton 500 to 7400 video.md",
@@ -237,7 +238,6 @@
     "Art/How to get art style.md",
     "Writing/Poison.md",
     "wake up.md",
-    "Writing/Full Pieces.md",
     "dying star.md",
     "Still fighting.md",
     "Writing/Guardian angel.md",

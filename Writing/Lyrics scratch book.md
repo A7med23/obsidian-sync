@@ -1,6 +1,10 @@
 
 the last vestige of hope is wiped
 
+Dont test me ill always end up bigger
+Youre just a pussy as n- STAHP!
+*verse about not caring about what people think*
+
 Dont you see it, hooligan but for you nth but obedient 
 Murderer but in your arms am a lover
 
