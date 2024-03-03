@@ -8,63 +8,18 @@
         "type": "tabs",
         "children": [
           {
-            "id": "4e3f04e49ac35c5a",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Trading/Trading goals.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "6e660cafd6cd5870",
-            "type": "leaf",
-            "state": {
-              "type": "image",
-              "state": {
-                "file": "Trading/Notes/pics/trades reviewed/pt.7/Pasted image 20240106203438.png"
-              }
-            }
-          },
-          {
-            "id": "934dd73b28e0ae88",
-            "type": "leaf",
-            "state": {
-              "type": "image",
-              "state": {
-                "file": "Trading/Notes/pics/Pasted image 20240106194319.png"
-              }
-            }
-          },
-          {
-            "id": "2f3a82f3bc82a1c0",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Minecraft/ATM9.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
             "id": "2a5c06e26eb1ea96",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Mice.md",
+                "file": "Writing/Lyrics scratch book.md",
                 "mode": "source",
                 "source": false
               }
             }
           }
-        ],
-        "currentTab": 4
+        ]
       }
     ],
     "direction": "vertical"
@@ -130,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Mice.md",
+                "file": "Writing/Lyrics scratch book.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -147,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Mice.md",
+                "file": "Writing/Lyrics scratch book.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -170,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Mice.md"
+                "file": "Writing/Lyrics scratch book.md"
               }
             }
           }
@@ -191,48 +146,48 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "15c403d4309da4ec",
+  "active": "2a5c06e26eb1ea96",
   "lastOpenFiles": [
+    "Writing/drafts, sketches, scratches.md",
+    "Writing/Let’s pretend.md",
+    "Writing/Odds are lyrics.md",
+    "Writing/Bandage.md",
+    "Writing/Dear New Year.md",
+    "Minecraft/ATM9.md",
+    "Trading/Notes/pics/Pasted image 20240106194319.png",
+    "Trading/Notes/pics/trades reviewed/pt.7/Pasted image 20240106203438.png",
+    "Trading/Trading goals.md",
+    "Writing/dear dream.md",
+    "Writing/Full Pieces.md",
+    "Writing/Security.md",
+    "Writing/WIPs.md",
+    "Writing/wake up.md",
+    "Writing/Still fighting.md",
+    "Writing/Printer.md",
+    "Writing/Poison.md",
+    "Writing/pessimistic.md",
+    "Writing/other.md",
+    "Writing/Miss saying it.md",
+    "Writing/Lyrics scratch book.md",
+    "Writing/Writing.md",
+    "Writing/Guardian angel.md",
+    "Writing/Inspiration.md",
+    "Writing/dying star.md",
     "league im still here.md",
     "Art/How to get art style.md",
-    "Writing/dying star.md",
     "Art/Draw someone as cartoon.md",
-    "Minecraft/ATM9.md",
-    "Writing/wake up.md",
-    "Writing/Guardian angel.md",
-    "Writing/Still fighting.md",
-    "Writing/Lyrics scratch book.md",
-    "Writing/Poison.md",
-    "Writing/Security.md",
-    "Writing/Printer.md",
-    "Payyer secret code.md",
     "Pasted image 20240119230441.png",
     "Pasted image 20240119043554.png",
     "Pasted image 20240114185454.png",
     "Pasted image 20240114045132.png",
-    "League/stuffs to watch.md",
-    "Writing/Miss saying it.md",
     "League",
-    "conflict-files-obsidian-git.md",
-    "Writing/كنت فاكر.md",
-    "Writing/قرار.md",
-    "Writing/Addicted.md",
-    "Minecraft/Modded.md",
-    "كنت فاكر.md",
-    "game dev/game ideas.md",
-    "game dev/content creators.md",
-    "Art/pixel art for games.md",
     "game dev",
-    "Trading/Notes/pics/Pasted image 20240106194319.png",
     "Minecraft",
-    "Mice.md",
     "Trading/Notes/pics/Pasted image 20240106195154.png",
     "Trading/Notes/pics/overcoming fear of trading/Pasted image 20240107172629.png",
     "Trading/Notes/pics/overcoming fear of trading",
     "Trading/Notes/pics/overcoming fear of trading/Pasted image 20240107172126.png",
     "Trading/Notes/pics/overcoming fear of trading/Pasted image 20240107171621.png",
-    "Trading/Notes/pics/overcoming fear of trading/Pasted image 20240107171552.png",
-    "oracle hosting.md",
     "Trading/Notes/pics/trades reviewed/pt.9",
     "Trading/Notes/pics/trades reviewed/pt.7",
     "Trading/Notes/pics/trades reviewed",

@@ -23,7 +23,7 @@ Makin six digits in silence
 Not in a year in a month(find a word that rhymes witb ence to replace ‘month’ here maybe)
 Dont push me into violence
 I can afford your soul
-Each of ur organs alone or your body as a whole
+Each of ur organs alone or your body whole
 Wipe you to a null (as in no one will find him in a government look up sight)
 
 Got so much fire inside am a walking pile of ash 
@@ -46,7 +46,7 @@ My reasons cut like knives
 Had no time to choose what i chose to do
 With myself a made a deal (adil ‘pronounce it like adele’)
 Never check myself out no matter how bad i feel (fil)
-Rolled too deep now im acquainted with the blue
+Rolled too deep now im acquainted with the blue s
 
 Look
 I dont tear pages from books
@@ -108,7 +108,7 @@ But im the only one on the dance floor
 I aint legend i dont have the cure for what weve morphed into to
 But our cards are on the table we’re both showing hearts
 
-The rain pour i can feel the pain more
+The rain pours i can feel the pain more
 It used to wash it all away
 
 I can feel my strings pulling outta the fabric of reality
