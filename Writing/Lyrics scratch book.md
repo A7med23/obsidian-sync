@@ -1,6 +1,10 @@
 
 the last vestige of hope is wiped
 
+now you see me in the lights, you see all this glory
+but you aint seen any of my fights
+just a fraction of the story
+
 Dont test me ill always end up bigger
 Youre just a pussy as n- STAHP!
 *verse about not caring about what people think*
