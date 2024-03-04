@@ -18,8 +18,19 @@
                 "source": false
               }
             }
+          },
+          {
+            "id": "f489704fbc7f7044",
+            "type": "leaf",
+            "state": {
+              "type": "release-notes",
+              "state": {
+                "currentVersion": "1.5.8"
+              }
+            }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -146,7 +157,7 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "2a5c06e26eb1ea96",
+  "active": "f489704fbc7f7044",
   "lastOpenFiles": [
     "Writing/drafts, sketches, scratches.md",
     "Writing/Let’s pretend.md",
