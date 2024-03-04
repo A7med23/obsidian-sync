@@ -10,6 +10,9 @@ I aint morales and u aint gwen
 But the miles uve put between us
 Yea we’re dead more o less
 
+My mind’s demon haunted
+Off fighting them im exhausted
+
 Dont you see it, hooligan but for you nth but obedient 
 Murderer but in your arms am a lover
 
