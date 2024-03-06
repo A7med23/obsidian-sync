@@ -1,6 +1,11 @@
 
 the last vestige of hope is wiped
 
+*EP IDEA* ADHD
+4 soungs, a song for each word
+
+Spill my guts in ink
+
 now you see me in the lights, you see all this glory
 but you aint seen any of my fights
 just a fraction of the story
