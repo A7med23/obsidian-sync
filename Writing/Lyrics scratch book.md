@@ -4,6 +4,8 @@ the last vestige of hope is wiped
 *EP IDEA* ADHD
 4 soungs, a song for each word
 
+معنديش ذكريات حتى ارجع اتحامى فيها
+
 Spill my guts in ink
 
 now you see me in the lights, you see all this glory
