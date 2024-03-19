@@ -3,6 +3,7 @@
 
 "well thats the thing about war, it never stays where you put it" -dr halsey
 
+"this isnt death, this is loss, it's different" -kwan ha
 
 the last vestige of hope is wiped
 
