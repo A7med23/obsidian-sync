@@ -5,6 +5,8 @@
 
 "this isnt death, this is loss, it's different" -kwan ha
 
+"its just painm, all you can od is carry it but its heavy and the more you deny it the more you run from it the heavier it gets. if you dont make peace with it it will crush you, i wont let it crush me" -Riz
+
 the last vestige of hope is wiped
 
 *EP IDEA* ADHD
