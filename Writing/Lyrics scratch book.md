@@ -1,6 +1,9 @@
 
 "you'll think about it everyday, their faces pop up when you least expect it, doesn't get better, just gets further away" -Master Chief
 
+"well thats the thing about war, it never stays where you put it" -dr halsey
+
+
 the last vestige of hope is wiped
 
 *EP IDEA* ADHD

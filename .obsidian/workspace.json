@@ -23,9 +23,11 @@
             "id": "2293825e5e0a4c3b",
             "type": "leaf",
             "state": {
-              "type": "release-notes",
+              "type": "markdown",
               "state": {
-                "currentVersion": "1.5.11"
+                "file": "Writing/Lyrics scratch book.md",
+                "mode": "source",
+                "source": false
               }
             }
           }
