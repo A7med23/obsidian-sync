@@ -1,4 +1,6 @@
 
+"you'll think about it everyday, their faces pop up when you least expect it, doesn't get better, just gets further away" -Master Chief
+
 the last vestige of hope is wiped
 
 *EP IDEA* ADHD
