@@ -1,3 +1,5 @@
+halo reach
+"youre on your own noble, carter out" -carter
 
 "you'll think about it everyday, their faces pop up when you least expect it, doesn't get better, just gets further away" -Master Chief
 
