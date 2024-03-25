@@ -18,6 +18,8 @@ the last vestige of hope is wiped
 
 Spill my guts in ink
 
+Its hard livin ur life trynna be a drop of hope in an ocean of despair
+
 Song idea *stay*
 Verse about the things i do then
 “Told you i have the answers, gave em to you ‘n fixed you so why would you…”
