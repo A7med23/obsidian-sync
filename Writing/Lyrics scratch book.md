@@ -1,3 +1,13 @@
+halo reach
+"youre on your own noble, carter out" -carter
+
+"you'll think about it everyday, their faces pop up when you least expect it, doesn't get better, just gets further away" -Master Chief
+
+"well thats the thing about war, it never stays where you put it" -dr halsey
+
+"this isnt death, this is loss, it's different" -kwan ha
+
+"its just painm, all you can od is carry it but its heavy and the more you deny it the more you run from it the heavier it gets. if you dont make peace with it it will crush you, i wont let it crush me" -Riz
 
 the last vestige of hope is wiped
 
