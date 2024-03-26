@@ -1,0 +1,2 @@
+- if a range is testing a range, dont mark the exterior one
+- Origins > higher timeframe range
