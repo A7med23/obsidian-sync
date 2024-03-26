@@ -97,7 +97,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Writing/3 body problem.md",
+                "file": "Trading/Ranges and Trends.md",
                 "mode": "source",
                 "source": false
               }
@@ -170,7 +170,7 @@
         "state": {
           "type": "backlink",
           "state": {
-            "file": "Writing/3 body problem.md",
+            "file": "Trading/Ranges and Trends.md",
             "collapseAll": false,
             "extraContext": false,
             "sortOrder": "alphabetical",
@@ -187,7 +187,7 @@
         "state": {
           "type": "outgoing-link",
           "state": {
-            "file": "Writing/3 body problem.md",
+            "file": "Trading/Ranges and Trends.md",
             "linksCollapsed": false,
             "unlinkedCollapsed": true
           }
@@ -199,7 +199,7 @@
         "state": {
           "type": "outline",
           "state": {
-            "file": "Writing/3 body problem.md"
+            "file": "Trading/Ranges and Trends.md"
           }
         }
       }
@@ -218,8 +218,10 @@
   },
   "active": "b877f264b9a51d9d",
   "lastOpenFiles": [
-    "Writing/Addicted.md",
     "Writing/3 body problem.md",
+    "Trading/Ranges and Trends.md",
+    "Writing/Quotes.md",
+    "Writing/Addicted.md",
     "Writing/Lyrics scratch book.md",
     "Writing/drafts, sketches, scratches.md",
     "Writing/Dear New Year.md",
@@ -242,8 +244,6 @@
     "Writing/Poison.md",
     "wake up.md",
     "dying star.md",
-    "Still fighting.md",
-    "Writing/Guardian angel.md",
     "League",
     "Pasted image 20240119230441.png",
     "Pasted image 20240119043554.png",
