@@ -1,1 +1,2 @@
 [[Lyrics scratch book]]
+[[Quotes]]

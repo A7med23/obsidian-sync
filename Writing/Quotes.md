@@ -1,0 +1,11 @@
+#### halo reach
+"youre on your own noble, carter out" -carter
+
+"you'll think about it everyday, their faces pop up when you least expect it, doesn't get better, just gets further away" -Master Chief
+
+"well thats the thing about war, it never stays where you put it" -dr halsey
+
+"this isnt death, this is loss, it's different" -kwan ha
+
+### halo 4
+"do not underestimate them (spartans), but most of all, do not underestimate him (MC)" -Halsey
