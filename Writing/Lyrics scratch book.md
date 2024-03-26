@@ -18,6 +18,15 @@ the last vestige of hope is wiped
 
 Spill my guts in ink
 
+Its hard livin ur life trynna be a drop of hope in an ocean of despair
+
+Song idea *stay*
+Verse about the things i do then
+“Told you i have the answers, gave em to you ‘n fixed you so why would you…”
+Then play chorus 
+“Stay here today, look my way,
+Hold my hands, tell me it’s okay
+
 now you see me in the lights, you see all this glory
 but you aint seen any of my fights
 just a fraction of the story
