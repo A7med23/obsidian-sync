@@ -4,6 +4,8 @@
 
 the last vestige of hope is wiped
 
+Thats all there is in a crisis, trying
+
 Darkness doesnt scare me, im comfortable in the darkness 
 
 *EP IDEA* ADHD

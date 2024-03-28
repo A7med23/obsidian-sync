@@ -12,3 +12,5 @@
 
 ### foundation
 “You cant play chess with someone who’s willing to set the board on fure”
+
+“We have to try. That’s all there is in a crisis, trying”

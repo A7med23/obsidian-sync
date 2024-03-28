@@ -97,7 +97,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Writing/Lyrics scratch book.md",
+                "file": "Writing/Quotes.md",
                 "mode": "source",
                 "source": false
               }
@@ -170,7 +170,7 @@
         "state": {
           "type": "backlink",
           "state": {
-            "file": "Writing/Lyrics scratch book.md",
+            "file": "Writing/Quotes.md",
             "collapseAll": false,
             "extraContext": false,
             "sortOrder": "alphabetical",
@@ -187,7 +187,7 @@
         "state": {
           "type": "outgoing-link",
           "state": {
-            "file": "Writing/Lyrics scratch book.md",
+            "file": "Writing/Quotes.md",
             "linksCollapsed": false,
             "unlinkedCollapsed": true
           }
@@ -199,7 +199,7 @@
         "state": {
           "type": "outline",
           "state": {
-            "file": "Writing/Lyrics scratch book.md"
+            "file": "Writing/Quotes.md"
           }
         }
       }
@@ -219,8 +219,8 @@
   "active": "b877f264b9a51d9d",
   "lastOpenFiles": [
     "Writing/drafts, sketches, scratches.md",
-    "Writing/Quotes.md",
     "Writing/Lyrics scratch book.md",
+    "Writing/Quotes.md",
     "Trading/Ranges and Trends.md",
     "Writing/3 body problem.md",
     "Writing/Addicted.md",
