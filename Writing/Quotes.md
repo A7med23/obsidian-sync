@@ -13,4 +13,6 @@
 ### foundation
 “You cant play chess with someone who’s willing to set the board on fure”
 
-“We have to try. That’s all there is in a crisis, trying”
+“We have to try. That’s all there is in a crisis, trying” -sal
+
+“History is not facts, it’s narrative one carefully curated and shaped. Under the pen strokes if the right scribe, a villain becomes a hero, a lie becomes the truth” -gaal
