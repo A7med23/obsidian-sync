@@ -97,7 +97,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Trading/Ranges and Trends.md",
+                "file": "Writing/Quotes.md",
                 "mode": "source",
                 "source": false
               }
@@ -170,7 +170,7 @@
         "state": {
           "type": "backlink",
           "state": {
-            "file": "Trading/Ranges and Trends.md",
+            "file": "Writing/Quotes.md",
             "collapseAll": false,
             "extraContext": false,
             "sortOrder": "alphabetical",
@@ -187,7 +187,7 @@
         "state": {
           "type": "outgoing-link",
           "state": {
-            "file": "Trading/Ranges and Trends.md",
+            "file": "Writing/Quotes.md",
             "linksCollapsed": false,
             "unlinkedCollapsed": true
           }
@@ -199,7 +199,7 @@
         "state": {
           "type": "outline",
           "state": {
-            "file": "Trading/Ranges and Trends.md"
+            "file": "Writing/Quotes.md"
           }
         }
       }
@@ -218,12 +218,12 @@
   },
   "active": "b877f264b9a51d9d",
   "lastOpenFiles": [
-    "Writing/3 body problem.md",
+    "Writing/drafts, sketches, scratches.md",
+    "Writing/Lyrics scratch book.md",
     "Trading/Ranges and Trends.md",
+    "Writing/3 body problem.md",
     "Writing/Quotes.md",
     "Writing/Addicted.md",
-    "Writing/Lyrics scratch book.md",
-    "Writing/drafts, sketches, scratches.md",
     "Writing/Dear New Year.md",
     "Writing/WIPs.md",
     "Writing/Writing.md",

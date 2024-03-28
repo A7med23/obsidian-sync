@@ -9,3 +9,6 @@
 
 ### halo 4
 "do not underestimate them (spartans), but most of all, do not underestimate him (MC)" -Halsey
+
+### foundation
+“You cant play chess with someone who’s willing to set the board on fure”
