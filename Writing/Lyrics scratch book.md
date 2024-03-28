@@ -4,6 +4,8 @@
 
 the last vestige of hope is wiped
 
+Darkness doesnt scare me, im comfortable in the darkness 
+
 *EP IDEA* ADHD
 4 soungs, a song for each word
 
