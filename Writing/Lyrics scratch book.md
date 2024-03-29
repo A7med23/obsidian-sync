@@ -5,6 +5,8 @@
 Blaming myself for you knowing it’s survival guilt
 Using it to mask all the pain i felt
 
+He froze and stood still, all his movements seemingly being used for thought
+
 the last vestige of hope is wiped
 
 Thats all there is in a crisis, trying
