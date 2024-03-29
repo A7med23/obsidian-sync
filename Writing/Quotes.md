@@ -22,3 +22,5 @@
 “History is the ultimate weapon, it harnesses time itself. Used correctly, the past can alter the present. What other invention can do that?” -gaal
 
 “Are we alone? And even if we arent. Will anyone bother to answer?”
+
+“Any man could be a success, but it takes a madman to be great” 
