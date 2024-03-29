@@ -1,6 +1,9 @@
 
 
-"its just painm, all you can od is carry it but its heavy and the more you deny it the more you run from it the heavier it gets. if you dont make peace with it it will crush you, i wont let it crush me" -Riz
+"its just painm, all you can od is carry it but its heavy and the more you deny it the more you run from it the heavier it gets. if you dont make peace with it it will crush you, i wont let it crush me" -Riz from halo
+
+Blaming myself for you knowing it’s survival guilt
+Using it to mask all the pain i felt
 
 the last vestige of hope is wiped
 
