@@ -20,3 +20,5 @@
 “I cant promise it all goes right, all i can promise is that i wont be the part that goes wrong” -says the girl to the diff cleon
 
 “History is the ultimate weapon, it harnesses time itself. Used correctly, the past can alter the present. What other invention can do that?” -gaal
+
+“Are we alone? And even if we arent. Will anyone bother to answer?”

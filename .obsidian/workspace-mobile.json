@@ -104,7 +104,7 @@
             }
           }
         ],
-        "currentTab": 1
+        "currentTab": 7
       }
     ],
     "direction": "vertical"
@@ -170,7 +170,7 @@
         "state": {
           "type": "backlink",
           "state": {
-            "file": "Writing/Lyrics scratch book.md",
+            "file": "Writing/Quotes.md",
             "collapseAll": false,
             "extraContext": false,
             "sortOrder": "alphabetical",
@@ -187,7 +187,7 @@
         "state": {
           "type": "outgoing-link",
           "state": {
-            "file": "Writing/Lyrics scratch book.md",
+            "file": "Writing/Quotes.md",
             "linksCollapsed": false,
             "unlinkedCollapsed": true
           }
@@ -199,7 +199,7 @@
         "state": {
           "type": "outline",
           "state": {
-            "file": "Writing/Lyrics scratch book.md"
+            "file": "Writing/Quotes.md"
           }
         }
       }
@@ -216,11 +216,11 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "307e45a2a8976c98",
+  "active": "b877f264b9a51d9d",
   "lastOpenFiles": [
+    "Writing/Lyrics scratch book.md",
     "Writing/Quotes.md",
     "Writing/drafts, sketches, scratches.md",
-    "Writing/Lyrics scratch book.md",
     "Trading/Ranges and Trends.md",
     "Writing/3 body problem.md",
     "Writing/Addicted.md",
