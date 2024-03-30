@@ -18,4 +18,18 @@ Take the story through scenes with dialogue
 
 Why does my arm hurt eo bad? You jnow the answer ure just running away from it. Conpare it to my soul hurting
 
+You can keep building rooms here, trapping memories inside them. Or you can go back, summon those damn demons, and end them once and for all.
+
+*it starts raining*
+
+“Why’re you making it rain?”. im not. You always felt comfortable in the rain. You run to it like you want it to cleanse you. It’s why you do what you do. It’s how you walk through hell. It’s where you feel at home.
+
 Wake up to rain hitting my face in the end and it turns out to be her crying
+
+- need to establish the things that caused those “traumas”:
+- seeking Unconditional love (away from grades)
+- over-chasing providing and protecting those i love causing self neglect and mistaking that for purpose
+- 
+
+## rooms
+1) 
