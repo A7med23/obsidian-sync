@@ -26,10 +26,12 @@ You can keep building rooms here, trapping memories inside them. Or you can go b
 
 Wake up to rain hitting my face in the end and it turns out to be her crying
 
-- need to establish the things that caused those “traumas”:
-- seeking Unconditional love (away from grades)
-- over-chasing providing and protecting those i love causing self neglect and mistaking that for purpose
-- 
+need to establish the things that caused those “traumas”:
+- seeking Unconditional love (away from grades) -> kg or first grades. Getting a glimpse of that
+- over-chasing providing and protecting those i love causing self neglect and mistaking that for purpose -> crying at night but not telling anyone to not make them worried
+- seeking a companion through life to give it meaning -> bf checking out -> hospital
+- cheating -> bedroom
+- trying to be enough -> my office desk (“how many sleepless nights have you spent here)
 
 ## rooms
 1) 
