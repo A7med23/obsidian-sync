@@ -25,7 +25,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Writing/Lyrics scratch book.md",
+                "file": "Writing/Wrist.md",
                 "mode": "source",
                 "source": false
               }
@@ -104,7 +104,7 @@
             }
           }
         ],
-        "currentTab": 7
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -170,7 +170,7 @@
         "state": {
           "type": "backlink",
           "state": {
-            "file": "Writing/Quotes.md",
+            "file": "Writing/Wrist.md",
             "collapseAll": false,
             "extraContext": false,
             "sortOrder": "alphabetical",
@@ -187,7 +187,7 @@
         "state": {
           "type": "outgoing-link",
           "state": {
-            "file": "Writing/Quotes.md",
+            "file": "Writing/Wrist.md",
             "linksCollapsed": false,
             "unlinkedCollapsed": true
           }
@@ -199,7 +199,7 @@
         "state": {
           "type": "outline",
           "state": {
-            "file": "Writing/Quotes.md"
+            "file": "Writing/Wrist.md"
           }
         }
       }
@@ -216,9 +216,10 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "b877f264b9a51d9d",
+  "active": "307e45a2a8976c98",
   "lastOpenFiles": [
     "Writing/Lyrics scratch book.md",
+    "Writing/Wrist.md",
     "Writing/Quotes.md",
     "Writing/drafts, sketches, scratches.md",
     "Trading/Ranges and Trends.md",
@@ -243,7 +244,6 @@
     "Art/How to get art style.md",
     "Writing/Poison.md",
     "wake up.md",
-    "dying star.md",
     "League",
     "Pasted image 20240119230441.png",
     "Pasted image 20240119043554.png",
