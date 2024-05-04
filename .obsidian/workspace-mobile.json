@@ -25,7 +25,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Writing/Dear New Year.md",
+                "file": "Writing/dying star.md",
                 "mode": "source",
                 "source": false
               }
@@ -170,7 +170,7 @@
         "state": {
           "type": "backlink",
           "state": {
-            "file": "Writing/Dear New Year.md",
+            "file": "Writing/dying star.md",
             "collapseAll": false,
             "extraContext": false,
             "sortOrder": "alphabetical",
@@ -187,7 +187,7 @@
         "state": {
           "type": "outgoing-link",
           "state": {
-            "file": "Writing/Dear New Year.md",
+            "file": "Writing/dying star.md",
             "linksCollapsed": false,
             "unlinkedCollapsed": true
           }
@@ -199,7 +199,7 @@
         "state": {
           "type": "outline",
           "state": {
-            "file": "Writing/Dear New Year.md"
+            "file": "Writing/dying star.md"
           }
         }
       }
@@ -218,6 +218,8 @@
   },
   "active": "307e45a2a8976c98",
   "lastOpenFiles": [
+    "Writing/Full Pieces.md",
+    "Writing/Dear New Year.md",
     "Writing/Lyrics scratch book.md",
     "Writing/لمة.md",
     "Pasted image 20240504154249.png",
@@ -229,10 +231,8 @@
     "Trading/Ranges and Trends.md",
     "Writing/3 body problem.md",
     "Writing/Addicted.md",
-    "Writing/Dear New Year.md",
     "Writing/WIPs.md",
     "Writing/Writing.md",
-    "Writing/Full Pieces.md",
     "Writing/Let’s pretend.md",
     "Writing/pessimistic.md",
     "Writing/dear dream.md",
