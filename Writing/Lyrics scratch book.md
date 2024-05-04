@@ -7,7 +7,9 @@ into this abyss filled with thunder
 
 ^^rhyming 3-me with D-be "cause"
 
-
+Lemme tell u how it feel 
+Skin on fire from head to fucking heel
+My skin i wanna peel
 
 "its just painm, all you can od is carry it but its heavy and the more you deny it the more you run from it the heavier it gets. if you dont make peace with it it will crush you, i wont let it crush me" -Riz from halo
 
