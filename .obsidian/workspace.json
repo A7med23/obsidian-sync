@@ -23,9 +23,11 @@
             "id": "a56ff43f508e82ed",
             "type": "leaf",
             "state": {
-              "type": "release-notes",
+              "type": "markdown",
               "state": {
-                "currentVersion": "1.5.12"
+                "file": "Writing/Lyrics scratch book.md",
+                "mode": "source",
+                "source": false
               }
             }
           }
@@ -159,6 +161,8 @@
   },
   "active": "a56ff43f508e82ed",
   "lastOpenFiles": [
+    "Pasted image 20240504154323.png",
+    "Pasted image 20240504154249.png",
     "Writing/لمة.md",
     "Writing/Wrist.md",
     "Writing/Reddit saves.md",
@@ -186,7 +190,6 @@
     "Writing/Poison.md",
     "Writing/pessimistic.md",
     "Writing/other.md",
-    "Writing/Miss saying it.md",
     "Pasted image 20240119230441.png",
     "Pasted image 20240119043554.png",
     "Pasted image 20240114185454.png",
@@ -198,7 +201,6 @@
     "Trading/Notes/pics/overcoming fear of trading/Pasted image 20240107172629.png",
     "Trading/Notes/pics/overcoming fear of trading",
     "Trading/Notes/pics/overcoming fear of trading/Pasted image 20240107172126.png",
-    "Trading/Notes/pics/overcoming fear of trading/Pasted image 20240107171621.png",
     "Trading/Notes/pics/trades reviewed/pt.9",
     "Trading/Notes/pics/trades reviewed/pt.7",
     "Trading/Notes/pics/trades reviewed",
