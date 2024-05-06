@@ -1,4 +1,6 @@
 
+wither at the threat of my might
+
 i sit and i ponder
 where did it go wrong when did i wander
 into this abyss filled with thunder
