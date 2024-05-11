@@ -1,6 +1,9 @@
 
 wither at the threat of my might
 
+Got a barrel that’s chrome
+Aimed right atchur dome
+
 i sit and i ponder
 where did it go wrong when did i wander
 into this abyss filled with thunder
