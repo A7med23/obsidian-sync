@@ -3,6 +3,8 @@ wither at the threat of my might
 
 Still standing tall deapite all the destruction I’ve witnessed 
 
+Another twist of the knife
+
 Got a barrel that’s chrome
 Aimed right atchur dome
 
