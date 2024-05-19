@@ -1,4 +1,10 @@
 
+
+*sean genius animation note*
+Black box fading in
+Using frame emotion with react
+
+
 wither at the threat of my might
 
 Still standing tall deapite all the destruction I’ve witnessed 
