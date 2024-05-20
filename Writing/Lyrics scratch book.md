@@ -4,7 +4,9 @@
 Black box fading in
 Using frame emotion with react
 
-WE WERE B
+WE WERE BORN TO INHERIT THE STARS
+
+“Who do you think u are, i am”
 
 
 wither at the threat of my might
