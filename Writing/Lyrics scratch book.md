@@ -4,6 +4,9 @@
 Black box fading in
 Using frame emotion with react
 
+These racing thoughts and heartbeats
+Am i dying or is it my ignition sequence
+
 WE WERE BORN TO INHERIT THE STARS
 
 “Who do you think u are, i am”
