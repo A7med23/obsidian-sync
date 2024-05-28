@@ -31,11 +31,11 @@ into this abyss filled with thunder
 
 ^^rhyming 3-me with D-be "cause"
 
-Lemme tell u how it feel 
-Skin on fire from head to fucking heel
+Lemme tell u how it feels
+Skin on fire from head to fucking heels
 My skin i wanna peel
 
-"its just painm, all you can od is carry it but its heavy and the more you deny it the more you run from it the heavier it gets. if you dont make peace with it it will crush you, i wont let it crush me" -Riz from halo
+"its just pain, all you can do is carry it but its heavy and the more you deny it the more you run from it the heavier it gets. if you don't make peace with it it will crush you, i wont let it crush me" -Riz from halo
 
 Blaming myself for you knowing it’s survival guilt
 Using it to mask all the pain i felt
