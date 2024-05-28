@@ -4,6 +4,10 @@
 Black box fading in
 Using frame emotion with react
 
+Men fall for what they see
+Women fall for what they hear
+Thats why women wear makeup and men tell lies
+
 These racing thoughts and heartbeats
 Am i dying or is it my ignition sequence
 
