@@ -4,6 +4,8 @@
 Black box fading in
 Using frame emotion with react
 
+Feel paralyzed like the weights fractured my brain’s c6
+
 Men fall for what they see
 Women fall for what they hear
 Thats why women wear makeup and men tell lies
