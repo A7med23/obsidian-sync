@@ -25,7 +25,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Writing/Writing.md",
+                "file": "Writing/Lyrics scratch book.md",
                 "mode": "source",
                 "source": false
               }
@@ -98,7 +98,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Writing/Writing.md",
+                "file": "Writing/Lyrics scratch book.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -115,7 +115,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Writing/Writing.md",
+                "file": "Writing/Lyrics scratch book.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -138,7 +138,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Writing/Writing.md"
+                "file": "Writing/Lyrics scratch book.md"
               }
             }
           }
@@ -161,6 +161,7 @@
   },
   "active": "a56ff43f508e82ed",
   "lastOpenFiles": [
+    "Writing/Writing.md",
     "Writing/Wrist.md",
     "Writing/WIPs.md",
     "Writing/wake up.md",
@@ -184,7 +185,6 @@
     "Pasted image 20240504154249.png",
     "Writing/لمة.md",
     "Trading/Ranges and Trends.md",
-    "Writing/Writing.md",
     "Writing/drafts, sketches, scratches.md",
     "Writing/3 body problem.md",
     "Writing/Odds are lyrics.md",

@@ -4,6 +4,13 @@
 Black box fading in
 Using frame emotion with react
 
+numb today but tmr ill feel it
+truth is worse every time that i hear it
+
+was looking into your eyes when they stopped looking back
+
+blood coming up when you cough
+
 Feel paralyzed like the weights fractured my brain’s c6
 
 This is my veitnam, i shouldnt have gotten i to this, and i dont have a good way out
