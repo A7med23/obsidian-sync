@@ -1,4 +1,6 @@
 
+joe rogan with rdj at 1h talking about creative process
+
 
 *sean genius animation note*
 Black box fading in
