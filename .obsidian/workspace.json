@@ -18,31 +18,8 @@
                 "source": false
               }
             }
-          },
-          {
-            "id": "a56ff43f508e82ed",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Writing/Lyrics scratch book.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "c1800eba2b76bbf4",
-            "type": "leaf",
-            "state": {
-              "type": "release-notes",
-              "state": {
-                "currentVersion": "1.6.3"
-              }
-            }
           }
-        ],
-        "currentTab": 2
+        ]
       }
     ],
     "direction": "vertical"
@@ -169,7 +146,7 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "c1800eba2b76bbf4",
+  "active": "344881b921ca8af3",
   "lastOpenFiles": [
     "Writing/Writing.md",
     "Writing/Wrist.md",

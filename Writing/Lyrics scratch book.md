@@ -6,6 +6,8 @@ Using frame emotion with react
 
 wish we have more in common than our terribles
 
+faster alone or further together
+
 breathing so still kickin
 
 numb today but tmr ill feel it
