@@ -1,6 +1,6 @@
 
 joe rogan with rdj at 1h talking about creative process
-
+joe rogan ep 911 min 50 about opioids
 
 *sean genius animation note*
 Black box fading in
