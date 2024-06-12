@@ -1,10 +1,14 @@
 
 joe rogan with rdj at 1h talking about creative process
 joe rogan ep 911 min 50 about opioids
+ep 911  hour4 min 4 trump tax code
 
 *sean genius animation note*
 Black box fading in
 Using frame emotion with react
+
+coldest december i saw
+waiting nights and days for docs to give us the
 
 wish we have more in common than our terribles
 
