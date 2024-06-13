@@ -12,6 +12,8 @@ waiting nights and days for docs to give us the
 
 wish we have more in common than our terribles
 
+Do you like chastain did that wall (ride)
+
 faster alone or further together
 
 breathing so still kickin
@@ -24,6 +26,10 @@ was looking into your eyes when they stopped looking back
 blood coming up when you cough
 
 Feel paralyzed like the weights fractured my brain’s c6
+
+Coldest december i saw
+Waiting for them to give us the
+Say if they can operate or if its the
 
 This is my veitnam, i shouldnt have gotten i to this, and i dont have a good way out
 
