@@ -10,6 +10,8 @@ Using frame emotion with react
 coldest december i saw
 waiting nights and days for docs to give us the
 
+all our ties burned down in the flames of this cold war
+
 wish we have more in common than our terribles
 
 Do you like chastain did that wall (ride)
