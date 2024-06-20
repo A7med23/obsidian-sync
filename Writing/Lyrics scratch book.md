@@ -10,6 +10,9 @@ Using frame emotion with react
 coldest december i saw
 waiting nights and days for docs to give us the
 
+No grief to be found in this room
+No grief… but my own
+
 wish we have more in common than our terribles
 
 Do you like chastain did that wall (ride)
