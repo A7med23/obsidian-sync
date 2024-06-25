@@ -12,6 +12,7 @@ waiting nights and days for docs to give us the
 
 No grief to be found in this room
 No grief… but my own
+all our ties burned down in the flames of this cold war
 
 wish we have more in common than our terribles
 
