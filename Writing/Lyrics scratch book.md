@@ -7,6 +7,12 @@ ep 911  hour4 min 4 trump tax code
 Black box fading in
 Using frame emotion with react
 
+How do i love you when i hate myself
+How do i protect you when i harm myself
+How do i hold you when ive let go of myself
+
+ our ties burned in the flames of this cold war
+
 coldest december i saw
 waiting nights and days for docs to give us the
 
