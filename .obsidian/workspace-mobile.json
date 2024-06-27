@@ -25,7 +25,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Extra/Quotes.md",
+                "file": "Extra/Photography.md",
                 "mode": "source",
                 "source": false
               }
@@ -170,7 +170,7 @@
         "state": {
           "type": "backlink",
           "state": {
-            "file": "Extra/Quotes.md",
+            "file": "Extra/Photography.md",
             "collapseAll": false,
             "extraContext": false,
             "sortOrder": "alphabetical",
@@ -187,7 +187,7 @@
         "state": {
           "type": "outgoing-link",
           "state": {
-            "file": "Extra/Quotes.md",
+            "file": "Extra/Photography.md",
             "linksCollapsed": false,
             "unlinkedCollapsed": true
           }
@@ -199,7 +199,7 @@
         "state": {
           "type": "outline",
           "state": {
-            "file": "Extra/Quotes.md"
+            "file": "Extra/Photography.md"
           }
         }
       }
@@ -218,8 +218,9 @@
   },
   "active": "307e45a2a8976c98",
   "lastOpenFiles": [
-    "Extra $/$.md",
     "Extra/Quotes.md",
+    "Extra/Photography.md",
+    "Extra $/$.md",
     "Extra",
     "Workout/Workout tips.md",
     "Extra $",
@@ -250,7 +251,6 @@
     "Trading/Notes/Notes from Misc trading.md",
     "Trading/Notes/Notes.md",
     "Trading/Notes/Cotton 500 to 7400 video.md",
-    "Trading/Notes/cotton 100 trades reviewed.md",
     "League",
     "Pasted image 20240119230441.png",
     "Pasted image 20240119043554.png",
