@@ -25,7 +25,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Writing/Lyrics scratch book.md",
+                "file": "Study/Study tips.md",
                 "mode": "source",
                 "source": false
               }
@@ -170,7 +170,7 @@
         "state": {
           "type": "backlink",
           "state": {
-            "file": "Writing/Lyrics scratch book.md",
+            "file": "Study/Study tips.md",
             "collapseAll": false,
             "extraContext": false,
             "sortOrder": "alphabetical",
@@ -187,7 +187,7 @@
         "state": {
           "type": "outgoing-link",
           "state": {
-            "file": "Writing/Lyrics scratch book.md",
+            "file": "Study/Study tips.md",
             "linksCollapsed": false,
             "unlinkedCollapsed": true
           }
@@ -199,7 +199,7 @@
         "state": {
           "type": "outline",
           "state": {
-            "file": "Writing/Lyrics scratch book.md"
+            "file": "Study/Study tips.md"
           }
         }
       }
@@ -218,8 +218,10 @@
   },
   "active": "307e45a2a8976c98",
   "lastOpenFiles": [
-    "Writing/لمة.md",
     "Writing/Lyrics scratch book.md",
+    "Study/Study tips.md",
+    "Study",
+    "Writing/لمة.md",
     "Writing/dying star.md",
     "Writing/Full Pieces.md",
     "Writing/Dear New Year.md",
@@ -261,7 +263,6 @@
     "Art",
     "Trading/Notes/pics/trades reviewed/pt.7",
     "Trading/Notes/pics/trades reviewed",
-    "Trading/Trade Logs",
-    "Trading/Notes/pics/misc notes"
+    "Trading/Trade Logs"
   ]
 }
