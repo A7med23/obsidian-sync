@@ -25,7 +25,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Workout/Workout tips.md",
+                "file": "Extra $/$.md",
                 "mode": "source",
                 "source": false
               }
@@ -170,7 +170,7 @@
         "state": {
           "type": "backlink",
           "state": {
-            "file": "Workout/Workout tips.md",
+            "file": "Extra $/$.md",
             "collapseAll": false,
             "extraContext": false,
             "sortOrder": "alphabetical",
@@ -187,7 +187,7 @@
         "state": {
           "type": "outgoing-link",
           "state": {
-            "file": "Workout/Workout tips.md",
+            "file": "Extra $/$.md",
             "linksCollapsed": false,
             "unlinkedCollapsed": true
           }
@@ -199,7 +199,7 @@
         "state": {
           "type": "outline",
           "state": {
-            "file": "Workout/Workout tips.md"
+            "file": "Extra $/$.md"
           }
         }
       }
@@ -218,8 +218,10 @@
   },
   "active": "307e45a2a8976c98",
   "lastOpenFiles": [
-    "Study/Study tips.md",
     "Workout/Workout tips.md",
+    "Extra $/$.md",
+    "Extra $",
+    "Study/Study tips.md",
     "Workout",
     "Workout",
     "Writing/Lyrics scratch book.md",
@@ -248,7 +250,6 @@
     "Trading/Notes/Cotton 500 to 7400 video.md",
     "Trading/Notes/cotton 100 trades reviewed.md",
     "Writing/Odds are lyrics.md",
-    "Writing/Still fighting.md",
     "League",
     "Pasted image 20240119230441.png",
     "Pasted image 20240119043554.png",
@@ -262,7 +263,6 @@
     "Trading/Notes/pics/overcoming fear of trading/Pasted image 20240107172629.png",
     "Trading/Notes/pics/trades reviewed/pt.9/Pasted image 20240107010700.png",
     "Trading/Notes/pics/trades reviewed/pt.9",
-    "Art",
-    "Trading/Notes/pics/trades reviewed/pt.7"
+    "Art"
   ]
 }
