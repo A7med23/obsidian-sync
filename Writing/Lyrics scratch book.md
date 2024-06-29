@@ -43,6 +43,8 @@ Say if they can operate or if its the
 
 This is my veitnam, i shouldnt have gotten i to this, and i dont have a good way out
 
+ID CALL YOU 
+
 Men fall for what they see
 Women fall for what they hear
 Thats why women wear makeup and men tell lies
