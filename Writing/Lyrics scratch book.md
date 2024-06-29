@@ -43,7 +43,7 @@ Say if they can operate or if its the
 
 This is my veitnam, i shouldnt have gotten i to this, and i dont have a good way out
 
-ID CALL YOU 
+id call you a cunt but you aint got the depth nor the warmth
 
 Men fall for what they see
 Women fall for what they hear
