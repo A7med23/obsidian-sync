@@ -7,6 +7,8 @@ ep 911  hour4 min 4 trump tax code
 Black box fading in
 Using frame emotion with react
 
+time is the apex predator
+
 How do i love you when i hate myself
 How do i protect you when i harm myself
 How do i hold you when ive let go of myself
