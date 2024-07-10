@@ -11,12 +11,8 @@
             "id": "344881b921ca8af3",
             "type": "leaf",
             "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Writing/Bandage.md",
-                "mode": "source",
-                "source": false
-              }
+              "type": "graph",
+              "state": {}
             }
           }
         ]
@@ -85,7 +81,6 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Writing/Bandage.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +97,6 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Writing/Bandage.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -124,9 +118,7 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {
-                "file": "Writing/Bandage.md"
-              }
+              "state": {}
             }
           }
         ]
@@ -148,6 +140,9 @@
   },
   "active": "344881b921ca8af3",
   "lastOpenFiles": [
+    "Trading/Watch list.md",
+    "Trading/Trading.md",
+    "Writing/Bandage.md",
     "Writing/3 body problem.md",
     "Writing/Addicted.md",
     "Writing/dear dream.md",
@@ -171,9 +166,6 @@
     "Writing/Security.md",
     "Writing/Reddit saves.md",
     "Writing/Quotes.md",
-    "Writing/pessimistic.md",
-    "Writing/other.md",
-    "Writing/Miss saying it.md",
     "Workout",
     "Study",
     "Extra",
