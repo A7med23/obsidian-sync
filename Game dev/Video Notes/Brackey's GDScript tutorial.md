@@ -18,4 +18,4 @@ example: enum Alignment {ALLY, NEUTRAL, ENEMY}
 
 var player1_alignment = Alingment.ALLY
 
-- can also be used with exported variables -> @export var player1_alignment :  Alignment (the colon is to set it's type) -> now we get a drop down menu in the di
+- can also be used with exported variables -> @export var player1_alignment :  Alignment (the colon is to set it's type) -> now we get a drop down menu in the editor with the 3 alignments available
