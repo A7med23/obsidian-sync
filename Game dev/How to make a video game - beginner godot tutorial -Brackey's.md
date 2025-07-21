@@ -62,3 +62,7 @@
 
 # Text
 - add labels and change their font and font size (in increments of 8)
+
+# Score
+## common practice to place gamewide variables in game manager
+- make it a regular node not a node2D
