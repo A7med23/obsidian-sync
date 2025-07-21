@@ -30,3 +30,7 @@
 ## detecting entering dangerous area and restarting the game
 - using a area2d node (naming it killzone) 
 - **Do not give the node a collision shape in it's scene**, add the collision shape seperatly whenever it's added somewhere as you may need to change its shape for different objects
+
+- use a timer to delay the respawning 
+
+- to reference a node in your code just drag it and hold control while releasing
