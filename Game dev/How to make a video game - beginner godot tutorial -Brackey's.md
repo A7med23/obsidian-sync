@@ -14,3 +14,8 @@
 ## worldbuilding
 ### tile map layers node
 - use erase tool and shift + click to reshape the tiles auto generated in the atlas as needed
+
+# platforms
+
+# pickups
+- use area2d node to interact and not collide with the object
