@@ -70,4 +70,6 @@
 # Audio
 
 ## music
-- make the audio stream player a scene on it's own and 
+- make the audio stream player a scene on it's own and then set it as an autoload scene (scenes that play globally persistent throughout the entire game regardless of what scene is loaded)
+
+## coin pickup
