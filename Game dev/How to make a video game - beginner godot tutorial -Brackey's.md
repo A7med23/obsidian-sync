@@ -36,3 +36,10 @@
 - to reference a node in your code just drag it and hold control while releasing
 
 - use timer "timeout" function to do smth once the time is up
+
+# Enemy
+
+## animation
+
+## movement and ray casting to detect when to change direction
+
