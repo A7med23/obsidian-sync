@@ -73,3 +73,8 @@
 - make the audio stream player a scene on it's own and then set it as an autoload scene (scenes that play globally persistent throughout the entire game regardless of what scene is loaded)
 
 ## coin pickup
+
+### a timing issue
+where the coin is killed the second it's picked up, which causes an issue where teh sound wont have a chance to fully play. a solution is making the object disappear in an animation and the sound play in that animation
+
+- **you can call function in the animation player**
