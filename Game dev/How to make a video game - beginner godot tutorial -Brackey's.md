@@ -66,3 +66,8 @@
 # Score
 ## common practice to place gamewide variables in game manager
 - make it a regular node not a node2D
+
+# Audio
+
+## music
+- make the audio stream player a scene on it's own and 
