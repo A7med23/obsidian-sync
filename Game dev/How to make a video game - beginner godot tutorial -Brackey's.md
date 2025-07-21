@@ -83,8 +83,8 @@ the use of that here is to call the queue free function at the end of the animat
 
 # Todo's
 
-- add a main menu
-- different levels
-- double jump
-- coyote timing
+## add a main menu
+## different levels
+## double jump
+## coyote timing
 
