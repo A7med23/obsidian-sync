@@ -16,8 +16,8 @@
 
 Ideas
 [[dear dream]]
-[[Writing/pessimistic]]
-[[Writing/Let’s pretend]]
+[[pessimistic]]
+[[Let’s pretend]]
 
 
 

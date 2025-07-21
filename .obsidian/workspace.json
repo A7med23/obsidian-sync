@@ -1,18 +1,24 @@
 {
   "main": {
-    "id": "e99e0077bb556bb6",
+    "id": "28280cb25e9cd8a2",
     "type": "split",
     "children": [
       {
-        "id": "c83599ec5420d30f",
+        "id": "0274ae0921124964",
         "type": "tabs",
         "children": [
           {
-            "id": "344881b921ca8af3",
+            "id": "47d2e1844fb7754d",
             "type": "leaf",
             "state": {
-              "type": "graph",
-              "state": {}
+              "type": "markdown",
+              "state": {
+                "file": "Game dev/How to make a video game - beginner godot tutorial -Brackey's.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "How to make a video game - beginner godot tutorial -Brackey's"
             }
           }
         ]
@@ -21,25 +27,28 @@
     "direction": "vertical"
   },
   "left": {
-    "id": "56d3937232b406e5",
+    "id": "104d8ee4382ec718",
     "type": "split",
     "children": [
       {
-        "id": "93b17d11eab4a539",
+        "id": "196e6dc5b179a069",
         "type": "tabs",
         "children": [
           {
-            "id": "15c403d4309da4ec",
+            "id": "44e12cf2776d343c",
             "type": "leaf",
             "state": {
               "type": "file-explorer",
               "state": {
-                "sortOrder": "alphabetical"
-              }
+                "sortOrder": "alphabetical",
+                "autoReveal": false
+              },
+              "icon": "lucide-folder-closed",
+              "title": "Files"
             }
           },
           {
-            "id": "d320558a514c11c8",
+            "id": "76b5fea3671849b9",
             "type": "leaf",
             "state": {
               "type": "search",
@@ -50,33 +59,37 @@
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical"
-              }
+              },
+              "icon": "lucide-search",
+              "title": "Search"
             }
           },
           {
-            "id": "74802fea6757d5e8",
+            "id": "5cd5d75520155431",
             "type": "leaf",
             "state": {
               "type": "bookmarks",
-              "state": {}
+              "state": {},
+              "icon": "lucide-bookmark",
+              "title": "Bookmarks"
             }
           }
         ]
       }
     ],
     "direction": "horizontal",
-    "width": 300
+    "width": 212.5
   },
   "right": {
-    "id": "ac9cba3341cd6410",
+    "id": "f4f85b22c261267d",
     "type": "split",
     "children": [
       {
-        "id": "df27061cab300a2d",
+        "id": "da1f132b4a245f77",
         "type": "tabs",
         "children": [
           {
-            "id": "8edaa034226f595d",
+            "id": "6a8d510162b99f11",
             "type": "leaf",
             "state": {
               "type": "backlink",
@@ -88,37 +101,51 @@
                 "searchQuery": "",
                 "backlinkCollapsed": false,
                 "unlinkedCollapsed": true
-              }
+              },
+              "icon": "links-coming-in",
+              "title": "Backlinks"
             }
           },
           {
-            "id": "60922c8e4273eef9",
+            "id": "ee54d17e2ee02971",
             "type": "leaf",
             "state": {
               "type": "outgoing-link",
               "state": {
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
-              }
+              },
+              "icon": "links-going-out",
+              "title": "Outgoing links"
             }
           },
           {
-            "id": "5e68918c2260d7e8",
+            "id": "5fc75b27fd74d28c",
             "type": "leaf",
             "state": {
               "type": "tag",
               "state": {
                 "sortOrder": "frequency",
-                "useHierarchy": true
-              }
+                "useHierarchy": true,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-tags",
+              "title": "Tags"
             }
           },
           {
-            "id": "7304208a729930f0",
+            "id": "01d0bc9308e32cf3",
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {}
+              "state": {
+                "followCursor": false,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-list",
+              "title": "Outline"
             }
           }
         ]
@@ -135,56 +162,28 @@
       "canvas:Create new canvas": false,
       "daily-notes:Open today's daily note": false,
       "templates:Insert template": false,
-      "command-palette:Open command palette": false
+      "command-palette:Open command palette": false,
+      "audio-recorder:Start/stop recording": false
     }
   },
-  "active": "344881b921ca8af3",
+  "active": "47d2e1844fb7754d",
   "lastOpenFiles": [
-    "Trading/Watch list.md",
-    "Trading/Trading.md",
-    "Writing/Bandage.md",
-    "Writing/3 body problem.md",
-    "Writing/Addicted.md",
-    "Writing/dear dream.md",
-    "Writing/dying star.md",
-    "Writing/Lyrics scratch book.md",
-    "Writing/Full Pieces.md",
-    "Writing/Guardian angel.md",
-    "Writing/drafts, sketches, scratches.md",
-    "Writing/Dear New Year.md",
-    "Writing/Odds are lyrics.md",
-    "Writing/Poison.md",
-    "Writing/Printer.md",
-    "Writing/Still fighting.md",
-    "Writing/لمة.md",
-    "Writing/لخبطة نوايا.md",
-    "Writing/كنت فاكر.md",
-    "Writing/قرار.md",
-    "Writing/Writing.md",
-    "Writing/Wrist.md",
-    "Writing/wake up.md",
-    "Writing/Security.md",
-    "Writing/Reddit saves.md",
-    "Writing/Quotes.md",
-    "Workout",
-    "Study",
-    "Extra",
-    "Extra $",
-    "Pasted image 20240504154323.png",
-    "Pasted image 20240504154249.png",
-    "Trading/Notes/pics/Pasted image 20240106194319.png",
-    "Trading/Notes/pics/trades reviewed/pt.7/Pasted image 20240106203438.png",
-    "Pasted image 20240119230441.png",
-    "Pasted image 20240119043554.png",
-    "Pasted image 20240114185454.png",
-    "Pasted image 20240114045132.png",
-    "League",
-    "game dev",
-    "Minecraft",
-    "Trading/Notes/pics/Pasted image 20240106195154.png",
-    "Trading/Notes/pics/overcoming fear of trading/Pasted image 20240107172629.png",
-    "Trading/Notes/pics/overcoming fear of trading",
-    "Trading/Notes/pics/trades reviewed/pt.9",
-    "Trading/Notes/pics/trades reviewed/pt.7"
+    "Game dev/Basics of the Basics of a Game/Assets.md",
+    "Game dev/How to make a video game - beginner godot tutorial -Brackey's.md",
+    "Game dev/Basics of the Basics of a Game",
+    "Game dev/Making a Game from Start to Finish -Lukky.md",
+    "pre Organization/game dev/Tips from videos.md",
+    "Untitled.canvas",
+    "pre Organization/game dev/Job offerings for different roles.md",
+    "pre Organization/game dev/Ideas.md",
+    "pre Organization/game dev/game ideas.md",
+    "pre Organization/game dev/content creators.md",
+    "Game dev",
+    "pre Organization/Payyer secret code.md",
+    "pre Organization/video editing/tips for job finding.md",
+    "pre Organization",
+    "pre Organization/Pasted image 20250714020609.png",
+    "pre Organization/video editing",
+    "2025-07-11.md"
   ]
 }
