@@ -78,3 +78,5 @@
 where the coin is killed the second it's picked up, which causes an issue where teh sound wont have a chance to fully play. a solution is making the object disappear in an animation and the sound play in that animation
 
 - **you can call function in the animation player**
+
+the use of that here is to call the queue free function at the end of the animation
