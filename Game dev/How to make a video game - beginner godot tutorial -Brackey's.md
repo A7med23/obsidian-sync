@@ -59,3 +59,6 @@
 ## pointing player in direction of movement
 
 ## making custom inputs for movement
+
+# Text
+- add labels and change their font and font size (in increments of 8)
