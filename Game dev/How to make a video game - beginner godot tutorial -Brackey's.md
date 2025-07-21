@@ -52,3 +52,10 @@
 
 - use the body parameter thats passed into the collision -> it detects the player and can be used as a reference
 - another way is to just reference the player directly
+
+# Player 2.0
+## adding run and jump animation
+
+## pointing player in direction of movement
+
+## making custom inputs for movement
