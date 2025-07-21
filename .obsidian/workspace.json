@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Game dev/Video Notes/Brackey's GDScript tutorial.md",
+                "file": "Game dev/Daily progress.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Brackey's GDScript tutorial"
+              "title": "Daily progress"
             }
           }
         ]
@@ -168,8 +168,11 @@
   },
   "active": "4ab44d4d038ddc0b",
   "lastOpenFiles": [
-    "Pasted image 20250721222545.png",
     "Game dev/Video Notes/Brackey's GDScript tutorial.md",
+    "Game dev/Daily progress.md",
+    "Game dev/1. Daily Progress/Untitled.md",
+    "Game dev/1. Daily Progress",
+    "Pasted image 20250721222545.png",
     "Game dev/Video Notes/How to make a video game - beginner godot tutorial -Brackey's.md",
     "Game dev/Video Notes/Playing games from the inbound shovel gam jam.md",
     "Game dev/Video Notes/Making a Game from Start to Finish -Lukky.md",
