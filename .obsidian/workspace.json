@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Game dev/Video Notes/Brackey's GDScript tutorial.md",
+                "file": "Game dev/Video Notes/Playing games from the inbound shovel gam jam.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Brackey's GDScript tutorial"
+              "title": "Playing games from the inbound shovel gam jam"
             }
           }
         ]
@@ -168,10 +168,11 @@
   },
   "active": "4ab44d4d038ddc0b",
   "lastOpenFiles": [
+    "Game dev/Video Notes/Brackey's GDScript tutorial.md",
+    "Game dev/Video Notes/Playing games from the inbound shovel gam jam.md",
     "Game dev/Video Notes/How to make a video game - beginner godot tutorial -Brackey's.md",
     "Game dev/Basics of the Basics of a Game/Coding.md",
     "Game dev/Video Notes/Making a Game from Start to Finish -Lukky.md",
-    "Game dev/Video Notes/Brackey's GDScript tutorial.md",
     "Game dev/Video Notes",
     "Game dev/Basics of the Basics of a Game/Assets.md",
     "Game dev/Basics of the Basics of a Game",
