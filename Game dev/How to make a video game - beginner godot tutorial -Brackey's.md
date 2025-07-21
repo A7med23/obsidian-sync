@@ -43,3 +43,12 @@
 
 ## movement and ray casting to detect when to change direction
 
+# Dying 2.0
+
+## slow motion effect
+- done by changing the engine's timescale then reverting back to normal after respawning
+
+## removing the player's collider after hitting the enemy to make them fall off the map
+
+- use the body parameter thats passed into the collision -> it detects the player and can be used as a reference
+- another way is to just reference the player directly
