@@ -80,3 +80,11 @@ where the coin is killed the second it's picked up, which causes an issue where 
 - **you can call function in the animation player**
 
 the use of that here is to call the queue free function at the end of the animation
+
+# Todo's
+
+- add a main menu
+- different levels
+- double jump
+- coyote timing
+
