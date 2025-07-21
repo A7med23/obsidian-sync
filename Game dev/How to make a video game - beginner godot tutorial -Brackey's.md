@@ -20,4 +20,11 @@
 # pickups
 - use area2d node to interact and not collide with the object
 - use signals to detect and use functionality
-- using physics layers fix the issue of the coin detecting any body that passes through it -> put the player on a different physics layer and use mask to make sure the coin only detects that physics layer (another solution is to use code to detect which object collided with the coin)
+- using physics layers fix the issue of the coin detecting any body that passes through it -> put the player on a different physics layer and use mask to make sure the coin only detects that physics layer (another solution is to use code to detect which object collided with the coin
+
+# Dying 1.0
+
+## limiting camera
+- use ruler tool to find out the pixel range
+
+## detecting entering dangerous area and restarting the game
