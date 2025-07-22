@@ -37,3 +37,10 @@ var player1_alignment = Alingment.ALLY
 
 - can make a var with type node (var ex : Node) and export it and drag and drop nodes in it
 - and can use that to check for node type
+
+## signals
+- they are useful for decoupling (pushing changes/executing functions without being integrated with the button/trigger of that)
+
+- example is a player leveling up -> need to update stats and UI and Unlocks
+- updating all of that from the player script can get messy/crowded so -> we create a level up signal and use it to activate functions in the stuff we need to update independantly off the player
+![[Pasted image 20250722040218.png]]
