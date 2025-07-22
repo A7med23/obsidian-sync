@@ -69,3 +69,12 @@ can also connect the signal through code and not through the editor
 - mainly used to bundle up vars or funcs, also used as alternative to dict as theyre sometimes safer to use
 - example:
 ![[Pasted image 20250722043814.png]]
+
+## inheritance
+- the main significance of inheritance is to make sure you put scripts in the right node to inherit the desired functionality from it
+- example: if i want to make a script that controls character movement, it should inherit from charachterBody node
+
+## composition
+
+- watch the video from Bitlytic
+
