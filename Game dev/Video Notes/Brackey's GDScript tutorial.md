@@ -24,5 +24,11 @@ var player1_alignment = Alingment.ALLY
 - basically a switch statement
 
 - example is:
-	- switch player1_alignment:
-		- 
+	- match player1_alignment:
+		- Alignment.NEUTRAL:
+			- do smth
+		- Alignment.ALLY:
+			- do smth
+		- "underscore then colon" is the default action if none of the cases are met
+
+## modifying nodes 2.0
