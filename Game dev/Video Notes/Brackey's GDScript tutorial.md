@@ -51,6 +51,5 @@ can also connect the signal through code and not through the editor
 ## get/set
 
 - getters and Setters are used to add code to when a variable is changed
-- for example, clamping the value of a variable between 2 
-
+- for example, clamping the value of a variable in a range:
 ![[Pasted image 20250722040558.png]]
