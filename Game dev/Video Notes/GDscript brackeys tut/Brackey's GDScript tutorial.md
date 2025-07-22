@@ -78,3 +78,10 @@ can also connect the signal through code and not through the editor
 
 - watch the video from Bitlytic
 
+## call down, signal up
+- one of the best practices of gd script is calling down and signaling up
+- AKA parent node can call on functions from the child nodes but not vice versa
+
+- the child nodes should use signals to indicate that something has happened
+
+- in the case of siblings, the common parent is in charge of connecting the signal of one node to the function of another
