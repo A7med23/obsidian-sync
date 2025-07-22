@@ -58,3 +58,14 @@ can also connect the signal through code and not through the editor
 ![[Pasted image 20250722042940.png]]
 
 ## Classes
+
+- creating a class with vars and funcs
+![[Pasted image 20250722043502.png]]
+
+- calling and using the class
+![[Pasted image 20250722043543.png]]
+
+## inner classes
+- mainly used to bundle up vars or funcs, also used as alternative to dict as theyre sometimes safer to use
+- example:
+![[Pasted image 20250722043814.png]]
