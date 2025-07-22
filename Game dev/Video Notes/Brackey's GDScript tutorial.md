@@ -32,3 +32,8 @@ var player1_alignment = Alingment.ALLY
 		- "underscore then colon" is the default action if none of the cases are met
 
 ## modifying nodes 2.0
+
+- the $ is short hand for get_node("node/path")
+
+- can make a var with type node (var ex : Node) and export it and drag and drop nodes in it
+- and can use that to check for node type
