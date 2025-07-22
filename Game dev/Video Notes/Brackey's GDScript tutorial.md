@@ -44,3 +44,13 @@ var player1_alignment = Alingment.ALLY
 - example is a player leveling up -> need to update stats and UI and Unlocks
 - updating all of that from the player script can get messy/crowded so -> we create a level up signal and use it to activate functions in the stuff we need to update independantly off the player
 ![[Pasted image 20250722040218.png]]
+
+![[Pasted image 20250722040314.png]]
+can also connect the signal through code and not through the editor
+
+## get/set
+
+- getters and Setters are used to add code to when a variable is changed
+- for example, clamping the value of a variable between 2 
+
+![[Pasted image 20250722040558.png]]
