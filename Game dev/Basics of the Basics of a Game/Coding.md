@@ -2,3 +2,5 @@
 
 # picking random animations/sprites to show/play
 ![[Pasted image 20250723193043.png]]
+
+# use visibileonscreen to delete projectiles after th
