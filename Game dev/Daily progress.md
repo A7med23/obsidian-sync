@@ -8,4 +8,6 @@
 
 # 23/7/2025
 - made the player
-- 
+- made player shoot bullets
+- made asteroids
+- made the teleportation mechanic for when something flies off the screen
