@@ -11,3 +11,6 @@
 - made player shoot bullets
 - made asteroids
 - made the teleportation mechanic for when something flies off the screen
+- added score and lives ui
+- added death and respawn functionality
+- added meteor SFX
