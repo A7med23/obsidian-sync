@@ -14,3 +14,4 @@
 - added score and lives ui
 - added death and respawn functionality
 - added meteor SFX
+- added game over screen menu and functionality
