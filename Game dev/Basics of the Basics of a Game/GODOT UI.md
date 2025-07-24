@@ -6,3 +6,5 @@
 ### control node -> HUD
 - is it's own scene
 - has score, hp, $, etc etc
+
+- can use H container or V container to stack textures horizontally/vertically 
