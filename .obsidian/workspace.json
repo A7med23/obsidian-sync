@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Game dev/Video Notes/How to make a video game - beginner godot tutorial -Brackey's.md",
+                "file": "Game dev/Basics of the Basics of a Game/GODOT UI.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "How to make a video game - beginner godot tutorial -Brackey's"
+              "title": "GODOT UI"
             }
           },
           {
@@ -182,12 +182,13 @@
   },
   "active": "4ab44d4d038ddc0b",
   "lastOpenFiles": [
+    "Game dev/Video Notes/How to make a video game - beginner godot tutorial -Brackey's.md",
+    "Game dev/Basics of the Basics of a Game/GODOT UI.md",
     "Game dev/Video Notes/GDscript brackeys tut/Brackey's GDScript tutorial.md",
     "Game dev/Basics of the Basics of a Game/Coding.md",
     "Game dev/Daily progress.md",
     "Pasted image 20250723193043.png",
     "Game dev/Basics of the Basics of a Game/Assets.md",
-    "Game dev/Video Notes/How to make a video game - beginner godot tutorial -Brackey's.md",
     "Game dev/project notes/Asteroids Clone.md",
     "Game dev/project notes",
     "Game dev/Video Notes/Making a Game from Start to Finish -Lukky.md",
