@@ -9,6 +9,11 @@
 ## node based approach:
 - better organized and more convenient when dealing with larger/more complex systems
 
+## the definition of a state
+![[Pasted image 20250727234750.png]]
+and function:
+![[Pasted image 20250727234809.png]]
+
 ## Setup
 
 ### connecting Player to state machine
