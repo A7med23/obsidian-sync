@@ -22,3 +22,6 @@
 - added waves 
 - teleportation for bullets
 - Asteroids Game finished
+
+# 27/7/2025
+- watched starter state machines godot tut
