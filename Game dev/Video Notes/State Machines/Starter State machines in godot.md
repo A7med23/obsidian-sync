@@ -19,4 +19,4 @@
 
 ### child state blueprint
 
-- ![[Pasted image 20250727200229.png]] each of the processes 
+- ![[Pasted image 20250727200229.png]] each of the processes return null to signal that a state change is not to be done along with the enter and exit functions
