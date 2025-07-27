@@ -11,6 +11,10 @@
 
 ## Setup
 
+### connecting Player to state machine
+
+- ![[Pasted image 20250727224542.png]]
+
 ### State_Machine (the controller)
 
 - ![[Pasted image 20250727200035.png]] this is to pass the player as the parent to all the child states
