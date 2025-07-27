@@ -25,3 +25,4 @@
 
 # 27/7/2025
 - watched starter state machines godot tut
+- learned animation tree code functionality and implemented it
