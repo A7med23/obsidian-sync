@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Game dev/Video Notes/Starter State machines in godot.md",
+                "file": "Game dev/Video Notes/State Machines/Starter State machines in godot.md",
                 "mode": "source",
                 "source": false
               },
@@ -182,8 +182,13 @@
   },
   "active": "4ab44d4d038ddc0b",
   "lastOpenFiles": [
+    "Pasted image 20250727200229.png",
+    "Pasted image 20250727200106.png",
+    "Pasted image 20250727200035.png",
+    "Pasted image 20250727200029.png",
+    "Game dev/Video Notes/State Machines",
     "Game dev/Daily progress.md",
-    "Game dev/Video Notes/Starter State machines in godot.md",
+    "Game dev/Video Notes/State Machines/Starter State machines in godot.md",
     "Game dev/Video Notes/GDscript brackeys tut/Brackey's GDScript tutorial.md",
     "Game dev/Basics of the Basics of a Game/GODOT UI.md",
     "Game dev/Basics of the Basics of a Game/Coding.md",
@@ -201,10 +206,8 @@
     "Game dev/Video Notes/GDscript brackeys tut/Pasted image 20250722040218.png",
     "Game dev/Video Notes/GDscript brackeys tut",
     "Game dev/Video Notes/GDscript brackeys tut/Pasted image 20250722040558.png",
-    "Game dev/Video Notes/GDscript brackeys tut/Pasted image 20250722040314.png",
     "Game dev/1. Daily Progress/Untitled.md",
     "Game dev/1. Daily Progress",
-    "Pasted image 20250721222545.png",
     "Game dev/Video Notes",
     "Game dev/Basics of the Basics of a Game",
     "pre Organization/game dev/Tips from videos.md",
@@ -217,7 +220,6 @@
     "pre Organization/Payyer secret code.md",
     "pre Organization/video editing/tips for job finding.md",
     "pre Organization",
-    "pre Organization/Pasted image 20250714020609.png",
     "pre Organization/video editing",
     "2025-07-11.md"
   ]
