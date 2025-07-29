@@ -4,24 +4,17 @@
     "type": "split",
     "children": [
       {
-        "id": "e1b5226f1a6942ed",
+        "id": "c913b627dca5e9f4",
         "type": "tabs",
         "children": [
           {
-            "id": "4ab44d4d038ddc0b",
+            "id": "a811916273b15d92",
             "type": "leaf",
             "state": {
-              "type": "canvas",
-              "state": {
-                "file": "Game dev/Video Notes/Untitled.canvas",
-                "viewState": {
-                  "x": 242,
-                  "y": -58,
-                  "zoom": 0
-                }
-              },
-              "icon": "lucide-layout-dashboard",
-              "title": "Untitled"
+              "type": "empty",
+              "state": {},
+              "icon": "lucide-file",
+              "title": "New tab"
             }
           }
         ]
@@ -169,10 +162,10 @@
       "audio-recorder:Start/stop recording": false
     }
   },
-  "active": "4ab44d4d038ddc0b",
+  "active": "44e12cf2776d343c",
   "lastOpenFiles": [
-    "Game dev/Video Notes/State Machines/Starter State machines in godot.md",
     "Game dev/Video Notes/Untitled.canvas",
+    "Game dev/Video Notes/State Machines/Starter State machines in godot.md",
     "Game dev/test.md",
     "Game dev/Video Notes/State Machines/Pasted image 20250727234809.png",
     "Game dev/Video Notes/State Machines/Pasted image 20250727234750.png",
