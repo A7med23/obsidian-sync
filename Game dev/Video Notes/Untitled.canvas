@@ -1,9 +1,4 @@
 {
-	"nodes":[
-		{"id":"7107e93ac9ac2b3a","x":-135,"y":-103,"width":250,"height":60,"type":"text","text":"Metroidvania"},
-		{"id":"187fdcbd82ae8ac1","x":267,"y":-215,"width":250,"height":60,"type":"text","text":""}
-	],
-	"edges":[
-		{"id":"ed3af87ec36e7d61","fromNode":"7107e93ac9ac2b3a","fromSide":"right","toNode":"187fdcbd82ae8ac1","toSide":"left"}
-	]
+	"nodes":[],
+	"edges":[]
 }
