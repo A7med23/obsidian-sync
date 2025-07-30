@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Game dev/Basics of the Basics of a Game/example of character composition.md",
+                "file": "Game dev/Ideas/Game Ideas.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "example of character composition"
+              "title": "Game Ideas"
             }
           }
         ]
@@ -169,9 +169,12 @@
   },
   "active": "a811916273b15d92",
   "lastOpenFiles": [
-    "Pasted image 20250730024622.png",
-    "Game dev/Basics of the Basics of a Game/Pasted image 20250730024322.png",
+    "Game dev/Basics of the Basics of a Game/Pasted image 20250730024622.png",
+    "Game dev/Ideas/Game Ideas.md",
     "Game dev/Basics of the Basics of a Game/example of character composition.md",
+    "Game dev/Ideas/Untitled",
+    "Game dev/Ideas",
+    "Game dev/Basics of the Basics of a Game/Pasted image 20250730024322.png",
     "Game dev/Video Notes/Untitled.canvas",
     "Untitled Kanban.md",
     "Game dev/Video Notes/State Machines/Starter State machines in godot.md",
@@ -195,7 +198,6 @@
     "Game dev/Basics of the Basics of a Game/Assets.md",
     "Game dev/project notes/Asteroids Clone.md",
     "Game dev/project notes",
-    "Game dev/Video Notes/GDscript brackeys tut/Pasted image 20250722043814.png",
     "Game dev/Video Notes/GDscript brackeys tut",
     "Game dev/1. Daily Progress/Untitled.md",
     "Game dev/1. Daily Progress",
@@ -211,7 +213,6 @@
     "pre Organization/Payyer secret code.md",
     "pre Organization/video editing/tips for job finding.md",
     "pre Organization",
-    "pre Organization/video editing",
     "2025-07-11.md"
   ]
 }
