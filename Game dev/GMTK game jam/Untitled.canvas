@@ -6,7 +6,9 @@
 		{"id":"10521001c7adf4e9","x":24,"y":22,"width":250,"height":60,"type":"text","text":"Challenge"},
 		{"id":"39e8df79e99f172a","x":457,"y":-87,"width":301,"height":314,"type":"text","text":"What makes the game fun/interesting (creating tension):\nex:\n- time limit\n- enemies\n- puzzles \n- physics\n- or chaos "},
 		{"id":"1cce147bf56962f8","x":-497,"y":-476,"width":293,"height":132,"type":"text","text":"Twist that makes the game mine, memorable and special but simple"},
-		{"id":"95fb71a82128c16c","x":408,"y":-514,"width":350,"height":297,"type":"text","text":"Core verb: one word, main action the player repeats.\n\nshould be physical and simple:\n- jump\n- shoot\n- dodge\n- slice\n- collect"}
+		{"id":"95fb71a82128c16c","x":408,"y":-514,"width":350,"height":297,"type":"text","text":"Core verb: one word, main action the player repeats.\n\nshould be physical and simple:\n- jump\n- shoot\n- dodge\n- slice\n- collect"},
+		{"id":"0b3e93c610f6962f","x":-924,"y":134,"width":381,"height":331,"type":"text","text":"Tips:\n- lose fast try again fast -> can be very addicting "},
+		{"id":"f5bf9bc54f9c1e6a","x":161,"y":582,"width":250,"height":60,"type":"text","text":"Theme: Loop"}
 	],
 	"edges":[
 		{"id":"56a061a1c8712bcc","fromNode":"f6dfca3c7d2730ea","fromSide":"right","toNode":"e3f2a7b37409f6aa","toSide":"left"},
