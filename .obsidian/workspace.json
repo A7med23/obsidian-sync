@@ -11,17 +11,14 @@
             "id": "a811916273b15d92",
             "type": "leaf",
             "state": {
-              "type": "canvas",
+              "type": "markdown",
               "state": {
-                "file": "Game dev/GMTK game jam/Untitled.canvas",
-                "viewState": {
-                  "x": 25.540618789139984,
-                  "y": 102.20549232282708,
-                  "zoom": -0.3333333333333334
-                }
+                "file": "Game dev/GMTK game jam/game idea.md",
+                "mode": "source",
+                "source": false
               },
-              "icon": "lucide-layout-dashboard",
-              "title": "Untitled"
+              "icon": "lucide-file",
+              "title": "game idea"
             }
           }
         ]
@@ -173,6 +170,7 @@
   "active": "a811916273b15d92",
   "lastOpenFiles": [
     "Game dev/GMTK game jam/Untitled.canvas",
+    "Game dev/GMTK game jam/game idea.md",
     "Game dev/GMTK game jam/Todo.md",
     "Game dev/Ideas/Game Ideas.md",
     "Game dev/GMTK game jam",
