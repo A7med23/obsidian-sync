@@ -1,7 +1,7 @@
 {
 	"nodes":[
 		{"id":"f6dfca3c7d2730ea","x":-387,"y":-175,"width":259,"height":58,"type":"text","text":"Core loop:"},
-		{"id":"e3f2a7b37409f6aa","x":24,"y":-344,"width":250,"height":60,"type":"text","text":"Mechanic"},
+		{"id":"e3f2a7b37409f6aa","x":24,"y":-344,"width":250,"height":60,"type":"text","text":"Mechanic "},
 		{"id":"d01cba7f497c13f7","x":-830,"y":-177,"width":250,"height":60,"type":"text","text":"Goal"},
 		{"id":"10521001c7adf4e9","x":24,"y":22,"width":250,"height":60,"type":"text","text":"Challenge"},
 		{"id":"39e8df79e99f172a","x":457,"y":-87,"width":301,"height":314,"type":"text","text":"What makes the game fun/interesting (creating tension):\nex:\n- time limit\n- enemies\n- puzzles \n- physics\n- or chaos "},
