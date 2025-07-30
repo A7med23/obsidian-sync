@@ -9,7 +9,9 @@
 		{"id":"95fb71a82128c16c","x":408,"y":-514,"width":350,"height":297,"type":"text","text":"Core verb: one word, main action the player repeats.\n\nshould be physical and simple:\n- jump\n- shoot\n- dodge\n- slice\n- collect"},
 		{"id":"0b3e93c610f6962f","x":-924,"y":134,"width":381,"height":331,"type":"text","text":"Tips:\n- lose fast try again fast -> can be very addicting "},
 		{"id":"f5bf9bc54f9c1e6a","x":161,"y":582,"width":250,"height":60,"type":"text","text":"Theme: Loop"},
-		{"id":"02a43a9ca8b7d92b","x":981,"y":-431,"width":250,"height":60,"type":"text","text":"Deck Building"}
+		{"id":"02a43a9ca8b7d92b","x":981,"y":-431,"width":250,"height":60,"type":"text","text":"Deck Building"},
+		{"id":"9ad78b0630602eec","x":164,"y":777,"width":250,"height":60,"type":"text","text":"Card Game"},
+		{"id":"560198a91a9f8d84","x":578,"y":950,"width":250,"height":60,"type":"text","text":""}
 	],
 	"edges":[
 		{"id":"56a061a1c8712bcc","fromNode":"f6dfca3c7d2730ea","fromSide":"right","toNode":"e3f2a7b37409f6aa","toSide":"left"},
@@ -18,6 +20,8 @@
 		{"id":"bab0eb66d2f39546","fromNode":"10521001c7adf4e9","fromSide":"right","toNode":"39e8df79e99f172a","toSide":"left"},
 		{"id":"320c42850804e4c4","fromNode":"f6dfca3c7d2730ea","fromSide":"left","toNode":"d01cba7f497c13f7","toSide":"right"},
 		{"id":"f3fc378531e9c44d","fromNode":"f6dfca3c7d2730ea","fromSide":"top","toNode":"1cce147bf56962f8","toSide":"bottom"},
-		{"id":"c9a8db0a78c4adfa","fromNode":"95fb71a82128c16c","fromSide":"right","toNode":"02a43a9ca8b7d92b","toSide":"left"}
+		{"id":"c9a8db0a78c4adfa","fromNode":"95fb71a82128c16c","fromSide":"right","toNode":"02a43a9ca8b7d92b","toSide":"left"},
+		{"id":"e2281c94923347f5","fromNode":"f5bf9bc54f9c1e6a","fromSide":"bottom","toNode":"9ad78b0630602eec","toSide":"top"},
+		{"id":"444165ddf12bfa46","fromNode":"9ad78b0630602eec","fromSide":"bottom","toNode":"560198a91a9f8d84","toSide":"top"}
 	]
 }
