@@ -16,13 +16,15 @@
 		{"id":"cd6dbf380dcd36e6","type":"text","text":"## stat\nReasons: if they hit 13 the player loses","x":2037,"y":243,"width":360,"height":261},
 		{"id":"d537b389776683e1","type":"text","text":"# Attacks","x":2088,"y":640,"width":179,"height":60,"color":"2"},
 		{"id":"cb3c98ccd85b6175","type":"text","text":"Player","x":1014,"y":1127,"width":250,"height":60,"color":"5"},
-		{"id":"6b2b2b8a1ce32e89","x":1014,"y":1310,"width":250,"height":60,"color":"5","type":"text","text":"# Card ideas"},
+		{"id":"6b2b2b8a1ce32e89","type":"text","text":"# Card ideas","x":1014,"y":1310,"width":250,"height":60,"color":"5"},
 		{"id":"78719885eb275d9d","type":"text","text":"## Stats\n-  Sanity -> Card playing cost\n\n- Clarity -> spent to unlock cards","x":367,"y":1069,"width":394,"height":339,"color":"5"},
-		{"id":"68a45dbf39700541","x":479,"y":1553,"width":364,"height":175,"color":"2","type":"text","text":"## Lonely Whisper\n\n- Flavor Text: \"stay strong\"\n- effect: lose 50% less sanity next turn + no reason increase"},
-		{"id":"a097e8843c28e5a0","type":"text","text":"## Childhood Laughter\n\n- Flavor Text: \"the joy that once was, but sometime could be\"\n- effect: + Sanity and - reason","x":900,"y":1553,"width":364,"height":208,"color":"2"},
-		{"id":"99f636af11d39edb","type":"text","text":"## Childhood Laughter\n\n- Flavor Text: \"the joy that once was, but sometime could be\"\n- effect: + Sanity and - reason","x":479,"y":1814,"width":364,"height":208,"color":"2"},
-		{"id":"910ab1cabf472036","x":2088,"y":1507,"width":641,"height":698,"color":"#000f33","type":"text","text":"# gameplay loop:\n\n- ask questions first -> get hit and lose sanity but gain clarity\n- use clarity to get cards\n\n- cards get placed on table\n- when run out of cards -> need to keep skipping turn and keep getting hit with stronger and stronger attacks until reasons hit 13\n\n### Goal: \n- reasons hit 0\n\n### Defeat:\n- reasons hit 13\n"},
-		{"id":"1d2d50e3f98f9e05","type":"text","text":"## Anger\n\n- Flavor Text:  Rage blinds you\n- effect: + Sanity and - reason","x":2437,"y":504,"width":364,"height":208,"color":"2"}
+		{"id":"910ab1cabf472036","type":"text","text":"# gameplay loop:\n\n- ask questions first -> get hit and lose sanity but gain clarity\n- use clarity to get cards\n\n- cards get placed on table\n- when run out of cards -> need to keep skipping turn and keep getting hit with stronger and stronger attacks until reasons hit 13\n\n### Win: \n- reasons hit 0\n- Mirror shatters -> Light shines -> Splash screen \"You chose to stay\"\n\n### Defeat:\n- reasons hit 13\n- darkness takes over -> splash screen text \"\"\n","x":2088,"y":1507,"width":641,"height":698,"color":"#000f33"},
+		{"id":"1a2b3b84e811aee2","type":"text","text":"## Grief \n\n- Flavor Text: Your heart sinks\n- effect: - Sanity,  + Reason","x":2694,"y":700,"width":364,"height":208,"color":"2"},
+		{"id":"1d2d50e3f98f9e05","type":"text","text":"## Anger\n\n- Flavor Text:  Rage blinds you\n- effect: - Sanity, -Clarity","x":2694,"y":214,"width":364,"height":208,"color":"2"},
+		{"id":"a84ca372f3f066da","type":"text","text":"## Doubt\n\n- Flavor Text: Can you?\n- effect:  + Reason","x":2694,"y":462,"width":364,"height":208,"color":"2"},
+		{"id":"68a45dbf39700541","type":"text","text":"## Lonely Whisper\n\n- Flavor Text: \"stay strong\"\n- effect: lose 50% less sanity next turn + no reason increase","x":482,"y":1570,"width":364,"height":175,"color":"2"},
+		{"id":"a097e8843c28e5a0","type":"text","text":"## Childhood Laughter\n\n- Flavor Text: \"the joy that once was, but sometime could be\"\n- effect: + Sanity and - reason","x":482,"y":1786,"width":364,"height":208,"color":"2"},
+		{"id":"99f636af11d39edb","type":"text","text":"## A New Perspective\n\n- Flavor Text:  is that a 6? or is it a 9?\n- effect: + Sanity , + Clarity, - Reason","x":1189,"y":1570,"width":370,"height":171,"color":"2"}
 	],
 	"edges":[
 		{"id":"56a061a1c8712bcc","fromNode":"f6dfca3c7d2730ea","fromSide":"right","toNode":"e3f2a7b37409f6aa","toSide":"left"},
@@ -43,6 +45,9 @@
 		{"id":"e4deac19286b8fa2","fromNode":"cb3c98ccd85b6175","fromSide":"right","toNode":"910ab1cabf472036","toSide":"top"},
 		{"id":"d6ca37cd7f27faeb","fromNode":"6b2b2b8a1ce32e89","fromSide":"bottom","toNode":"68a45dbf39700541","toSide":"top"},
 		{"id":"ff5f8eaccb893a6b","fromNode":"6b2b2b8a1ce32e89","fromSide":"bottom","toNode":"a097e8843c28e5a0","toSide":"top"},
-		{"id":"4001437f6562be78","fromNode":"6b2b2b8a1ce32e89","fromSide":"bottom","toNode":"99f636af11d39edb","toSide":"top"}
+		{"id":"4001437f6562be78","fromNode":"6b2b2b8a1ce32e89","fromSide":"bottom","toNode":"99f636af11d39edb","toSide":"top"},
+		{"id":"aa92c77c2dd077f0","fromNode":"d537b389776683e1","fromSide":"right","toNode":"1d2d50e3f98f9e05","toSide":"left"},
+		{"id":"acbccae32ca2373e","fromNode":"d537b389776683e1","fromSide":"right","toNode":"1a2b3b84e811aee2","toSide":"left"},
+		{"id":"c03e6febad617b50","fromNode":"d537b389776683e1","fromSide":"right","toNode":"a84ca372f3f066da","toSide":"left"}
 	]
 }
