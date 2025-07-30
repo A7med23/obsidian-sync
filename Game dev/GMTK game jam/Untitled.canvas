@@ -12,10 +12,11 @@
 		{"id":"9ad78b0630602eec","type":"text","text":"Card Game","x":129,"y":282,"width":250,"height":60},
 		{"id":"560198a91a9f8d84","type":"text","text":" ","x":129,"y":465,"width":250,"height":60},
 		{"id":"936193ff50840038","x":820,"y":402,"width":638,"height":535,"type":"text","text":"Game idea: \n\nyou have basic questions: why, who, how.\n\nEnemies: are emotions/thoughts -> usually in couples and you keep looping between them until you gain a certain clarity stat\n\nOr you fight each emotion until you reach a certain clarity and then go on to the next one. each time you use all your cards without reaching that clarity point -> all your cards are gone but you keep one and restart\n\nlevel 1) guilt and grief. Level 2) anger and shame\n\nasking the enemies questions triggers their attacks but gives player memory/support cards.\n\nquestions can be asked to the enemy only a set number of times and then the button gets greyed out.\n\nreaching 0 sanity = loss, reaching 100 clarity (by beating boss) = win\n\n"},
-		{"id":"fb518a6e0492cc82","x":1662,"y":389,"width":250,"height":60,"color":"1","type":"text","text":"Enemies"},
-		{"id":"c4faf0c6be92435d","x":2035,"y":112,"width":250,"height":60,"color":"1","type":"text","text":"Grief"},
-		{"id":"12f0482ba0e57317","x":2392,"y":-88,"width":498,"height":410,"type":"text","text":"Answer's to questions:\n\nif who or how  is asked before why -> your heart aches\n\nwhy? -> All's lost...\nhow? or Why again -> They left\n "},
-		{"id":"80c287ef9f6868c5","x":1762,"y":-546,"width":431,"height":424,"type":"text","text":"## grief's attacks\n- Anger: -Clarity, -Sanity\n- Guilt"}
+		{"id":"fb518a6e0492cc82","x":1709,"y":640,"width":250,"height":60,"color":"1","type":"text","text":"Mirror"},
+		{"id":"cd6dbf380dcd36e6","x":2037,"y":243,"width":360,"height":261,"type":"text","text":"## stat\nReasons: if they hit 13 the player loses"},
+		{"id":"d537b389776683e1","x":2088,"y":640,"width":557,"height":353,"type":"text","text":"## attacks\n- grief: "},
+		{"id":"cb3c98ccd85b6175","x":1014,"y":1127,"width":250,"height":60,"color":"5","type":"text","text":"Player"},
+		{"id":"78719885eb275d9d","x":461,"y":1283,"width":394,"height":339,"type":"text","text":"## Stats\ni want the game to have one main enemy and the enemy has one stat: reason.if reasons hits zero the player wins. i want the player to have 3 main stats: Sanity (basically the player's hp), memory, a currency that allows the player to unlock memory cards and Will, the currency that allows the player to unlock support cards."}
 	],
 	"edges":[
 		{"id":"56a061a1c8712bcc","fromNode":"f6dfca3c7d2730ea","fromSide":"right","toNode":"e3f2a7b37409f6aa","toSide":"left"},
@@ -27,8 +28,9 @@
 		{"id":"e2281c94923347f5","fromNode":"f5bf9bc54f9c1e6a","fromSide":"right","toNode":"9ad78b0630602eec","toSide":"top"},
 		{"id":"444165ddf12bfa46","fromNode":"9ad78b0630602eec","fromSide":"bottom","toNode":"560198a91a9f8d84","toSide":"top"},
 		{"id":"a3158fb983f69381","fromNode":"936193ff50840038","fromSide":"right","toNode":"fb518a6e0492cc82","toSide":"left"},
-		{"id":"020717b099676a2e","fromNode":"fb518a6e0492cc82","fromSide":"right","toNode":"c4faf0c6be92435d","toSide":"left"},
-		{"id":"0aa9c2a7a19102fa","fromNode":"c4faf0c6be92435d","fromSide":"right","toNode":"12f0482ba0e57317","toSide":"left"},
-		{"id":"7cfc4945e772dbc4","fromNode":"c4faf0c6be92435d","fromSide":"top","toNode":"80c287ef9f6868c5","toSide":"bottom"}
+		{"id":"18663cde85c61b8e","fromNode":"fb518a6e0492cc82","fromSide":"right","toNode":"cd6dbf380dcd36e6","toSide":"left"},
+		{"id":"c8fdd0005fda6ed9","fromNode":"fb518a6e0492cc82","fromSide":"right","toNode":"d537b389776683e1","toSide":"left"},
+		{"id":"aa4b3a5bd31cce4f","fromNode":"936193ff50840038","fromSide":"bottom","toNode":"cb3c98ccd85b6175","toSide":"top"},
+		{"id":"016301a027a3a893","fromNode":"cb3c98ccd85b6175","fromSide":"bottom","toNode":"78719885eb275d9d","toSide":"top"}
 	]
 }
