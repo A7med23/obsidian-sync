@@ -7,7 +7,7 @@
 		{"id":"95fb71a82128c16c","type":"text","text":"Core verb: one word, main action the player repeats.\n\nshould be physical and simple:\n- jump\n- shoot\n- dodge\n- slice\n- collect","x":379,"y":-505,"width":266,"height":256},
 		{"id":"39e8df79e99f172a","type":"text","text":"What makes the game fun/interesting (creating tension):\nex:\n- time limit\n- enemies\n- puzzles \n- physics\n- or chaos ","x":416,"y":-137,"width":292,"height":271},
 		{"id":"d01cba7f497c13f7","type":"text","text":"Goal","x":-564,"y":-214,"width":190,"height":52},
-		{"id":"1cce147bf56962f8","type":"text","text":"Twist that makes the game mine, memorable and special but simple","x":-310,"y":-472,"width":223,"height":114},
+		{"id":"1cce147bf56962f8","type":"text","text":"Twist that makes the game mine, memorable and special but simple","x":-310,"y":-534,"width":272,"height":176},
 		{"id":"f6dfca3c7d2730ea","type":"text","text":"Core loop:","x":-227,"y":-213,"width":197,"height":50},
 		{"id":"9ad78b0630602eec","type":"text","text":"Card Game","x":129,"y":282,"width":250,"height":60},
 		{"id":"560198a91a9f8d84","type":"text","text":" ","x":129,"y":465,"width":250,"height":60},
