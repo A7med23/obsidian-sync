@@ -14,14 +14,15 @@
 		{"id":"936193ff50840038","type":"text","text":"Game idea: \n\nyou have basic questions: why, who, how.\n\nEnemies: are emotions/thoughts -> usually in couples and you keep looping between them until you gain a certain clarity stat\n\nOr you fight each emotion until you reach a certain clarity and then go on to the next one. each time you use all your cards without reaching that clarity point -> all your cards are gone but you keep one and restart\n\nlevel 1) guilt and grief. Level 2) anger and shame\n\nasking the enemies questions triggers their attacks but gives player memory/support cards.\n\nquestions can be asked to the enemy only a set number of times and then the button gets greyed out.\n\nreaching 0 sanity = loss, reaching 100 clarity (by beating boss) = win\n\n","x":820,"y":402,"width":638,"height":535},
 		{"id":"fb518a6e0492cc82","type":"text","text":"Mirror","x":1709,"y":640,"width":250,"height":60,"color":"1"},
 		{"id":"cd6dbf380dcd36e6","type":"text","text":"## stat\nReasons: if they hit 13 the player loses","x":2037,"y":243,"width":360,"height":261},
-		{"id":"d537b389776683e1","type":"text","text":"## attacks\n- grief: ","x":2088,"y":640,"width":557,"height":353},
+		{"id":"d537b389776683e1","type":"text","text":"# Attacks","x":2088,"y":640,"width":179,"height":60,"color":"2"},
 		{"id":"cb3c98ccd85b6175","type":"text","text":"Player","x":1014,"y":1127,"width":250,"height":60,"color":"5"},
 		{"id":"6b2b2b8a1ce32e89","x":1014,"y":1310,"width":250,"height":60,"color":"5","type":"text","text":"# Card ideas"},
-		{"id":"78719885eb275d9d","type":"text","text":"## Stats\n-  Sanity (Player HP) \n\n- Clarity -> spent to unlock cards","x":367,"y":1069,"width":394,"height":339,"color":"5"},
-		{"id":"68a45dbf39700541","x":479,"y":1553,"width":364,"height":175,"color":"2","type":"text","text":"## Lonely Whisper\n\n- Flavor Text: \"stay strong\"\n- effect: lose 50% less sanity next turn + reason increase"},
+		{"id":"78719885eb275d9d","type":"text","text":"## Stats\n-  Sanity -> Card playing cost\n\n- Clarity -> spent to unlock cards","x":367,"y":1069,"width":394,"height":339,"color":"5"},
+		{"id":"68a45dbf39700541","x":479,"y":1553,"width":364,"height":175,"color":"2","type":"text","text":"## Lonely Whisper\n\n- Flavor Text: \"stay strong\"\n- effect: lose 50% less sanity next turn + no reason increase"},
 		{"id":"a097e8843c28e5a0","type":"text","text":"## Childhood Laughter\n\n- Flavor Text: \"the joy that once was, but sometime could be\"\n- effect: + Sanity and - reason","x":900,"y":1553,"width":364,"height":208,"color":"2"},
 		{"id":"99f636af11d39edb","type":"text","text":"## Childhood Laughter\n\n- Flavor Text: \"the joy that once was, but sometime could be\"\n- effect: + Sanity and - reason","x":479,"y":1814,"width":364,"height":208,"color":"2"},
-		{"id":"910ab1cabf472036","x":2088,"y":1507,"width":646,"height":443,"color":"#000f33","type":"text","text":"# gameplay loop:\n\n- ask questions first -> get hit and lose sanity but gain clarity\n- use clarity to get cards\n\n- cards get placed on table -> \n\n"}
+		{"id":"910ab1cabf472036","x":2088,"y":1507,"width":641,"height":698,"color":"#000f33","type":"text","text":"# gameplay loop:\n\n- ask questions first -> get hit and lose sanity but gain clarity\n- use clarity to get cards\n\n- cards get placed on table\n- when run out of cards -> need to keep skipping turn and keep getting hit with stronger and stronger attacks until reasons hit 13\n\n### Goal: \n- reasons hit 0\n\n### Defeat:\n- reasons hit 13\n"},
+		{"id":"1d2d50e3f98f9e05","type":"text","text":"## Anger\n\n- Flavor Text:  Rage blinds you\n- effect: + Sanity and - reason","x":2437,"y":504,"width":364,"height":208,"color":"2"}
 	],
 	"edges":[
 		{"id":"56a061a1c8712bcc","fromNode":"f6dfca3c7d2730ea","fromSide":"right","toNode":"e3f2a7b37409f6aa","toSide":"left"},
