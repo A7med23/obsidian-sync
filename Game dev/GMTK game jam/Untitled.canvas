@@ -16,9 +16,12 @@
 		{"id":"cd6dbf380dcd36e6","type":"text","text":"## stat\nReasons: if they hit 13 the player loses","x":2037,"y":243,"width":360,"height":261},
 		{"id":"d537b389776683e1","type":"text","text":"## attacks\n- grief: ","x":2088,"y":640,"width":557,"height":353},
 		{"id":"cb3c98ccd85b6175","type":"text","text":"Player","x":1014,"y":1127,"width":250,"height":60,"color":"5"},
-		{"id":"78719885eb275d9d","type":"text","text":"## Stats\n-  Sanity (Player HP) \n\n- Clarity -> spent to unlock cards","x":461,"y":1283,"width":394,"height":339,"color":"5"},
-		{"id":"6b2b2b8a1ce32e89","x":1014,"y":1310,"width":250,"height":60,"color":"5","type":"text","text":""},
-		{"id":"910ab1cabf472036","x":1765,"y":1506,"width":646,"height":443,"color":"#000f33","type":"text","text":"# gameplay loop:\n\n- ask questions first -> get hit and lose sanity but gain clarity\n- use clarity to get cards\n\n"}
+		{"id":"6b2b2b8a1ce32e89","x":1014,"y":1310,"width":250,"height":60,"color":"5","type":"text","text":"# Card ideas"},
+		{"id":"78719885eb275d9d","type":"text","text":"## Stats\n-  Sanity (Player HP) \n\n- Clarity -> spent to unlock cards","x":367,"y":1069,"width":394,"height":339,"color":"5"},
+		{"id":"68a45dbf39700541","x":479,"y":1553,"width":364,"height":175,"color":"2","type":"text","text":"## Lonely Whisper\n\n- Flavor Text: \"stay strong\"\n- effect: lose 50% less sanity next turn + reason increase"},
+		{"id":"a097e8843c28e5a0","type":"text","text":"## Childhood Laughter\n\n- Flavor Text: \"the joy that once was, but sometime could be\"\n- effect: + Sanity and - reason","x":900,"y":1553,"width":364,"height":208,"color":"2"},
+		{"id":"99f636af11d39edb","type":"text","text":"## Childhood Laughter\n\n- Flavor Text: \"the joy that once was, but sometime could be\"\n- effect: + Sanity and - reason","x":479,"y":1814,"width":364,"height":208,"color":"2"},
+		{"id":"910ab1cabf472036","x":2088,"y":1507,"width":646,"height":443,"color":"#000f33","type":"text","text":"# gameplay loop:\n\n- ask questions first -> get hit and lose sanity but gain clarity\n- use clarity to get cards\n\n- cards get placed on table -> \n\n"}
 	],
 	"edges":[
 		{"id":"56a061a1c8712bcc","fromNode":"f6dfca3c7d2730ea","fromSide":"right","toNode":"e3f2a7b37409f6aa","toSide":"left"},
@@ -33,9 +36,12 @@
 		{"id":"18663cde85c61b8e","fromNode":"fb518a6e0492cc82","fromSide":"right","toNode":"cd6dbf380dcd36e6","toSide":"left"},
 		{"id":"c8fdd0005fda6ed9","fromNode":"fb518a6e0492cc82","fromSide":"right","toNode":"d537b389776683e1","toSide":"left"},
 		{"id":"aa4b3a5bd31cce4f","fromNode":"936193ff50840038","fromSide":"bottom","toNode":"cb3c98ccd85b6175","toSide":"top"},
-		{"id":"016301a027a3a893","fromNode":"cb3c98ccd85b6175","fromSide":"bottom","toNode":"78719885eb275d9d","toSide":"top"},
+		{"id":"016301a027a3a893","fromNode":"cb3c98ccd85b6175","fromSide":"left","toNode":"78719885eb275d9d","toSide":"top"},
 		{"id":"b82aaa86df4d9620","fromNode":"cb3c98ccd85b6175","fromSide":"bottom","toNode":"6b2b2b8a1ce32e89","toSide":"top"},
 		{"id":"684d59c4a32349cc","fromNode":"fb518a6e0492cc82","fromSide":"bottom","toNode":"910ab1cabf472036","toSide":"top"},
-		{"id":"e4deac19286b8fa2","fromNode":"cb3c98ccd85b6175","fromSide":"right","toNode":"910ab1cabf472036","toSide":"top"}
+		{"id":"e4deac19286b8fa2","fromNode":"cb3c98ccd85b6175","fromSide":"right","toNode":"910ab1cabf472036","toSide":"top"},
+		{"id":"d6ca37cd7f27faeb","fromNode":"6b2b2b8a1ce32e89","fromSide":"bottom","toNode":"68a45dbf39700541","toSide":"top"},
+		{"id":"ff5f8eaccb893a6b","fromNode":"6b2b2b8a1ce32e89","fromSide":"bottom","toNode":"a097e8843c28e5a0","toSide":"top"},
+		{"id":"4001437f6562be78","fromNode":"6b2b2b8a1ce32e89","fromSide":"bottom","toNode":"99f636af11d39edb","toSide":"top"}
 	]
 }
