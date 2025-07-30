@@ -11,7 +11,10 @@
 		{"id":"f6dfca3c7d2730ea","type":"text","text":"Core loop:","x":-227,"y":-213,"width":197,"height":50},
 		{"id":"9ad78b0630602eec","type":"text","text":"Card Game","x":129,"y":282,"width":250,"height":60},
 		{"id":"560198a91a9f8d84","type":"text","text":" ","x":129,"y":465,"width":250,"height":60},
-		{"id":"936193ff50840038","x":820,"y":402,"width":638,"height":535,"type":"text","text":"Game idea: \n\nyou have basic questions: why, who, how.\n\nEnemies: are emotions/thoughts -> usually in couples and you keep looping between them until you gain a certain clarity stat\n\nlevel 1) guilt and grief. Level 2) anger and shame\n\nasking the enemies questions triggers their attacks but gives player memory/support cards.\n\nquestio\n\nreaching 0 sanity = loss, reaching 100 clarity (by beating boss) = win\n\n"}
+		{"id":"936193ff50840038","x":820,"y":402,"width":638,"height":535,"type":"text","text":"Game idea: \n\nyou have basic questions: why, who, how.\n\nEnemies: are emotions/thoughts -> usually in couples and you keep looping between them until you gain a certain clarity stat\n\nOr you fight each emotion until you reach a certain clarity and then go on to the next one. each time you use all your cards without reaching that clarity point -> all your cards are gone but you keep one and restart\n\nlevel 1) guilt and grief. Level 2) anger and shame\n\nasking the enemies questions triggers their attacks but gives player memory/support cards.\n\nquestions can be asked to the enemy only a set number of times and then the button gets greyed out.\n\nreaching 0 sanity = loss, reaching 100 clarity (by beating boss) = win\n\n"},
+		{"id":"fb518a6e0492cc82","x":1662,"y":389,"width":250,"height":60,"color":"1","type":"text","text":"Enemies"},
+		{"id":"c4faf0c6be92435d","x":2035,"y":112,"width":250,"height":60,"color":"1","type":"text","text":"Grief"},
+		{"id":"12f0482ba0e57317","x":2392,"y":-88,"width":498,"height":410,"type":"text","text":"Answer's to questions:\n\nif who or how  is asked before why -> your heart aches\n\nwhy? -> All's lost...\nhow? or Why again -> They left\n "}
 	],
 	"edges":[
 		{"id":"56a061a1c8712bcc","fromNode":"f6dfca3c7d2730ea","fromSide":"right","toNode":"e3f2a7b37409f6aa","toSide":"left"},
@@ -21,6 +24,9 @@
 		{"id":"320c42850804e4c4","fromNode":"f6dfca3c7d2730ea","fromSide":"left","toNode":"d01cba7f497c13f7","toSide":"right"},
 		{"id":"f3fc378531e9c44d","fromNode":"f6dfca3c7d2730ea","fromSide":"top","toNode":"1cce147bf56962f8","toSide":"bottom"},
 		{"id":"e2281c94923347f5","fromNode":"f5bf9bc54f9c1e6a","fromSide":"right","toNode":"9ad78b0630602eec","toSide":"top"},
-		{"id":"444165ddf12bfa46","fromNode":"9ad78b0630602eec","fromSide":"bottom","toNode":"560198a91a9f8d84","toSide":"top"}
+		{"id":"444165ddf12bfa46","fromNode":"9ad78b0630602eec","fromSide":"bottom","toNode":"560198a91a9f8d84","toSide":"top"},
+		{"id":"a3158fb983f69381","fromNode":"936193ff50840038","fromSide":"right","toNode":"fb518a6e0492cc82","toSide":"left"},
+		{"id":"020717b099676a2e","fromNode":"fb518a6e0492cc82","fromSide":"right","toNode":"c4faf0c6be92435d","toSide":"left"},
+		{"id":"0aa9c2a7a19102fa","fromNode":"c4faf0c6be92435d","fromSide":"right","toNode":"12f0482ba0e57317","toSide":"left"}
 	]
 }
