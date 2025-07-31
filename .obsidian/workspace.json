@@ -11,22 +11,17 @@
             "id": "a811916273b15d92",
             "type": "leaf",
             "state": {
-              "type": "kanban",
+              "type": "canvas",
               "state": {
-                "file": "Game dev/GMTK game jam/Todo.md",
-                "kanbanViewState": {
-                  "kanban-plugin": "board",
-                  "list-collapse": [
-                    false,
-                    false,
-                    false,
-                    false,
-                    false
-                  ]
+                "file": "Game dev/GMTK game jam/Art Inspiration.canvas",
+                "viewState": {
+                  "x": 0,
+                  "y": 0,
+                  "zoom": 0
                 }
               },
-              "icon": "lucide-trello",
-              "title": "Todo"
+              "icon": "lucide-layout-dashboard",
+              "title": "Art Inspiration"
             }
           }
         ]
@@ -177,8 +172,11 @@
   },
   "active": "a811916273b15d92",
   "lastOpenFiles": [
-    "Game dev/GMTK game jam/Untitled.canvas",
+    "Pasted image 20250801021431.png",
+    "Game dev/GMTK game jam/Untitled.md",
+    "Game dev/GMTK game jam/Art Inspiration.canvas",
     "Game dev/GMTK game jam/Todo.md",
+    "Game dev/GMTK game jam/Untitled.canvas",
     "Game dev/GMTK game jam/Todos.md",
     "Game dev/GMTK game jam/game idea.md",
     "Game dev/Basics of the Basics of a Game/Pasted image 20250730024622.png",
@@ -223,7 +221,6 @@
     "pre Organization/game dev/game ideas.md",
     "pre Organization/game dev/content creators.md",
     "Game dev",
-    "pre Organization/Payyer secret code.md",
-    "pre Organization/video editing/tips for job finding.md"
+    "pre Organization/Payyer secret code.md"
   ]
 }

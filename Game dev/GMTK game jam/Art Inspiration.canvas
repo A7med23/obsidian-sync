@@ -1,0 +1,9 @@
+{
+	"nodes":[
+		{"id":"90645277786671ae","x":-577,"y":-453,"width":320,"height":400,"type":"file","file":"Pasted image 20250801021431.png"},
+		{"id":"ad5c7f04a242fa47","x":-70,"y":-298,"width":286,"height":181,"type":"text","text":"focus icon on the right and number/value on the left\n\nsame with dmg then title and flavor text"}
+	],
+	"edges":[
+		{"id":"77045dd27b83df8e","fromNode":"90645277786671ae","fromSide":"right","toNode":"ad5c7f04a242fa47","toSide":"left"}
+	]
+}
