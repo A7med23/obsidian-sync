@@ -1,9 +1,12 @@
 {
 	"nodes":[
 		{"id":"90645277786671ae","x":-577,"y":-453,"width":320,"height":400,"type":"file","file":"Pasted image 20250801021431.png"},
-		{"id":"ad5c7f04a242fa47","x":-70,"y":-298,"width":286,"height":181,"type":"text","text":"focus icon on the right and number/value on the left\n\nsame with dmg then title and flavor text"}
+		{"id":"ad5c7f04a242fa47","x":-70,"y":-298,"width":286,"height":181,"type":"text","text":"focus icon on the right and number/value on the left\n\nsame with dmg then title and flavor text"},
+		{"id":"b34b4d53261b6382","x":-739,"y":-8,"width":726,"height":368,"type":"file","file":"Pasted image 20250801021611.png"},
+		{"id":"9524d06c180903f6","x":149,"y":96,"width":350,"height":264,"type":"text","text":"on the top right have indicator for dmg (if the card does any)\n\nand top left have indicator for healing (if the card has any)\n\nand at the bottom the dots are energy cost(if yellow/orange)"}
 	],
 	"edges":[
-		{"id":"77045dd27b83df8e","fromNode":"90645277786671ae","fromSide":"right","toNode":"ad5c7f04a242fa47","toSide":"left"}
+		{"id":"77045dd27b83df8e","fromNode":"90645277786671ae","fromSide":"right","toNode":"ad5c7f04a242fa47","toSide":"left"},
+		{"id":"4d7d56206e9c4751","fromNode":"b34b4d53261b6382","fromSide":"right","toNode":"9524d06c180903f6","toSide":"left"}
 	]
 }
