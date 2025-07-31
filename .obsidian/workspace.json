@@ -11,14 +11,17 @@
             "id": "a811916273b15d92",
             "type": "leaf",
             "state": {
-              "type": "markdown",
+              "type": "canvas",
               "state": {
-                "file": "Game dev/Games to play.md",
-                "mode": "source",
-                "source": false
+                "file": "Game dev/GMTK game jam/Untitled.canvas",
+                "viewState": {
+                  "x": 1267.3629498994862,
+                  "y": 678.8443625399285,
+                  "zoom": -0.5925962066628949
+                }
               },
-              "icon": "lucide-file",
-              "title": "Games to play"
+              "icon": "lucide-layout-dashboard",
+              "title": "Untitled"
             }
           }
         ]
@@ -169,17 +172,20 @@
   },
   "active": "a811916273b15d92",
   "lastOpenFiles": [
+    "Game dev/GMTK game jam/Todo.md",
+    "Game dev/GMTK game jam/game idea.md",
+    "Game dev/Basics of the Basics of a Game/Pasted image 20250730024622.png",
+    "Game dev/Basics of the Basics of a Game/Pasted image 20250730024322.png",
+    "Game dev/Basics of the Basics of a Game/Assets.md",
+    "Game dev/Basics of the Basics of a Game/Coding.md",
+    "Game dev/Basics of the Basics of a Game/example of character composition.md",
+    "Game dev/Basics of the Basics of a Game/GODOT UI.md",
     "Game dev/Games to play.md",
     "Game dev/GMTK game jam/Untitled.canvas",
-    "Game dev/GMTK game jam/game idea.md",
-    "Game dev/GMTK game jam/Todo.md",
     "Game dev/Ideas/Game Ideas.md",
     "Game dev/GMTK game jam",
-    "Game dev/Basics of the Basics of a Game/Pasted image 20250730024622.png",
-    "Game dev/Basics of the Basics of a Game/example of character composition.md",
     "Game dev/Ideas/Untitled",
     "Game dev/Ideas",
-    "Game dev/Basics of the Basics of a Game/Pasted image 20250730024322.png",
     "Game dev/Video Notes/Untitled.canvas",
     "Game dev/Video Notes/State Machines/Starter State machines in godot.md",
     "Game dev/test.md",
@@ -194,12 +200,9 @@
     "Game dev/Video Notes/State Machines/Pasted image 20250723193043.png",
     "Game dev/Video Notes/State Machines",
     "Game dev/Video Notes/GDscript brackeys tut/Brackey's GDScript tutorial.md",
-    "Game dev/Basics of the Basics of a Game/GODOT UI.md",
-    "Game dev/Basics of the Basics of a Game/Coding.md",
     "Game dev/Video Notes/Making a Game from Start to Finish -Lukky.md",
     "Game dev/Video Notes/Playing games from the inbound shovel gam jam.md",
     "Game dev/Video Notes/How to make a video game - beginner godot tutorial -Brackey's.md",
-    "Game dev/Basics of the Basics of a Game/Assets.md",
     "Game dev/project notes/Asteroids Clone.md",
     "Game dev/project notes",
     "Game dev/Video Notes/GDscript brackeys tut",

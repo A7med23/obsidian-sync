@@ -11,7 +11,7 @@
 		{"id":"f6dfca3c7d2730ea","type":"text","text":"Core loop:","x":-227,"y":-213,"width":197,"height":50},
 		{"id":"9ad78b0630602eec","type":"text","text":"Card Game","x":129,"y":282,"width":250,"height":60},
 		{"id":"560198a91a9f8d84","type":"text","text":" ","x":129,"y":465,"width":250,"height":60},
-		{"id":"936193ff50840038","type":"text","text":"Game idea: \n\nyou have basic questions: why, who, how.\n\nEnemies: are emotions/thoughts -> usually in couples and you keep looping between them until you gain a certain clarity stat\n\nOr you fight each emotion until you reach a certain clarity and then go on to the next one. each time you use all your cards without reaching that clarity point -> all your cards are gone but you keep one and restart\n\nlevel 1) guilt and grief. Level 2) anger and shame\n\nasking the enemies questions triggers their attacks but gives player memory/support cards.\n\nquestions can be asked to the enemy only a set number of times and then the button gets greyed out.\n\nreaching 0 sanity = loss, reaching 100 clarity (by beating boss) = win\n\n","x":820,"y":402,"width":638,"height":535},
+		{"id":"936193ff50840038","type":"text","text":"Game idea: \n\nYou start \"battling\" with a thought ","x":820,"y":402,"width":638,"height":535},
 		{"id":"fb518a6e0492cc82","type":"text","text":"Mirror","x":1709,"y":640,"width":250,"height":60,"color":"1"},
 		{"id":"cd6dbf380dcd36e6","type":"text","text":"## stat\nReasons: if they hit 13 the player loses","x":2037,"y":243,"width":360,"height":261},
 		{"id":"d537b389776683e1","type":"text","text":"# Attacks","x":2088,"y":640,"width":179,"height":60,"color":"2"},
@@ -24,7 +24,8 @@
 		{"id":"a84ca372f3f066da","type":"text","text":"## Doubt\n\n- Flavor Text: Can you?\n- effect:  + Reason","x":2694,"y":462,"width":364,"height":208,"color":"2"},
 		{"id":"68a45dbf39700541","type":"text","text":"## Lonely Whisper\n\n- Flavor Text: \"stay strong\"\n- effect: lose 50% less sanity next turn + no reason increase","x":482,"y":1570,"width":364,"height":175,"color":"2"},
 		{"id":"a097e8843c28e5a0","type":"text","text":"## Childhood Laughter\n\n- Flavor Text: \"the joy that once was, but sometime could be\"\n- effect: + Sanity and - reason","x":482,"y":1786,"width":364,"height":208,"color":"2"},
-		{"id":"99f636af11d39edb","type":"text","text":"## A New Perspective\n\n- Flavor Text:  is that a 6? or is it a 9?\n- effect: + Sanity , + Clarity, - Reason","x":1189,"y":1570,"width":370,"height":171,"color":"2"}
+		{"id":"99f636af11d39edb","type":"text","text":"## A New Perspective\n\n- Flavor Text:  is that a 6? or is it a 9?\n- effect: + Sanity , + Clarity, - Reason","x":1189,"y":1570,"width":370,"height":171,"color":"2"},
+		{"id":"537f6e423429b7f0","type":"text","text":"# Passive\n","x":1709,"y":335,"width":196,"height":78,"color":"2"}
 	],
 	"edges":[
 		{"id":"56a061a1c8712bcc","fromNode":"f6dfca3c7d2730ea","fromSide":"right","toNode":"e3f2a7b37409f6aa","toSide":"left"},
@@ -48,6 +49,7 @@
 		{"id":"4001437f6562be78","fromNode":"6b2b2b8a1ce32e89","fromSide":"bottom","toNode":"99f636af11d39edb","toSide":"top"},
 		{"id":"aa92c77c2dd077f0","fromNode":"d537b389776683e1","fromSide":"right","toNode":"1d2d50e3f98f9e05","toSide":"left"},
 		{"id":"acbccae32ca2373e","fromNode":"d537b389776683e1","fromSide":"right","toNode":"1a2b3b84e811aee2","toSide":"left"},
-		{"id":"c03e6febad617b50","fromNode":"d537b389776683e1","fromSide":"right","toNode":"a84ca372f3f066da","toSide":"left"}
+		{"id":"c03e6febad617b50","fromNode":"d537b389776683e1","fromSide":"right","toNode":"a84ca372f3f066da","toSide":"left"},
+		{"id":"2ff9268e0bb29d2b","fromNode":"fb518a6e0492cc82","fromSide":"top","toNode":"537f6e423429b7f0","toSide":"bottom"}
 	]
 }
