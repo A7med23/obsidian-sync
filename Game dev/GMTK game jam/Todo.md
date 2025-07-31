@@ -1,5 +1,7 @@
 ---
+
 kanban-plugin: board
+
 ---
 
 ## Gameplay
@@ -13,6 +15,8 @@ kanban-plugin: board
 ## Art
 
 - [ ] Focus Icon
+- [ ] Willpower
+- [ ] Memory Fragments
 
 
 ## Doing
