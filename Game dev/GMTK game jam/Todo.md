@@ -1,7 +1,5 @@
 ---
-
 kanban-plugin: board
-
 ---
 
 ## Gameplay
@@ -14,12 +12,21 @@ kanban-plugin: board
 
 ## Art
 
+- [ ] Focus Icon
+
+
+## Doing
+
+
+
+## Done
+
 
 
 
 
 %% kanban:settings
 ```
-{"kanban-plugin":"board","list-collapse":[false,false,false]}
+{"kanban-plugin":"board","list-collapse":[false,false,false,false,false],"show-checkboxes":true}
 ```
 %%
