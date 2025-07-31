@@ -4,7 +4,15 @@ kanban-plugin: board
 
 ---
 
-## Game Jam todo list
+## Gameplay
+
+
+
+## Juice
+
+
+
+## Art
 
 
 
@@ -12,6 +20,6 @@ kanban-plugin: board
 
 %% kanban:settings
 ```
-{"kanban-plugin":"board","list-collapse":[false]}
+{"kanban-plugin":"board","list-collapse":[false,false,false]}
 ```
 %%
