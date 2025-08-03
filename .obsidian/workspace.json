@@ -11,17 +11,14 @@
             "id": "a811916273b15d92",
             "type": "leaf",
             "state": {
-              "type": "canvas",
+              "type": "markdown",
               "state": {
-                "file": "Game dev/GMTK game jam/Art Inspiration.canvas",
-                "viewState": {
-                  "x": 8,
-                  "y": -58,
-                  "zoom": 0
-                }
+                "file": "Game dev/Basics of the Basics of a Game/example of character composition.md",
+                "mode": "source",
+                "source": false
               },
-              "icon": "lucide-layout-dashboard",
-              "title": "Art Inspiration"
+              "icon": "lucide-file",
+              "title": "example of character composition"
             }
           }
         ]
@@ -172,22 +169,22 @@
   },
   "active": "a811916273b15d92",
   "lastOpenFiles": [
+    "Game dev/Basics of the Basics of a Game/GODOT UI.md",
+    "Game dev/Basics of the Basics of a Game/Pasted image 20250730024322.png",
+    "Game dev/Basics of the Basics of a Game/Pasted image 20250730024622.png",
     "Pasted image 20250801022409.png",
     "Pasted image 20250801021611.png",
     "Pasted image 20250801021609.png",
     "Pasted image 20250801021431.png",
-    "Game dev/GMTK game jam/Untitled.md",
     "Game dev/GMTK game jam/Art Inspiration.canvas",
+    "Game dev/GMTK game jam/Untitled.md",
     "Game dev/GMTK game jam/Todo.md",
     "Game dev/GMTK game jam/Untitled.canvas",
     "Game dev/GMTK game jam/Todos.md",
     "Game dev/GMTK game jam/game idea.md",
-    "Game dev/Basics of the Basics of a Game/Pasted image 20250730024622.png",
-    "Game dev/Basics of the Basics of a Game/Pasted image 20250730024322.png",
     "Game dev/Basics of the Basics of a Game/Assets.md",
     "Game dev/Basics of the Basics of a Game/Coding.md",
     "Game dev/Basics of the Basics of a Game/example of character composition.md",
-    "Game dev/Basics of the Basics of a Game/GODOT UI.md",
     "Game dev/Games to play.md",
     "Game dev/Ideas/Game Ideas.md",
     "Game dev/GMTK game jam",
@@ -201,7 +198,6 @@
     "Game dev/Video Notes/State Machines/Pasted image 20250727224542.png",
     "Game dev/Daily progress.md",
     "Game dev/Video Notes/State Machines/Pasted image 20250727200029.png",
-    "Game dev/Video Notes/State Machines/Pasted image 20250727200035.png",
     "Game dev/Video Notes/State Machines",
     "Game dev/Video Notes/GDscript brackeys tut/Brackey's GDScript tutorial.md",
     "Game dev/Video Notes/Making a Game from Start to Finish -Lukky.md",
