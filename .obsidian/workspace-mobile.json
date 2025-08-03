@@ -4,91 +4,24 @@
     "type": "split",
     "children": [
       {
-        "id": "158f84167c247214",
+        "id": "c0adf1de148f8767",
         "type": "tabs",
         "children": [
           {
-            "id": "516f0f6bccbcc856",
+            "id": "a57452af18db48dc",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {},
+              "type": "markdown",
+              "state": {
+                "file": "Game dev/Ideas/Game Ideas.md",
+                "mode": "source",
+                "source": false
+              },
               "icon": "lucide-file",
-              "title": "New tab"
-            }
-          },
-          {
-            "id": "307e45a2a8976c98",
-            "type": "leaf",
-            "state": {
-              "type": "empty",
-              "state": {},
-              "icon": "lucide-file",
-              "title": "New tab"
-            }
-          },
-          {
-            "id": "cb9e282d6430a64a",
-            "type": "leaf",
-            "state": {
-              "type": "empty",
-              "state": {},
-              "icon": "lucide-file",
-              "title": "New tab"
-            }
-          },
-          {
-            "id": "3107d722dad375cd",
-            "type": "leaf",
-            "state": {
-              "type": "empty",
-              "state": {},
-              "icon": "lucide-file",
-              "title": "New tab"
-            }
-          },
-          {
-            "id": "91630b54a717aba8",
-            "type": "leaf",
-            "state": {
-              "type": "empty",
-              "state": {},
-              "icon": "lucide-file",
-              "title": "New tab"
-            }
-          },
-          {
-            "id": "b91b62c28649e8f3",
-            "type": "leaf",
-            "state": {
-              "type": "empty",
-              "state": {},
-              "icon": "lucide-file",
-              "title": "New tab"
-            }
-          },
-          {
-            "id": "49526ef4157b3e83",
-            "type": "leaf",
-            "state": {
-              "type": "empty",
-              "state": {},
-              "icon": "lucide-file",
-              "title": "New tab"
-            }
-          },
-          {
-            "id": "b877f264b9a51d9d",
-            "type": "leaf",
-            "state": {
-              "type": "empty",
-              "state": {},
-              "icon": "lucide-file",
-              "title": "New tab"
+              "title": "Game Ideas"
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -165,6 +98,7 @@
         "state": {
           "type": "backlink",
           "state": {
+            "file": "Game dev/Ideas/Game Ideas.md",
             "collapseAll": false,
             "extraContext": false,
             "sortOrder": "alphabetical",
@@ -183,6 +117,7 @@
         "state": {
           "type": "outgoing-link",
           "state": {
+            "file": "Game dev/Ideas/Game Ideas.md",
             "linksCollapsed": false,
             "unlinkedCollapsed": true
           },
@@ -196,6 +131,7 @@
         "state": {
           "type": "outline",
           "state": {
+            "file": "Game dev/Ideas/Game Ideas.md",
             "followCursor": false,
             "showSearch": false,
             "searchQuery": ""
@@ -215,10 +151,11 @@
       "canvas:Create new canvas": false,
       "daily-notes:Open today's daily note": false,
       "templates:Insert template": false,
-      "command-palette:Open command palette": false
+      "command-palette:Open command palette": false,
+      "obsidian-kanban:Create new board": false
     }
   },
-  "active": "307e45a2a8976c98",
+  "active": "a57452af18db48dc",
   "lastOpenFiles": [
     "Extra/Quotes.md",
     "Extra/Photography.md",
