@@ -1,11 +1,11 @@
 {
 	"nodes":[
-		{"id":"90645277786671ae","x":-577,"y":-453,"width":320,"height":400,"type":"file","file":"Pasted image 20250801021431.png"},
-		{"id":"ad5c7f04a242fa47","x":-70,"y":-298,"width":286,"height":181,"type":"text","text":"focus icon on the right and number/value on the left\n\nsame with dmg then title and flavor text"},
-		{"id":"b34b4d53261b6382","x":-739,"y":-8,"width":726,"height":368,"type":"file","file":"Pasted image 20250801021611.png"},
-		{"id":"9524d06c180903f6","x":149,"y":96,"width":350,"height":264,"type":"text","text":"on the top right have indicator for dmg (if the card does any)\n\nand top left have indicator for healing (if the card has any)\n\nand at the bottom the dots are energy cost(if yellow/orange) "},
-		{"id":"3913285c29c2f214","x":-102,"y":-636,"width":210,"height":240,"type":"file","file":"Pasted image 20250801022409.png"},
-		{"id":"e46fe00414403540","x":336,"y":-551,"width":298,"height":155,"type":"text","text":"Backside of the cards, replace the skull with brain"}
+		{"id":"90645277786671ae","type":"file","file":"Pasted image 20250801021431.png","x":-577,"y":-453,"width":320,"height":400},
+		{"id":"ad5c7f04a242fa47","type":"text","text":"focus icon on the right and number/value on the left\n\nsame with dmg then title and flavor text","x":-70,"y":-298,"width":286,"height":181},
+		{"id":"b34b4d53261b6382","type":"file","file":"Pasted image 20250801021611.png","x":-739,"y":-8,"width":726,"height":368},
+		{"id":"9524d06c180903f6","type":"text","text":"on the top right have indicator for dmg (if the card does any)\n\nand top left have indicator for healing (if the card has any)\n\nand at the bottom the dots are energy cost(if yellow/orange) ","x":149,"y":96,"width":350,"height":264},
+		{"id":"3913285c29c2f214","type":"file","file":"Pasted image 20250801022409.png","x":-102,"y":-636,"width":210,"height":240},
+		{"id":"e46fe00414403540","type":"text","text":"Backside of the cards, replace the skull with brain","x":336,"y":-551,"width":298,"height":155}
 	],
 	"edges":[
 		{"id":"77045dd27b83df8e","fromNode":"90645277786671ae","fromSide":"right","toNode":"ad5c7f04a242fa47","toSide":"left"},
