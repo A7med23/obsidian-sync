@@ -12,11 +12,23 @@
 - destroying critters
 
 
-- an idle game where you nurture and grow an empire of a microbes:
+- an idle game where you nurture and grow an empire of a certain species (an ant colony builder):
+	- can do the same idea with Bees!!
 	
 	- the item quick time even is an attack from another species
 	
-	- start as an amoeba
-	   
-	- fight other microbes for DNA/RNA
-		- spend those for Mitosis or Evolution
+	- you can start as an ant on a grid based generated level
+	  
+	- maybe overground and underground turns?
+		- overground you gather resources (left over food from humans at a park or whatever):
+			- have limited turns/actions when overground OR LIMITED TIME (that's the wild card)
+			  
+			- 
+			  
+		- underground use the resources to expand the empire:
+			- after running out of resources to spend (or choosing to end turn) -> turn ends
+			  
+			- resources used to:
+				- spawn different types of the critter (collecter or warrior or support)
+				- upgrade the critters
+				- upgrade storage
