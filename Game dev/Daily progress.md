@@ -26,3 +26,14 @@
 # 27/7/2025
 - watched starter state machines godot tut
 - learned animation tree code functionality and implemented it
+
+# Begining of august
+- worked on the card game but unfinished
+- added card movement, player hand, card slot, 
+- added card resource
+- added basic UI 
+- added enemy resource and tracked player and enemy stats and updated them on card drop into slot
+
+# 8/8/2025
+- finished the First Person controller tutorial 
+- finished the advanced state machine tutorial
