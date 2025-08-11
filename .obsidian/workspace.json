@@ -11,12 +11,14 @@
             "id": "d0f1a1c93ab4f2fb",
             "type": "leaf",
             "state": {
-              "type": "image",
+              "type": "markdown",
               "state": {
-                "file": "MTG/Pics/Pasted image 20250811210553.png"
+                "file": "MTG/Decks/Iron Man B2.md",
+                "mode": "source",
+                "source": false
               },
-              "icon": "lucide-image",
-              "title": "Pasted image 20250811210553"
+              "icon": "lucide-file",
+              "title": "Iron Man B2"
             }
           },
           {
@@ -177,8 +179,9 @@
       "obsidian-kanban:Create new board": false
     }
   },
-  "active": "d0f1a1c93ab4f2fb",
+  "active": "44e12cf2776d343c",
   "lastOpenFiles": [
+    "MTG/Pics/Pasted image 20250811210553.png",
     "MTG/Pics/Pasted image 20250811210310.png",
     "MTG/Pics/Pasted image 20250811195114.png",
     "MTG/Pics/Pasted image 20250811210302.png",
@@ -191,7 +194,6 @@
     "MTG/Decks/Iron Man B2.md",
     "MTG/Auto cascade.md",
     "MTG/Decks/Slivers.md",
-    "MTG/Pics/Pasted image 20250811210553.png",
     "MTG/Decks/Xyris Draw Buff.md",
     "MTG/Pics/Pasted image 20250811211233.png",
     "MTG/Pics",
