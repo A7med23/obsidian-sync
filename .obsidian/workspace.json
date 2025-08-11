@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "MTG/Untitled.md",
+                "file": "MTG/Interesting cards.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Untitled"
+              "title": "Interesting cards"
             }
           },
           {
@@ -181,19 +181,19 @@
   },
   "active": "d0f1a1c93ab4f2fb",
   "lastOpenFiles": [
+    "MTG/Auto cascade.md",
+    "MTG/Pics/Pasted image 20250812013250.png",
+    "MTG/Pics/Pasted image 20250811213233.png",
+    "MTG/Pics/Pasted image 20250811220927.png",
+    "MTG/Pics/Pasted image 20250811220930.png",
+    "Pasted image 20250811221943.png",
+    "MTG/Interesting cards.md",
     "MTG/Decks/Iron Man B2.md",
-    "MTG/Untitled.md",
     "MTG/Pics/Pasted image 20250811210553.png",
     "MTG/Pics/Pasted image 20250811210310.png",
     "MTG/Pics/Pasted image 20250811195114.png",
     "MTG/Pics/Pasted image 20250811210302.png",
     "MTG/Pics/Pasted image 20250811191745.png",
-    "MTG/Pics/Pasted image 20250811183113.png",
-    "Pasted image 20250811220927.png",
-    "Pasted image 20250811220930.png",
-    "Pasted image 20250811221943.png",
-    "Pasted image 20250811213233.png",
-    "MTG/Auto cascade.md",
     "MTG/Decks/Slivers.md",
     "MTG/Decks/Xyris Draw Buff.md",
     "MTG/Pics",
@@ -229,7 +229,6 @@
     "Game dev/GMTK game jam",
     "Game dev/Ideas/Untitled",
     "Game dev/Video Notes/Untitled.canvas",
-    "Game dev/test.md",
     "Untitled.canvas"
   ]
 }
