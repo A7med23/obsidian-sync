@@ -11,14 +11,12 @@
             "id": "d0f1a1c93ab4f2fb",
             "type": "leaf",
             "state": {
-              "type": "markdown",
+              "type": "image",
               "state": {
-                "file": "MTG/Iron Man B2.md",
-                "mode": "source",
-                "source": false
+                "file": "MTG/Pasted image 20250811211233.png"
               },
-              "icon": "lucide-file",
-              "title": "Iron Man B2"
+              "icon": "lucide-image",
+              "title": "Pasted image 20250811211233"
             }
           }
         ]
@@ -167,16 +165,17 @@
       "obsidian-kanban:Create new board": false
     }
   },
-  "active": "d0f1a1c93ab4f2fb",
+  "active": "44e12cf2776d343c",
   "lastOpenFiles": [
-    "Pasted image 20250811210553.png",
-    "Pasted image 20250811210310.png",
-    "Pasted image 20250811210302.png",
-    "Pasted image 20250811195114.png",
-    "Pasted image 20250811191745.png",
-    "MTG/deck building/30 Years Of Magic Deck Building Knowledge in 15 minutes.md",
     "MTG/Iron Man B2.md",
-    "Pasted image 20250811183113.png",
+    "MTG/Pasted image 20250811211233.png",
+    "MTG/Pasted image 20250811210553.png",
+    "MTG/Pasted image 20250811210310.png",
+    "MTG/Pasted image 20250811210302.png",
+    "MTG/Pasted image 20250811195114.png",
+    "MTG/Pasted image 20250811191745.png",
+    "MTG/deck building/30 Years Of Magic Deck Building Knowledge in 15 minutes.md",
+    "MTG/Pasted image 20250811183113.png",
     "MTG/deck building/Pasted image 20250811183036.png",
     "MTG/deck building/Pasted image 20250811182926.png",
     "Game dev/Game jams/Godot Wild Jam.md",
@@ -185,8 +184,6 @@
     "MTG",
     "Game dev/Game jams/Pasted image 20250808230313.png",
     "Game dev/Game jams/Game jam ideas template.md",
-    "Game dev/Game jams/Pasted image 20250808225622.png",
-    "Game dev/Game jams/Pasted image 20250808225736.png",
     "Game dev/Turnbased Rougelite By Shaggydev/Videos.md",
     "Game dev/Game jams",
     "Game dev/Video Notes/State Machines/Advanced State machines.md",
