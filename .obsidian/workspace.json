@@ -11,14 +11,12 @@
             "id": "d0f1a1c93ab4f2fb",
             "type": "leaf",
             "state": {
-              "type": "markdown",
+              "type": "image",
               "state": {
-                "file": "MTG/Decks/Iron Man B2.md",
-                "mode": "source",
-                "source": false
+                "file": "MTG/Pics/Pasted image 20250811210553.png"
               },
-              "icon": "lucide-file",
-              "title": "Iron Man B2"
+              "icon": "lucide-image",
+              "title": "Pasted image 20250811210553"
             }
           },
           {
@@ -181,22 +179,23 @@
   },
   "active": "d0f1a1c93ab4f2fb",
   "lastOpenFiles": [
-    "MTG/Auto cascade.md",
-    "Pasted image 20250811221943.png",
-    "MTG/Decks/Slivers.md",
-    "Pasted image 20250811220930.png",
-    "Pasted image 20250811220927.png",
-    "MTG/Decks/Iron Man B2.md",
-    "MTG/Pics/Pasted image 20250811210553.png",
     "MTG/Pics/Pasted image 20250811210310.png",
-    "MTG/Decks/Xyris Draw Buff.md",
+    "MTG/Pics/Pasted image 20250811195114.png",
+    "MTG/Pics/Pasted image 20250811210302.png",
+    "MTG/Pics/Pasted image 20250811191745.png",
+    "MTG/Pics/Pasted image 20250811183113.png",
+    "Pasted image 20250811220927.png",
+    "Pasted image 20250811220930.png",
+    "Pasted image 20250811221943.png",
     "Pasted image 20250811213233.png",
+    "MTG/Decks/Iron Man B2.md",
+    "MTG/Auto cascade.md",
+    "MTG/Decks/Slivers.md",
+    "MTG/Pics/Pasted image 20250811210553.png",
+    "MTG/Decks/Xyris Draw Buff.md",
     "MTG/Pics/Pasted image 20250811211233.png",
     "MTG/Pics",
     "MTG/Decks",
-    "MTG/Pics/Pasted image 20250811210302.png",
-    "MTG/Pics/Pasted image 20250811195114.png",
-    "MTG/Pics/Pasted image 20250811191745.png",
     "MTG/deck building/30 Years Of Magic Deck Building Knowledge in 15 minutes.md",
     "Game dev/Game jams/Godot Wild Jam.md",
     "MTG/deck building",
