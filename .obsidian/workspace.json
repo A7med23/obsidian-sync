@@ -11,12 +11,14 @@
             "id": "d0f1a1c93ab4f2fb",
             "type": "leaf",
             "state": {
-              "type": "image",
+              "type": "markdown",
               "state": {
-                "file": "MTG/Pasted image 20250811211233.png"
+                "file": "MTG/Decks/Xyris Draw Buff.md",
+                "mode": "source",
+                "source": false
               },
-              "icon": "lucide-image",
-              "title": "Pasted image 20250811211233"
+              "icon": "lucide-file",
+              "title": "Xyris Draw Buff"
             }
           }
         ]
@@ -165,17 +167,20 @@
       "obsidian-kanban:Create new board": false
     }
   },
-  "active": "44e12cf2776d343c",
+  "active": "d0f1a1c93ab4f2fb",
   "lastOpenFiles": [
-    "MTG/Iron Man B2.md",
-    "MTG/Pasted image 20250811211233.png",
-    "MTG/Pasted image 20250811210553.png",
-    "MTG/Pasted image 20250811210310.png",
-    "MTG/Pasted image 20250811210302.png",
-    "MTG/Pasted image 20250811195114.png",
-    "MTG/Pasted image 20250811191745.png",
+    "MTG/Pics/Pasted image 20250811211233.png",
+    "MTG/Decks/Xyris Draw Buff.md",
+    "MTG/Pics",
+    "MTG/Decks",
+    "MTG/Decks/Iron Man B2.md",
+    "MTG/Pics/Pasted image 20250811210553.png",
+    "MTG/Pics/Pasted image 20250811210310.png",
+    "MTG/Pics/Pasted image 20250811210302.png",
+    "MTG/Pics/Pasted image 20250811195114.png",
+    "MTG/Pics/Pasted image 20250811191745.png",
     "MTG/deck building/30 Years Of Magic Deck Building Knowledge in 15 minutes.md",
-    "MTG/Pasted image 20250811183113.png",
+    "MTG/Pics/Pasted image 20250811183113.png",
     "MTG/deck building/Pasted image 20250811183036.png",
     "MTG/deck building/Pasted image 20250811182926.png",
     "Game dev/Game jams/Godot Wild Jam.md",
@@ -208,13 +213,10 @@
     "Game dev/Ideas/Game Ideas.md",
     "Game dev/GMTK game jam",
     "Game dev/Ideas/Untitled",
-    "Game dev/Ideas",
     "Game dev/Video Notes/Untitled.canvas",
     "Game dev/test.md",
-    "Game dev/Video Notes/State Machines",
     "Game dev/Video Notes/GDscript brackeys tut/Brackey's GDScript tutorial.md",
     "Game dev/Video Notes/Making a Game from Start to Finish -Lukky.md",
-    "Game dev/Video Notes/Playing games from the inbound shovel gam jam.md",
     "Untitled.canvas"
   ]
 }
