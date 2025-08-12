@@ -4,59 +4,24 @@
     "type": "split",
     "children": [
       {
-        "id": "ecb3f130fd271f15",
+        "id": "17281d4c8067e48f",
         "type": "tabs",
         "children": [
           {
-            "id": "d0f1a1c93ab4f2fb",
+            "id": "9889ec865605e6ff",
             "type": "leaf",
             "state": {
-              "type": "image",
+              "type": "markdown",
               "state": {
-                "file": "MTG/Pics/Pasted image 20250811183036.png"
+                "file": "MTG/deck building/Interesting art.md",
+                "mode": "source",
+                "source": false
               },
-              "icon": "lucide-image",
-              "title": "Pasted image 20250811183036"
-            }
-          },
-          {
-            "id": "c54a51d8ada98edb",
-            "type": "leaf",
-            "state": {
-              "type": "image",
-              "state": {
-                "file": "MTG/Pics/Pasted image 20250811182926.png"
-              },
-              "icon": "lucide-image",
-              "title": "Pasted image 20250811182926"
-            }
-          },
-          {
-            "id": "b947be7abb618079",
-            "type": "leaf",
-            "state": {
-              "type": "image",
-              "state": {
-                "file": "MTG/Pics/Pasted image 20250811183036.png"
-              },
-              "icon": "lucide-image",
-              "title": "Pasted image 20250811183036"
-            }
-          },
-          {
-            "id": "0dbfbdd0776875fc",
-            "type": "leaf",
-            "state": {
-              "type": "image",
-              "state": {
-                "file": "MTG/Pics/Pasted image 20250811210553.png"
-              },
-              "icon": "lucide-image",
-              "title": "Pasted image 20250811210553"
+              "icon": "lucide-file",
+              "title": "Interesting art"
             }
           }
-        ],
-        "currentTab": 2
+        ]
       }
     ],
     "direction": "vertical"
@@ -202,12 +167,16 @@
       "obsidian-kanban:Create new board": false
     }
   },
-  "active": "44e12cf2776d343c",
+  "active": "9889ec865605e6ff",
   "lastOpenFiles": [
-    "MTG/Pics/Pasted image 20250813020840.png",
-    "MTG/Pics/Pasted image 20250811182926.png",
-    "MTG/Pics/Pasted image 20250811183036.png",
+    "Pasted image 20250813021737.png",
+    "Pasted image 20250813021735.png",
     "MTG/deck building/Interesting decks & Commanders.md",
+    "MTG/deck building/Interesting art.md",
+    "MTG/Pics/Pasted image 20250811183036.png",
+    "MTG/Pics/Pasted image 20250811182926.png",
+    "MTG/Pics/Pasted image 20250811210553.png",
+    "MTG/Pics/Pasted image 20250813020840.png",
     "MTG/Pics/Pasted image 20250813012400.png",
     "MTG/Auto cascade.md",
     "MTG/Interesting cards.md",
@@ -217,9 +186,6 @@
     "MTG/Decks/Xyris Draw Buff.md",
     "MTG/Decks/Slivers.md",
     "MTG/Pics/Pasted image 20250812040011.png",
-    "MTG/Pics/Pasted image 20250812035713.png",
-    "MTG/Pics/Pasted image 20250812013250.png",
-    "MTG/Pics/Pasted image 20250811213233.png",
     "MTG/Decks/Iron Man B2.md",
     "MTG/Pics",
     "MTG/Decks",
@@ -249,7 +215,6 @@
     "Game dev/GMTK game jam/game idea.md",
     "Game dev/Basics of the Basics of a Game/Assets.md",
     "Game dev/Basics of the Basics of a Game/Coding.md",
-    "Game dev/Games to play.md",
     "Game dev/GMTK game jam",
     "Game dev/Ideas/Untitled",
     "Game dev/Video Notes/Untitled.canvas",
