@@ -11,14 +11,36 @@
             "id": "d0f1a1c93ab4f2fb",
             "type": "leaf",
             "state": {
-              "type": "markdown",
+              "type": "image",
               "state": {
-                "file": "MTG/deck building/Interesting decks & Commanders.md",
-                "mode": "source",
-                "source": false
+                "file": "MTG/Pics/Pasted image 20250811183036.png"
               },
-              "icon": "lucide-file",
-              "title": "Interesting decks & Commanders"
+              "icon": "lucide-image",
+              "title": "Pasted image 20250811183036"
+            }
+          },
+          {
+            "id": "c54a51d8ada98edb",
+            "type": "leaf",
+            "state": {
+              "type": "image",
+              "state": {
+                "file": "MTG/Pics/Pasted image 20250811182926.png"
+              },
+              "icon": "lucide-image",
+              "title": "Pasted image 20250811182926"
+            }
+          },
+          {
+            "id": "b947be7abb618079",
+            "type": "leaf",
+            "state": {
+              "type": "image",
+              "state": {
+                "file": "MTG/Pics/Pasted image 20250811183036.png"
+              },
+              "icon": "lucide-image",
+              "title": "Pasted image 20250811183036"
             }
           },
           {
@@ -33,7 +55,8 @@
               "title": "Pasted image 20250811210553"
             }
           }
-        ]
+        ],
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -181,6 +204,10 @@
   },
   "active": "44e12cf2776d343c",
   "lastOpenFiles": [
+    "MTG/Pics/Pasted image 20250813020840.png",
+    "MTG/Pics/Pasted image 20250811182926.png",
+    "MTG/Pics/Pasted image 20250811183036.png",
+    "MTG/deck building/Interesting decks & Commanders.md",
     "MTG/Pics/Pasted image 20250813012400.png",
     "MTG/Auto cascade.md",
     "MTG/Interesting cards.md",
@@ -189,14 +216,10 @@
     "MTG/Pics/Pasted image 20250812043127.png",
     "MTG/Decks/Xyris Draw Buff.md",
     "MTG/Decks/Slivers.md",
-    "MTG/deck building/Interesting decks & Commanders.md",
     "MTG/Pics/Pasted image 20250812040011.png",
     "MTG/Pics/Pasted image 20250812035713.png",
     "MTG/Pics/Pasted image 20250812013250.png",
     "MTG/Pics/Pasted image 20250811213233.png",
-    "MTG/Pics/Pasted image 20250811220927.png",
-    "MTG/Pics/Pasted image 20250811220930.png",
-    "Pasted image 20250811221943.png",
     "MTG/Decks/Iron Man B2.md",
     "MTG/Pics",
     "MTG/Decks",
