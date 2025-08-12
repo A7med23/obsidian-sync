@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "MTG/Interesting cards.md",
+                "file": "MTG/deck building/Interesting decks.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Interesting cards"
+              "title": "Interesting decks"
             }
           },
           {
@@ -181,22 +181,22 @@
   },
   "active": "d0f1a1c93ab4f2fb",
   "lastOpenFiles": [
-    "Pasted image 20250812044335.png",
-    "Pasted image 20250812044329.png",
-    "Pasted image 20250812043127.png",
+    "MTG/Auto cascade.md",
+    "MTG/Interesting cards.md",
+    "MTG/Pics/Pasted image 20250812044335.png",
+    "MTG/Pics/Pasted image 20250812044329.png",
+    "MTG/Pics/Pasted image 20250812043127.png",
+    "MTG/Decks/Xyris Draw Buff.md",
+    "MTG/Decks/Slivers.md",
+    "MTG/deck building/Interesting decks.md",
     "MTG/Pics/Pasted image 20250812040011.png",
     "MTG/Pics/Pasted image 20250812035713.png",
-    "MTG/Auto cascade.md",
     "MTG/Pics/Pasted image 20250812013250.png",
     "MTG/Pics/Pasted image 20250811213233.png",
     "MTG/Pics/Pasted image 20250811220927.png",
     "MTG/Pics/Pasted image 20250811220930.png",
     "Pasted image 20250811221943.png",
-    "MTG/Interesting cards.md",
     "MTG/Decks/Iron Man B2.md",
-    "MTG/Pics/Pasted image 20250811210553.png",
-    "MTG/Decks/Slivers.md",
-    "MTG/Decks/Xyris Draw Buff.md",
     "MTG/Pics",
     "MTG/Decks",
     "MTG/deck building/30 Years Of Magic Deck Building Knowledge in 15 minutes.md",
@@ -226,7 +226,6 @@
     "Game dev/Basics of the Basics of a Game/Assets.md",
     "Game dev/Basics of the Basics of a Game/Coding.md",
     "Game dev/Games to play.md",
-    "Game dev/Ideas/Game Ideas.md",
     "Game dev/GMTK game jam",
     "Game dev/Ideas/Untitled",
     "Game dev/Video Notes/Untitled.canvas",
