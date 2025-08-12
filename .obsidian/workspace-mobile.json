@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Game dev/Basics of the Basics of a Game/Assets.md",
+                "file": "Game dev/Game Art/Tonal Range.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Assets"
+              "title": "Tonal Range"
             }
           }
         ]
@@ -157,6 +157,9 @@
   },
   "active": "a57452af18db48dc",
   "lastOpenFiles": [
+    "Game dev/Basics of the Basics of a Game/Assets.md",
+    "Game dev/Game Art/Tonal Range.md",
+    "Game dev/Game Art",
     "Game dev/Ideas/Game Ideas.md",
     "Extra/Quotes.md",
     "Extra/Photography.md",
@@ -188,8 +191,6 @@
     "Writing/pessimistic.md",
     "Writing/dear dream.md",
     "Writing/wake up.md",
-    "Trading/Notes/Notes from Misc trading.md",
-    "Trading/Notes/Notes.md",
     "League",
     "Pasted image 20240119230441.png",
     "Pasted image 20240119043554.png",
@@ -201,7 +202,6 @@
     "oracle hosting.png",
     "Trading/Notes/pics/overcoming fear of trading/Pasted image 20240107172126.png",
     "Trading/Notes/pics/overcoming fear of trading/Pasted image 20240107172629.png",
-    "Trading/Notes/pics/trades reviewed/pt.9/Pasted image 20240107010700.png",
-    "Trading/Notes/pics/trades reviewed/pt.9"
+    "Trading/Notes/pics/trades reviewed/pt.9/Pasted image 20240107010700.png"
   ]
 }
