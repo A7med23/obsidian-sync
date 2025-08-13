@@ -5,3 +5,5 @@
 3) Am I able to interact with other players? (Add more control)
 4) Do my cards interact well with eachother? (Make cuts to focus on synergies)
 5) Am I able to protect my gameplan? (Add more protection
+
+Undo inversion
