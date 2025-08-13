@@ -11,12 +11,14 @@
             "id": "9889ec865605e6ff",
             "type": "leaf",
             "state": {
-              "type": "image",
+              "type": "markdown",
               "state": {
-                "file": "MTG/Pics/Pasted image 20250813164827.png"
+                "file": "MTG/deck building/Interesting art.md",
+                "mode": "source",
+                "source": false
               },
-              "icon": "lucide-image",
-              "title": "Pasted image 20250813164827"
+              "icon": "lucide-file",
+              "title": "Interesting art"
             }
           }
         ]
@@ -165,10 +167,10 @@
       "obsidian-kanban:Create new board": false
     }
   },
-  "active": "44e12cf2776d343c",
+  "active": "9889ec865605e6ff",
   "lastOpenFiles": [
-    "MTG/deck building/Interesting decks & Commanders.md",
     "MTG/Pics/Pasted image 20250813164827.png",
+    "MTG/deck building/Interesting decks & Commanders.md",
     "MTG/Pics/Pasted image 20250813164737.png",
     "MTG/Pics/Pasted image 20250813164422.png",
     "MTG/deck building/30 Years Of Magic Deck Building Knowledge in 15 minutes.md",
