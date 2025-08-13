@@ -7,4 +7,4 @@
 5) Am I able to protect my gameplan? (Add more protection
 
 Undo inversion
-^ add this card to the deck
+^ add this card to the deck im working on rn
