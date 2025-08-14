@@ -11,12 +11,14 @@
             "id": "9889ec865605e6ff",
             "type": "leaf",
             "state": {
-              "type": "image",
+              "type": "markdown",
               "state": {
-                "file": "MTG/Pics/Pasted image 20250813200555.png"
+                "file": "MTG/deck building/Cards.md",
+                "mode": "source",
+                "source": false
               },
-              "icon": "lucide-image",
-              "title": "Pasted image 20250813200555"
+              "icon": "lucide-file",
+              "title": "Cards"
             }
           }
         ]
@@ -165,8 +167,10 @@
       "obsidian-kanban:Create new board": false
     }
   },
-  "active": "44e12cf2776d343c",
+  "active": "9889ec865605e6ff",
   "lastOpenFiles": [
+    "Pasted image 20250814151009.png",
+    "MTG/Pics/Pasted image 20250813200555.png",
     "MTG/Pics/Pasted image 20250814023237.png",
     "MTG/Pics/Pasted image 20250814023243.png",
     "MTG/Pics/Pasted image 20250814150459.png",
@@ -175,7 +179,6 @@
     "MTG/deck building/Cards.md",
     "MTG/deck building/Building me own deck tips.md",
     "MTG/deck building/Green Cards.md",
-    "MTG/Pics/Pasted image 20250813200555.png",
     "MTG/deck building/Interesting art.md",
     "MTG/Pics/Pasted image 20250813164827.png",
     "MTG/Pics/Pasted image 20250813164737.png",
