@@ -11,14 +11,12 @@
             "id": "9889ec865605e6ff",
             "type": "leaf",
             "state": {
-              "type": "markdown",
+              "type": "image",
               "state": {
-                "file": "MTG/deck building/Cards.md",
-                "mode": "source",
-                "source": false
+                "file": "MTG/Pics/Pasted image 20250813200555.png"
               },
-              "icon": "lucide-file",
-              "title": "Cards"
+              "icon": "lucide-image",
+              "title": "Pasted image 20250813200555"
             }
           }
         ]
@@ -167,25 +165,24 @@
       "obsidian-kanban:Create new board": false
     }
   },
-  "active": "9889ec865605e6ff",
+  "active": "44e12cf2776d343c",
   "lastOpenFiles": [
-    "Pasted image 20250814023243.png",
-    "Pasted image 20250814023237.png",
+    "MTG/Pics/Pasted image 20250814023237.png",
+    "MTG/Pics/Pasted image 20250814023243.png",
+    "MTG/Pics/Pasted image 20250814150459.png",
+    "MTG/deck building/Interesting decks & Commanders.md",
+    "MTG/deck building/30 Years Of Magic Deck Building Knowledge in 15 minutes.md",
+    "MTG/deck building/Cards.md",
     "MTG/deck building/Building me own deck tips.md",
     "MTG/deck building/Green Cards.md",
-    "Pasted image 20250813200555.png",
-    "MTG/deck building/Interesting decks & Commanders.md",
+    "MTG/Pics/Pasted image 20250813200555.png",
     "MTG/deck building/Interesting art.md",
-    "MTG/deck building/30 Years Of Magic Deck Building Knowledge in 15 minutes.md",
     "MTG/Pics/Pasted image 20250813164827.png",
     "MTG/Pics/Pasted image 20250813164737.png",
     "MTG/Pics/Pasted image 20250813164422.png",
     "MTG/Pics/Pasted image 20250813164301.png",
-    "MTG/deck building/Cards.md",
     "MTG/Pics/Pasted image 20250813164053.png",
     "MTG/Pics/Pasted image 20250813042912.png",
-    "MTG/Pics/Pasted image 20250813021737.png",
-    "MTG/Pics/Pasted image 20250813021735.png",
     "MTG/Auto cascade.md",
     "MTG/Interesting cards.md",
     "MTG/Decks/Xyris Draw Buff.md",
