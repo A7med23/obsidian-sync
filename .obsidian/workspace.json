@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "MTG/deck building/Cards.md",
+                "file": "MTG/Decks/Karametra deck.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Cards"
+              "title": "Karametra deck"
             }
           }
         ]
@@ -169,13 +169,14 @@
   },
   "active": "9889ec865605e6ff",
   "lastOpenFiles": [
-    "Pasted image 20250814193852.png",
-    "MTG/deck building/Green Cards.md",
+    "MTG/Pics/Pasted image 20250814151009.png",
+    "MTG/Pics/Pasted image 20250814191853.png",
+    "MTG/Pics/Pasted image 20250814193326.png",
+    "MTG/Pics/Pasted image 20250814193852.png",
+    "MTG/Decks/Karametra deck.md",
     "MTG/deck building/Cards.md",
-    "Pasted image 20250814193326.png",
-    "Pasted image 20250814191853.png",
-    "Pasted image 20250814180107.png",
-    "Pasted image 20250814151009.png",
+    "MTG/deck building/Green Cards.md",
+    "MTG/Pics/Pasted image 20250814180107.png",
     "MTG/Pics/Pasted image 20250813200555.png",
     "MTG/Pics/Pasted image 20250814023237.png",
     "MTG/Pics/Pasted image 20250814023243.png",
@@ -185,7 +186,6 @@
     "MTG/deck building/Building me own deck tips.md",
     "MTG/deck building/Interesting art.md",
     "MTG/Pics/Pasted image 20250813164827.png",
-    "MTG/Pics/Pasted image 20250813164737.png",
     "MTG/Auto cascade.md",
     "MTG/Interesting cards.md",
     "MTG/Decks/Xyris Draw Buff.md",
@@ -214,7 +214,6 @@
     "Game dev/GMTK game jam/Untitled.md",
     "Game dev/GMTK game jam/Todo.md",
     "Game dev/GMTK game jam/Untitled.canvas",
-    "Game dev/GMTK game jam/Todos.md",
     "Game dev/GMTK game jam",
     "Game dev/Ideas/Untitled",
     "Game dev/Video Notes/Untitled.canvas",
