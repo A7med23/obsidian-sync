@@ -1,5 +1,7 @@
 # Questions
 
 # Game Insights
-tt
+
+# Cards
+![[Pasted image 20250816021251.png]]
 
