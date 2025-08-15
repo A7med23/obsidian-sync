@@ -8,16 +8,35 @@
         "type": "tabs",
         "children": [
           {
-            "id": "4d57489230994491",
+            "id": "ceb043cc93c286b0",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {},
+              "type": "markdown",
+              "state": {
+                "file": "MTG/Decks/Iron Man B2.md",
+                "mode": "source",
+                "source": false
+              },
               "icon": "lucide-file",
-              "title": "New tab"
+              "title": "Iron Man B2"
+            }
+          },
+          {
+            "id": "6099bfd7d53b420f",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "MTG/deck building/Green Cards.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Green Cards"
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -163,10 +182,10 @@
       "obsidian-kanban:Create new board": false
     }
   },
-  "active": "4d57489230994491",
+  "active": "6099bfd7d53b420f",
   "lastOpenFiles": [
-    "MTG/Decks/Karametra deck.md",
     "MTG/Decks/Iron Man B2.md",
+    "MTG/Decks/Karametra deck.md",
     "MTG/Decks/Xyris Draw Buff.md",
     "MTG/deck building/30 Years Of Magic Deck Building Knowledge in 15 minutes.md",
     "MTG/deck building/Building me own deck tips.md",
