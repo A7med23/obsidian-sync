@@ -20,37 +20,8 @@
               "icon": "lucide-file",
               "title": "Karametra deck"
             }
-          },
-          {
-            "id": "d6972368146ebbf0",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "MTG/Decks/Karametra deck.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "Karametra deck"
-            }
-          },
-          {
-            "id": "6c446399091c9e06",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "MTG/Decks/Iron Man B2.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "Iron Man B2"
-            }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -123,7 +94,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "MTG/Decks/Karametra deck.md",
+                "file": "MTG/Pics/Pasted image 20250813042912.png",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -133,7 +104,7 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "Backlinks for Karametra deck"
+              "title": "Backlinks for Pasted image 20250813042912"
             }
           },
           {
@@ -142,12 +113,12 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "MTG/Decks/Karametra deck.md",
+                "file": "MTG/Pics/Pasted image 20250813042912.png",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               },
               "icon": "links-going-out",
-              "title": "Outgoing links from Karametra deck"
+              "title": "Outgoing links from Pasted image 20250813042912"
             }
           },
           {
@@ -171,13 +142,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "MTG/Decks/Karametra deck.md",
+                "file": "MTG/Pics/Pasted image 20250813042912.png",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Outline of Karametra deck"
+              "title": "Outline of Pasted image 20250813042912"
             }
           }
         ]
@@ -199,14 +170,14 @@
       "obsidian-kanban:Create new board": false
     }
   },
-  "active": "d6972368146ebbf0",
+  "active": "b5a23aaeba01dea6",
   "lastOpenFiles": [
-    "MTG/Decks/Iron Man B2.md",
     "MTG/Decks/Karametra deck.md",
+    "MTG/Decks/Iron Man B2.md",
     "conflict-files-obsidian-git.md",
-    "Pasted image 20250813042912.png",
-    "Pasted image 20250813021737.png",
-    "Pasted image 20250813021735.png",
+    "MTG/Pics/Pasted image 20250813042912.png",
+    "MTG/Pics/Pasted image 20250813021737.png",
+    "MTG/Pics/Pasted image 20250813021735.png",
     "MTG/deck building/Interesting art.md",
     "MTG/deck building/Green Cards.md"
   ]
