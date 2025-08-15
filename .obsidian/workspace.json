@@ -8,17 +8,13 @@
         "type": "tabs",
         "children": [
           {
-            "id": "70a9587bbdb8dc78",
+            "id": "4d57489230994491",
             "type": "leaf",
             "state": {
-              "type": "markdown",
-              "state": {
-                "file": "MTG/Decks/Karametra deck.md",
-                "mode": "source",
-                "source": false
-              },
+              "type": "empty",
+              "state": {},
               "icon": "lucide-file",
-              "title": "Karametra deck"
+              "title": "New tab"
             }
           }
         ]
@@ -167,8 +163,9 @@
       "obsidian-kanban:Create new board": false
     }
   },
-  "active": "70a9587bbdb8dc78",
+  "active": "4d57489230994491",
   "lastOpenFiles": [
+    "MTG/Decks/Karametra deck.md",
     "MTG/Decks/Iron Man B2.md",
     "MTG/Decks/Xyris Draw Buff.md",
     "MTG/deck building/30 Years Of Magic Deck Building Knowledge in 15 minutes.md",
@@ -177,7 +174,6 @@
     "MTG/deck building/Interesting art.md",
     "MTG/deck building/Interesting decks & Commanders.md",
     "conflict-files-obsidian-git.md",
-    "MTG/Decks/Karametra deck.md",
     "MTG/Pics/Pasted image 20250814151009.png",
     "MTG/Pics/Pasted image 20250814191853.png",
     "MTG/Pics/Pasted image 20250814193326.png",
