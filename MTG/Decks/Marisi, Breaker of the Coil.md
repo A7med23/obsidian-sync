@@ -3,7 +3,7 @@
 
 - Card draw
 - Ramp
-- have trample/unblockable
+- have trample/menace/unblockable
 - goad others (watch the world burn)
 # Interesting Cards
 
