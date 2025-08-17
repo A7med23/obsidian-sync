@@ -23,3 +23,5 @@
 
 ![[Pasted image 20250817035706.png]]
 
+![[Pasted image 20250817040504.png]]
+
