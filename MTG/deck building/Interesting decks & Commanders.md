@@ -17,4 +17,6 @@ https://www.youtube.com/watch?v=RAvXi-Qhfmg
 
 ![[Pasted image 20250817155557.png]]
 
+![[Pasted image 20250819003838.png]]
+
 ![[Pasted image 20250818042704.png]]
